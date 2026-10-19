@@ -33,3 +33,17 @@ See the [baseline report](docs/hr_baseline_interpolation_2026-10-16.md) for
 validation results and limitations, and the
 [comparison figure](docs/images/hr_baseline_interpolation_2026-10-16.png).
 The one-second output contains estimates, not additional measured HR samples.
+
+## Wellness anchor diagnostic
+
+The [October 12 diagnostic](docs/watch_anchor_diagnostic_2026-10-12.md)
+compares FR265 wellness anchors with MyWhoosh's Bluetooth recording from the
+same optical HR sensor. It tests averaging windows and modest time offsets,
+with chronological candidate selection and held-out evaluation. This is a
+diagnostic of recording paths, not a new reconstruction.
+
+```powershell
+.\.venv\Scripts\python.exe scripts/diagnose_watch_anchors.py
+```
+
+![Wellness anchors, MyWhoosh HR and averaging-window diagnostics](docs/images/watch_anchor_diagnostic_2026-10-12.png)

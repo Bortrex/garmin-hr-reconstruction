@@ -1,0 +1,61 @@
+{
+  "all_watch_n": 1222,
+  "ride_watch_n": 74,
+  "ride_spacing": {
+    "60.0": 62,
+    "120.0": 10,
+    "180.0": 1
+  },
+  "all_watch_spacing": {
+    "60.0": 1057,
+    "120.0": 129,
+    "180.0": 24,
+    "240.0": 6,
+    "300.0": 4,
+    "480.0": 1
+  },
+  "reference_n": 5115,
+  "reference_spacing": {
+    "1.0": 5114
+  },
+  "reference_unchanged_fraction": 0.7012123582323034,
+  "reference_longest_equal_run": 49,
+  "start": "2026-10-12T16:27:52+02:00",
+  "end": "2026-10-12T17:53:06+02:00",
+  "split": "2026-10-12T17:19:00.400000+02:00",
+  "train_n": 40,
+  "held_n": 22,
+  "selected": "centered_60_shift_-5",
+  "selected_spec": [
+    "centered",
+    60,
+    -5
+  ],
+  "best_unshifted_average": "centered_60",
+  "cleaning": [
+    0,
+    0
+  ],
+  "reference_cleaning": [
+    0,
+    0
+  ],
+  "high_threshold": 153.0,
+  "detail_start": "2026-10-12T16:27:52+02:00",
+  "mtb_same_time": {
+    "n": 21,
+    "mae": 13.904761904761905,
+    "rmse": 18.444253202297897,
+    "bias": -2.2857142857142856,
+    "correlation": 0.4125085825170581,
+    "max_abs_error": 44.0
+  },
+  "mtb_zero_offset_shape": {
+    "n": 21,
+    "mae": 13.105555555555558,
+    "rmse": 17.9478503082634,
+    "bias": -2.4801587301587307,
+    "correlation": 0.4218511300416852,
+    "max_abs_error": 43.849999999999994
+  }
+}

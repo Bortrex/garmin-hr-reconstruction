@@ -1,0 +1,4032 @@
+{
+  "wellness_metadata": {
+    "492669041537_METRICS.fit": {
+      "file_id_mesgs": [
+        {
+          "serial_number": 3618688805,
+          "time_created": "2026-10-11 22:03:53+00:00",
+          "manufacturer": "garmin",
+          "product": 4257,
+          "number": 2327,
+          "type": 44,
+          "garmin_product": "fr265_large"
+        }
+      ],
+      "device_info_mesgs": [
+        {
+          "timestamp": "2026-10-11 22:03:53+00:00",
+          "serial_number": 3618688805,
+          "product": 4257,
+          "software_version": 29.05
+        }
+      ],
+      "monitoring_hr_data_mesgs": [],
+      "timestamp_correlation_mesgs": [],
+      "ohr_settings_mesgs": []
+    },
+    "492669053293_METRICS.fit": {
+      "file_id_mesgs": [
+        {
+          "serial_number": 3618688805,
+          "time_created": "2026-10-11 22:04:53+00:00",
+          "manufacturer": "garmin",
+          "product": 4257,
+          "number": 2328,
+          "type": 44,
+          "garmin_product": "fr265_large"
+        }
+      ],
+      "device_info_mesgs": [
+        {
+          "timestamp": "2026-10-11 22:04:53+00:00",
+          "serial_number": 3618688805,
+          "product": 4257,
+          "software_version": 29.05
+        }
+      ],
+      "monitoring_hr_data_mesgs": [],
+      "timestamp_correlation_mesgs": [],
+      "ohr_settings_mesgs": []
+    },
+    "492669066122_WELLNESS.fit": {
+      "file_id_mesgs": [
+        {
+          "serial_number": 3618688805,
+          "time_created": "2026-10-11 22:00:00+00:00",
+          "manufacturer": "garmin",
+          "product": 4257,
+          "number": 41,
+          "type": "monitoring_b",
+          "garmin_product": "fr265_large"
+        }
+      ],
+      "device_info_mesgs": [
+        {
+          "timestamp": "2026-10-11 22:00:00+00:00",
+          "serial_number": 3618688805,
+          "manufacturer": "garmin",
+          "product": 4257,
+          "software_version": 29.05,
+          "garmin_product": "fr265_large"
+        }
+      ],
+      "monitoring_hr_data_mesgs": [
+        {
+          "timestamp": "2026-10-11 23:07:00+00:00",
+          "resting_heart_rate": 54,
+          "current_day_resting_heart_rate": 57
+        }
+      ],
+      "timestamp_correlation_mesgs": [],
+      "ohr_settings_mesgs": [
+        {
+          "timestamp": "2026-10-11 22:00:00+00:00",
+          "enabled": "on"
+        },
+        {
+          "timestamp": "2026-10-11 23:07:00+00:00",
+          "enabled": "on"
+        }
+      ]
+    },
+    "492798526168_HRV_STATUS.fit": {
+      "file_id_mesgs": [
+        {
+          "serial_number": 3618688805,
+          "time_created": "2026-10-12 06:37:26+00:00",
+          "manufacturer": "garmin",
+          "product": 4257,
+          "type": 68,
+          "garmin_product": "fr265_large"
+        }
+      ],
+      "device_info_mesgs": [
+        {
+          "timestamp": "2026-10-11 23:56:11+00:00",
+          "serial_number": 3618688805,
+          "manufacturer": "garmin",
+          "product": 4257,
+          "software_version": 29.05,
+          "device_index": "creator",
+          "source_type": "local",
+          "garmin_product": "fr265_large"
+        },
+        {
+          "timestamp": "2026-10-11 23:56:11+00:00",
+          "device_index": 1,
+          "device_type": 10,
+          "source_type": "local",
+          "local_device_type": "whr"
+        }
+      ],
+      "monitoring_hr_data_mesgs": [],
+      "timestamp_correlation_mesgs": [
+        {
+          "timestamp": "2026-10-11 23:56:11+00:00",
+          "system_timestamp": "2015-09-06 02:02:56+00:00",
+          "local_timestamp": 1160704571
+        },
+        {
+          "timestamp": "2026-10-12 06:14:52+00:00",
+          "system_timestamp": "2026-10-12 01:56:11+00:00",
+          "local_timestamp": 1160727292
+        }
+      ],
+      "ohr_settings_mesgs": []
+    },
+    "492798549276_METRICS.fit": {
+      "file_id_mesgs": [
+        {
+          "serial_number": 3618688805,
+          "time_created": "2026-10-12 06:37:26+00:00",
+          "manufacturer": "garmin",
+          "product": 4257,
+          "number": 2329,
+          "type": 44,
+          "garmin_product": "fr265_large"
+        }
+      ],
+      "device_info_mesgs": [
+        {
+          "timestamp": "2026-10-12 06:37:26+00:00",
+          "serial_number": 3618688805,
+          "product": 4257,
+          "software_version": 29.05
+        }
+      ],
+      "monitoring_hr_data_mesgs": [],
+      "timestamp_correlation_mesgs": [],
+      "ohr_settings_mesgs": []
+    },
+    "492798567774_SLEEP_DATA.fit": {
+      "file_id_mesgs": [
+        {
+          "serial_number": 3618688805,
+          "time_created": "2026-10-12 06:37:28+00:00",
+          "manufacturer": "garmin",
+          "product": 4257,
+          "type": 49,
+          "garmin_product": "fr265_large"
+        }
+      ],
+      "device_info_mesgs": [
+        {
+          "timestamp": "2026-10-12 06:37:28+00:00",
+          "serial_number": 3618688805,
+          "manufacturer": "garmin",
+          "product": 4257,
+          "software_version": 29.05,
+          "garmin_product": "fr265_large"
+        }
+      ],
+      "monitoring_hr_data_mesgs": [],
+      "timestamp_correlation_mesgs": [],
+      "ohr_settings_mesgs": []
+    },
+    "492798591232_WELLNESS.fit": {
+      "file_id_mesgs": [
+        {
+          "serial_number": 3618688805,
+          "time_created": "2026-10-11 23:07:00+00:00",
+          "manufacturer": "garmin",
+          "product": 4257,
+          "number": 42,
+          "type": "monitoring_b",
+          "garmin_product": "fr265_large"
+        }
+      ],
+      "device_info_mesgs": [
+        {
+          "timestamp": "2026-10-11 23:07:00+00:00",
+          "serial_number": 3618688805,
+          "manufacturer": "garmin",
+          "product": 4257,
+          "software_version": 29.05,
+          "garmin_product": "fr265_large"
+        }
+      ],
+      "monitoring_hr_data_mesgs": [
+        {
+          "timestamp": "2026-10-11 23:07:00+00:00",
+          "resting_heart_rate": 54,
+          "current_day_resting_heart_rate": 57
+        },
+        {
+          "timestamp": "2026-10-12 06:37:00+00:00",
+          "resting_heart_rate": 53,
+          "current_day_resting_heart_rate": 54
+        }
+      ],
+      "timestamp_correlation_mesgs": [],
+      "ohr_settings_mesgs": [
+        {
+          "timestamp": "2026-10-11 23:07:00+00:00",
+          "enabled": "on"
+        },
+        {
+          "timestamp": "2026-10-12 06:37:00+00:00",
+          "enabled": "on"
+        }
+      ]
+    },
+    "492798601718_SLEEP_DISRUPTIONS.fit": {
+      "file_id_mesgs": [
+        {
+          "serial_number": 3618688805,
+          "time_created": "2026-10-12 06:37:36+00:00",
+          "manufacturer": "garmin",
+          "product": 4257,
+          "type": 79,
+          "garmin_product": "fr265_large"
+        }
+      ],
+      "device_info_mesgs": [
+        {
+          "timestamp": "2026-10-12 06:37:36+00:00",
+          "serial_number": 3618688805,
+          "manufacturer": "garmin",
+          "product": 4257,
+          "software_version": 29.05,
+          "garmin_product": "fr265_large"
+        }
+      ],
+      "monitoring_hr_data_mesgs": [],
+      "timestamp_correlation_mesgs": [
+        {
+          "timestamp": "2026-10-12 06:37:36+00:00",
+          "system_timestamp": "1989-12-31 00:00:00+00:00",
+          "local_timestamp": 1160728656
+        }
+      ],
+      "ohr_settings_mesgs": []
+    },
+    "492800154661_WELLNESS.fit": {
+      "file_id_mesgs": [
+        {
+          "serial_number": 3618688805,
+          "time_created": "2026-10-12 06:37:00+00:00",
+          "manufacturer": "garmin",
+          "product": 4257,
+          "number": 43,
+          "type": "monitoring_b",
+          "garmin_product": "fr265_large"
+        }
+      ],
+      "device_info_mesgs": [
+        {
+          "timestamp": "2026-10-12 06:37:00+00:00",
+          "serial_number": 3618688805,
+          "manufacturer": "garmin",
+          "product": 4257,
+          "software_version": 29.05,
+          "garmin_product": "fr265_large"
+        }
+      ],
+      "monitoring_hr_data_mesgs": [
+        {
+          "timestamp": "2026-10-12 06:37:00+00:00",
+          "resting_heart_rate": 53,
+          "current_day_resting_heart_rate": 54
+        },
+        {
+          "timestamp": "2026-10-12 06:42:00+00:00",
+          "resting_heart_rate": 53,
+          "current_day_resting_heart_rate": 54
+        }
+      ],
+      "timestamp_correlation_mesgs": [],
+      "ohr_settings_mesgs": [
+        {
+          "timestamp": "2026-10-12 06:37:00+00:00",
+          "enabled": "on"
+        },
+        {
+          "timestamp": "2026-10-12 06:42:00+00:00",
+          "enabled": "on"
+        }
+      ]
+    },
+    "492805745989_WELLNESS.fit": {
+      "file_id_mesgs": [
+        {
+          "serial_number": 3618688805,
+          "time_created": "2026-10-12 06:42:00+00:00",
+          "manufacturer": "garmin",
+          "product": 4257,
+          "number": 44,
+          "type": "monitoring_b",
+          "garmin_product": "fr265_large"
+        }
+      ],
+      "device_info_mesgs": [
+        {
+          "timestamp": "2026-10-12 06:42:00+00:00",
+          "serial_number": 3618688805,
+          "manufacturer": "garmin",
+          "product": 4257,
+          "software_version": 29.05,
+          "garmin_product": "fr265_large"
+        }
+      ],
+      "monitoring_hr_data_mesgs": [
+        {
+          "timestamp": "2026-10-12 06:42:00+00:00",
+          "resting_heart_rate": 53,
+          "current_day_resting_heart_rate": 54
+        },
+        {
+          "timestamp": "2026-10-12 07:00:00+00:00",
+          "resting_heart_rate": 53,
+          "current_day_resting_heart_rate": 54
+        }
+      ],
+      "timestamp_correlation_mesgs": [],
+      "ohr_settings_mesgs": [
+        {
+          "timestamp": "2026-10-12 06:42:00+00:00",
+          "enabled": "on"
+        },
+        {
+          "timestamp": "2026-10-12 07:00:00+00:00",
+          "enabled": "on"
+        }
+      ]
+    },
+    "492835960623_WELLNESS.fit": {
+      "file_id_mesgs": [
+        {
+          "serial_number": 3618688805,
+          "time_created": "2026-10-12 07:00:00+00:00",
+          "manufacturer": "garmin",
+          "product": 4257,
+          "number": 45,
+          "type": "monitoring_b",
+          "garmin_product": "fr265_large"
+        }
+      ],
+      "device_info_mesgs": [
+        {
+          "timestamp": "2026-10-12 07:00:00+00:00",
+          "serial_number": 3618688805,
+          "manufacturer": "garmin",
+          "product": 4257,
+          "software_version": 29.05,
+          "garmin_product": "fr265_large"
+        }
+      ],
+      "monitoring_hr_data_mesgs": [
+        {
+          "timestamp": "2026-10-12 07:00:00+00:00",
+          "resting_heart_rate": 53,
+          "current_day_resting_heart_rate": 54
+        },
+        {
+          "timestamp": "2026-10-12 08:59:00+00:00",
+          "resting_heart_rate": 53,
+          "current_day_resting_heart_rate": 54
+        }
+      ],
+      "timestamp_correlation_mesgs": [],
+      "ohr_settings_mesgs": [
+        {
+          "timestamp": "2026-10-12 07:00:00+00:00",
+          "enabled": "on"
+        },
+        {
+          "timestamp": "2026-10-12 08:59:00+00:00",
+          "enabled": "on"
+        }
+      ]
+    },
+    "492879523483_WELLNESS.fit": {
+      "file_id_mesgs": [
+        {
+          "serial_number": 3618688805,
+          "time_created": "2026-10-12 08:59:00+00:00",
+          "manufacturer": "garmin",
+          "product": 4257,
+          "number": 46,
+          "type": "monitoring_b",
+          "garmin_product": "fr265_large"
+        }
+      ],
+      "device_info_mesgs": [
+        {
+          "timestamp": "2026-10-12 08:59:00+00:00",
+          "serial_number": 3618688805,
+          "manufacturer": "garmin",
+          "product": 4257,
+          "software_version": 29.05,
+          "garmin_product": "fr265_large"
+        }
+      ],
+      "monitoring_hr_data_mesgs": [
+        {
+          "timestamp": "2026-10-12 08:59:00+00:00",
+          "resting_heart_rate": 53,
+          "current_day_resting_heart_rate": 54
+        },
+        {
+          "timestamp": "2026-10-12 11:55:00+00:00",
+          "resting_heart_rate": 53,
+          "current_day_resting_heart_rate": 54
+        }
+      ],
+      "timestamp_correlation_mesgs": [],
+      "ohr_settings_mesgs": [
+        {
+          "timestamp": "2026-10-12 08:59:00+00:00",
+          "enabled": "on"
+        },
+        {
+          "timestamp": "2026-10-12 11:55:00+00:00",
+          "enabled": "on"
+        }
+      ]
+    },
+    "492935067524_METRICS.fit": {
+      "file_id_mesgs": [
+        {
+          "serial_number": 3618688805,
+          "time_created": "2026-10-12 14:58:40+00:00",
+          "manufacturer": "garmin",
+          "product": 4257,
+          "number": 2330,
+          "type": 44,
+          "garmin_product": "fr265_large"
+        }
+      ],
+      "device_info_mesgs": [
+        {
+          "timestamp": "2026-10-12 14:58:40+00:00",
+          "serial_number": 3618688805,
+          "product": 4257,
+          "software_version": 29.05
+        }
+      ],
+      "monitoring_hr_data_mesgs": [],
+      "timestamp_correlation_mesgs": [],
+      "ohr_settings_mesgs": []
+    },
+    "492941971179_METRICS.fit": {
+      "file_id_mesgs": [
+        {
+          "serial_number": 3618688805,
+          "time_created": "2026-10-12 15:25:46+00:00",
+          "manufacturer": "garmin",
+          "product": 4257,
+          "number": 2331,
+          "type": 44,
+          "garmin_product": "fr265_large"
+        }
+      ],
+      "device_info_mesgs": [
+        {
+          "timestamp": "2026-10-12 15:25:46+00:00",
+          "serial_number": 3618688805,
+          "product": 4257,
+          "software_version": 29.05
+        }
+      ],
+      "monitoring_hr_data_mesgs": [],
+      "timestamp_correlation_mesgs": [],
+      "ohr_settings_mesgs": []
+    },
+    "492952012911_WELLNESS.fit": {
+      "file_id_mesgs": [
+        {
+          "serial_number": 3618688805,
+          "time_created": "2026-10-12 11:55:00+00:00",
+          "manufacturer": "garmin",
+          "product": 4257,
+          "number": 47,
+          "type": "monitoring_b",
+          "garmin_product": "fr265_large"
+        }
+      ],
+      "device_info_mesgs": [
+        {
+          "timestamp": "2026-10-12 11:55:00+00:00",
+          "serial_number": 3618688805,
+          "manufacturer": "garmin",
+          "product": 4257,
+          "software_version": 29.05,
+          "garmin_product": "fr265_large"
+        }
+      ],
+      "monitoring_hr_data_mesgs": [
+        {
+          "timestamp": "2026-10-12 11:55:00+00:00",
+          "resting_heart_rate": 53,
+          "current_day_resting_heart_rate": 54
+        },
+        {
+          "timestamp": "2026-10-12 16:28:00+00:00",
+          "resting_heart_rate": 53,
+          "current_day_resting_heart_rate": 54
+        }
+      ],
+      "timestamp_correlation_mesgs": [],
+      "ohr_settings_mesgs": [
+        {
+          "timestamp": "2026-10-12 11:55:00+00:00",
+          "enabled": "on"
+        },
+        {
+          "timestamp": "2026-10-12 16:28:00+00:00",
+          "enabled": "on"
+        }
+      ]
+    },
+    "492952066999_METRICS.fit": {
+      "file_id_mesgs": [
+        {
+          "serial_number": 3618688805,
+          "time_created": "2026-10-12 16:29:07+00:00",
+          "manufacturer": "garmin",
+          "product": 4257,
+          "number": 2332,
+          "type": 44,
+          "garmin_product": "fr265_large"
+        }
+      ],
+      "device_info_mesgs": [
+        {
+          "timestamp": "2026-10-12 16:29:07+00:00",
+          "serial_number": 3618688805,
+          "product": 4257,
+          "software_version": 29.05
+        }
+      ],
+      "monitoring_hr_data_mesgs": [],
+      "timestamp_correlation_mesgs": [],
+      "ohr_settings_mesgs": []
+    },
+    "492952288357_METRICS.fit": {
+      "file_id_mesgs": [
+        {
+          "serial_number": 3618688805,
+          "time_created": "2026-10-12 16:29:41+00:00",
+          "manufacturer": "garmin",
+          "product": 4257,
+          "number": 2333,
+          "type": 44,
+          "garmin_product": "fr265_large"
+        }
+      ],
+      "device_info_mesgs": [
+        {
+          "timestamp": "2026-10-12 16:29:40+00:00",
+          "serial_number": 3618688805,
+          "product": 4257,
+          "software_version": 29.05
+        }
+      ],
+      "monitoring_hr_data_mesgs": [],
+      "timestamp_correlation_mesgs": [],
+      "ohr_settings_mesgs": []
+    },
+    "492952298625_METRICS.fit": {
+      "file_id_mesgs": [
+        {
+          "serial_number": 3618688805,
+          "time_created": "2026-10-12 16:29:41+00:00",
+          "manufacturer": "garmin",
+          "product": 4257,
+          "number": 2334,
+          "type": 44,
+          "garmin_product": "fr265_large"
+        }
+      ],
+      "device_info_mesgs": [
+        {
+          "timestamp": "2026-10-12 16:29:41+00:00",
+          "serial_number": 3618688805,
+          "product": 4257,
+          "software_version": 29.05
+        }
+      ],
+      "monitoring_hr_data_mesgs": [],
+      "timestamp_correlation_mesgs": [],
+      "ohr_settings_mesgs": []
+    },
+    "492973338267_WELLNESS.fit": {
+      "file_id_mesgs": [
+        {
+          "serial_number": 3618688805,
+          "time_created": "2026-10-12 16:28:00+00:00",
+          "manufacturer": "garmin",
+          "product": 4257,
+          "number": 48,
+          "type": "monitoring_b",
+          "garmin_product": "fr265_large"
+        }
+      ],
+      "device_info_mesgs": [
+        {
+          "timestamp": "2026-10-12 16:28:00+00:00",
+          "serial_number": 3618688805,
+          "manufacturer": "garmin",
+          "product": 4257,
+          "software_version": 29.05,
+          "garmin_product": "fr265_large"
+        }
+      ],
+      "monitoring_hr_data_mesgs": [
+        {
+          "timestamp": "2026-10-12 16:28:00+00:00",
+          "resting_heart_rate": 53,
+          "current_day_resting_heart_rate": 54
+        },
+        {
+          "timestamp": "2026-10-12 17:49:00+00:00",
+          "resting_heart_rate": 53,
+          "current_day_resting_heart_rate": 54
+        }
+      ],
+      "timestamp_correlation_mesgs": [],
+      "ohr_settings_mesgs": [
+        {
+          "timestamp": "2026-10-12 16:28:00+00:00",
+          "enabled": "on"
+        },
+        {
+          "timestamp": "2026-10-12 17:49:00+00:00",
+          "enabled": "on"
+        }
+      ]
+    },
+    "493049062189_WELLNESS.fit": {
+      "file_id_mesgs": [
+        {
+          "serial_number": 3618688805,
+          "time_created": "2026-10-12 17:49:00+00:00",
+          "manufacturer": "garmin",
+          "product": 4257,
+          "number": 49,
+          "type": "monitoring_b",
+          "garmin_product": "fr265_large"
+        }
+      ],
+      "device_info_mesgs": [
+        {
+          "timestamp": "2026-10-12 17:49:00+00:00",
+          "serial_number": 3618688805,
+          "manufacturer": "garmin",
+          "product": 4257,
+          "software_version": 29.05,
+          "garmin_product": "fr265_large"
+        }
+      ],
+      "monitoring_hr_data_mesgs": [
+        {
+          "timestamp": "2026-10-12 17:49:00+00:00",
+          "resting_heart_rate": 53,
+          "current_day_resting_heart_rate": 54
+        },
+        {
+          "timestamp": "2026-10-12 22:00:00+00:00",
+          "resting_heart_rate": 53,
+          "current_day_resting_heart_rate": 54
+        }
+      ],
+      "timestamp_correlation_mesgs": [],
+      "ohr_settings_mesgs": [
+        {
+          "timestamp": "2026-10-12 17:49:00+00:00",
+          "enabled": "on"
+        }
+      ]
+    },
+    "494451340557_WELLNESS.fit": {
+      "file_id_mesgs": [
+        {
+          "serial_number": 3469588999,
+          "time_created": "2026-10-12 08:11:00+00:00",
+          "manufacturer": "garmin",
+          "product": 4062,
+          "number": 216,
+          "type": "monitoring_b",
+          "garmin_product": "edge_840"
+        }
+      ],
+      "device_info_mesgs": [
+        {
+          "timestamp": "2026-10-12 08:11:00+00:00",
+          "serial_number": 3469588999,
+          "manufacturer": "garmin",
+          "product": 4062,
+          "software_version": 31.33,
+          "garmin_product": "edge_840"
+        }
+      ],
+      "monitoring_hr_data_mesgs": [],
+      "timestamp_correlation_mesgs": [],
+      "ohr_settings_mesgs": [
+        {
+          "timestamp": "2026-10-12 08:11:00+00:00",
+          "enabled": "off"
+        }
+      ]
+    }
+  },
+  "wellness_events": [
+    {
+      "source_file": "492669066122_WELLNESS.fit",
+      "timestamp": "2026-10-11 22:00:00+00:00",
+      "data16": 300,
+      "event": 78,
+      "event_type": "marker",
+      "data": 300
+    },
+    {
+      "source_file": "492669066122_WELLNESS.fit",
+      "timestamp": "2026-10-11 22:16:00+00:00",
+      "start_timestamp": "2026-10-11 21:41:00+00:00",
+      "data16": 20,
+      "event": "auto_activity_detect",
+      "event_type": "marker",
+      "activity_type": "sedentary",
+      "auto_activity_detect_start_timestamp": "2026-10-11 21:41:00+00:00",
+      "data": 20
+    },
+    {
+      "source_file": "492669066122_WELLNESS.fit",
+      "timestamp": "2026-10-11 22:17:00+00:00",
+      "start_timestamp": "2026-10-11 22:01:00+00:00",
+      "data16": 1,
+      "event": "auto_activity_detect",
+      "event_type": "marker",
+      "activity_type": "generic",
+      "auto_activity_detect_start_timestamp": "2026-10-11 22:01:00+00:00",
+      "data": 1
+    },
+    {
+      "source_file": "492669066122_WELLNESS.fit",
+      "timestamp": "2026-10-11 22:22:00+00:00",
+      "start_timestamp": "2026-10-11 22:02:00+00:00",
+      "data16": 5,
+      "event": "auto_activity_detect",
+      "event_type": "marker",
+      "activity_type": "sedentary",
+      "auto_activity_detect_start_timestamp": "2026-10-11 22:02:00+00:00",
+      "data": 5
+    },
+    {
+      "source_file": "492669066122_WELLNESS.fit",
+      "timestamp": "2026-10-11 22:24:00+00:00",
+      "start_timestamp": "2026-10-11 22:07:00+00:00",
+      "data16": 2,
+      "event": "auto_activity_detect",
+      "event_type": "marker",
+      "activity_type": "generic",
+      "auto_activity_detect_start_timestamp": "2026-10-11 22:07:00+00:00",
+      "data": 2
+    },
+    {
+      "source_file": "492669066122_WELLNESS.fit",
+      "timestamp": "2026-10-11 22:30:00+00:00",
+      "start_timestamp": "2026-10-11 22:09:00+00:00",
+      "data16": 6,
+      "event": "auto_activity_detect",
+      "event_type": "marker",
+      "activity_type": "sedentary",
+      "auto_activity_detect_start_timestamp": "2026-10-11 22:09:00+00:00",
+      "data": 6
+    },
+    {
+      "source_file": "492669066122_WELLNESS.fit",
+      "timestamp": "2026-10-11 22:31:00+00:00",
+      "start_timestamp": "2026-10-11 22:15:00+00:00",
+      "data16": 1,
+      "event": "auto_activity_detect",
+      "event_type": "marker",
+      "activity_type": "generic",
+      "auto_activity_detect_start_timestamp": "2026-10-11 22:15:00+00:00",
+      "data": 1
+    },
+    {
+      "source_file": "492669066122_WELLNESS.fit",
+      "timestamp": "2026-10-11 22:32:00+00:00",
+      "start_timestamp": "2026-10-11 22:16:00+00:00",
+      "data16": 1,
+      "event": "auto_activity_detect",
+      "event_type": "marker",
+      "activity_type": "sedentary",
+      "auto_activity_detect_start_timestamp": "2026-10-11 22:16:00+00:00",
+      "data": 1
+    },
+    {
+      "source_file": "492669066122_WELLNESS.fit",
+      "timestamp": "2026-10-11 22:35:00+00:00",
+      "start_timestamp": "2026-10-11 22:17:00+00:00",
+      "data16": 3,
+      "event": "auto_activity_detect",
+      "event_type": "marker",
+      "activity_type": "generic",
+      "auto_activity_detect_start_timestamp": "2026-10-11 22:17:00+00:00",
+      "data": 3
+    },
+    {
+      "source_file": "492669066122_WELLNESS.fit",
+      "timestamp": "2026-10-11 22:40:00+00:00",
+      "start_timestamp": "2026-10-11 22:20:00+00:00",
+      "data16": 5,
+      "event": "auto_activity_detect",
+      "event_type": "marker",
+      "activity_type": "sedentary",
+      "auto_activity_detect_start_timestamp": "2026-10-11 22:20:00+00:00",
+      "data": 5
+    },
+    {
+      "source_file": "492669066122_WELLNESS.fit",
+      "timestamp": "2026-10-11 22:41:00+00:00",
+      "start_timestamp": "2026-10-11 22:25:00+00:00",
+      "data16": 1,
+      "event": "auto_activity_detect",
+      "event_type": "marker",
+      "activity_type": "generic",
+      "auto_activity_detect_start_timestamp": "2026-10-11 22:25:00+00:00",
+      "data": 1
+    },
+    {
+      "source_file": "492669066122_WELLNESS.fit",
+      "timestamp": "2026-10-11 22:45:00+00:00",
+      "start_timestamp": "2026-10-11 22:26:00+00:00",
+      "data16": 4,
+      "event": "auto_activity_detect",
+      "event_type": "marker",
+      "activity_type": "sedentary",
+      "auto_activity_detect_start_timestamp": "2026-10-11 22:26:00+00:00",
+      "data": 4
+    },
+    {
+      "source_file": "492669066122_WELLNESS.fit",
+      "timestamp": "2026-10-11 22:48:00+00:00",
+      "start_timestamp": "2026-10-11 22:30:00+00:00",
+      "data16": 3,
+      "event": "auto_activity_detect",
+      "event_type": "marker",
+      "activity_type": "generic",
+      "auto_activity_detect_start_timestamp": "2026-10-11 22:30:00+00:00",
+      "data": 3
+    },
+    {
+      "source_file": "492669066122_WELLNESS.fit",
+      "timestamp": "2026-10-11 22:49:00+00:00",
+      "start_timestamp": "2026-10-11 22:33:00+00:00",
+      "data16": 1,
+      "event": "auto_activity_detect",
+      "event_type": "marker",
+      "activity_type": "sedentary",
+      "auto_activity_detect_start_timestamp": "2026-10-11 22:33:00+00:00",
+      "data": 1
+    },
+    {
+      "source_file": "492669066122_WELLNESS.fit",
+      "timestamp": "2026-10-11 22:51:00+00:00",
+      "start_timestamp": "2026-10-11 22:34:00+00:00",
+      "data16": 2,
+      "event": "auto_activity_detect",
+      "event_type": "marker",
+      "activity_type": "generic",
+      "auto_activity_detect_start_timestamp": "2026-10-11 22:34:00+00:00",
+      "data": 2
+    },
+    {
+      "source_file": "492669066122_WELLNESS.fit",
+      "timestamp": "2026-10-11 22:57:00+00:00",
+      "start_timestamp": "2026-10-11 22:36:00+00:00",
+      "data16": 6,
+      "event": "auto_activity_detect",
+      "event_type": "marker",
+      "activity_type": "sedentary",
+      "auto_activity_detect_start_timestamp": "2026-10-11 22:36:00+00:00",
+      "data": 6
+    },
+    {
+      "source_file": "492669066122_WELLNESS.fit",
+      "timestamp": "2026-10-11 22:59:00+00:00",
+      "start_timestamp": "2026-10-11 22:42:00+00:00",
+      "data16": 2,
+      "event": "auto_activity_detect",
+      "event_type": "marker",
+      "activity_type": "generic",
+      "auto_activity_detect_start_timestamp": "2026-10-11 22:42:00+00:00",
+      "data": 2
+    },
+    {
+      "source_file": "492669066122_WELLNESS.fit",
+      "timestamp": "2026-10-11 23:00:00+00:00",
+      "start_timestamp": "2026-10-11 22:44:00+00:00",
+      "data16": 1,
+      "event": "auto_activity_detect",
+      "event_type": "marker",
+      "activity_type": "sedentary",
+      "auto_activity_detect_start_timestamp": "2026-10-11 22:44:00+00:00",
+      "data": 1
+    },
+    {
+      "source_file": "492669066122_WELLNESS.fit",
+      "timestamp": "2026-10-11 23:02:00+00:00",
+      "start_timestamp": "2026-10-11 22:45:00+00:00",
+      "data16": 2,
+      "event": "auto_activity_detect",
+      "event_type": "marker",
+      "activity_type": "generic",
+      "auto_activity_detect_start_timestamp": "2026-10-11 22:45:00+00:00",
+      "data": 2
+    },
+    {
+      "source_file": "492669066122_WELLNESS.fit",
+      "timestamp": "2026-10-11 23:03:00+00:00",
+      "start_timestamp": "2026-10-11 22:47:00+00:00",
+      "data16": 1,
+      "event": "auto_activity_detect",
+      "event_type": "marker",
+      "activity_type": "sedentary",
+      "auto_activity_detect_start_timestamp": "2026-10-11 22:47:00+00:00",
+      "data": 1
+    },
+    {
+      "source_file": "492669066122_WELLNESS.fit",
+      "timestamp": "2026-10-11 23:05:00+00:00",
+      "start_timestamp": "2026-10-11 22:48:00+00:00",
+      "data16": 2,
+      "event": "auto_activity_detect",
+      "event_type": "marker",
+      "activity_type": "generic",
+      "auto_activity_detect_start_timestamp": "2026-10-11 22:48:00+00:00",
+      "data": 2
+    },
+    {
+      "source_file": "492798567774_SLEEP_DATA.fit",
+      "timestamp": "2026-10-11 23:56:11+00:00",
+      "data": 1160704571,
+      "event": 74,
+      "event_type": "start"
+    },
+    {
+      "source_file": "492798567774_SLEEP_DATA.fit",
+      "timestamp": "2026-10-12 06:17:11+00:00",
+      "data": 1160727431,
+      "event": 74,
+      "event_type": "stop"
+    },
+    {
+      "source_file": "492798591232_WELLNESS.fit",
+      "timestamp": "2026-10-11 23:07:21+00:00",
+      "data16": 300,
+      "event": 78,
+      "event_type": "marker",
+      "data": 300
+    },
+    {
+      "source_file": "492798591232_WELLNESS.fit",
+      "timestamp": "2026-10-11 23:08:00+00:00",
+      "start_timestamp": "2026-10-11 22:50:00+00:00",
+      "data16": 3,
+      "event": "auto_activity_detect",
+      "event_type": "marker",
+      "activity_type": "sedentary",
+      "auto_activity_detect_start_timestamp": "2026-10-11 22:50:00+00:00",
+      "data": 3
+    },
+    {
+      "source_file": "492798591232_WELLNESS.fit",
+      "timestamp": "2026-10-11 23:22:00+00:00",
+      "start_timestamp": "2026-10-11 22:53:00+00:00",
+      "data16": 14,
+      "event": "auto_activity_detect",
+      "event_type": "marker",
+      "activity_type": "generic",
+      "auto_activity_detect_start_timestamp": "2026-10-11 22:53:00+00:00",
+      "data": 14
+    },
+    {
+      "source_file": "492798591232_WELLNESS.fit",
+      "timestamp": "2026-10-11 23:23:00+00:00",
+      "start_timestamp": "2026-10-11 23:07:00+00:00",
+      "data16": 1,
+      "event": "auto_activity_detect",
+      "event_type": "marker",
+      "activity_type": "sedentary",
+      "auto_activity_detect_start_timestamp": "2026-10-11 23:07:00+00:00",
+      "data": 1
+    },
+    {
+      "source_file": "492798591232_WELLNESS.fit",
+      "timestamp": "2026-10-11 23:26:00+00:00",
+      "start_timestamp": "2026-10-11 23:08:00+00:00",
+      "data16": 3,
+      "event": "auto_activity_detect",
+      "event_type": "marker",
+      "activity_type": "generic",
+      "auto_activity_detect_start_timestamp": "2026-10-11 23:08:00+00:00",
+      "data": 3
+    },
+    {
+      "source_file": "492798591232_WELLNESS.fit",
+      "timestamp": "2026-10-11 23:28:00+00:00",
+      "start_timestamp": "2026-10-11 23:11:00+00:00",
+      "data16": 2,
+      "event": "auto_activity_detect",
+      "event_type": "marker",
+      "activity_type": "sedentary",
+      "auto_activity_detect_start_timestamp": "2026-10-11 23:11:00+00:00",
+      "data": 2
+    },
+    {
+      "source_file": "492798591232_WELLNESS.fit",
+      "timestamp": "2026-10-11 23:32:00+00:00",
+      "start_timestamp": "2026-10-11 23:13:00+00:00",
+      "data16": 4,
+      "event": "auto_activity_detect",
+      "event_type": "marker",
+      "activity_type": "generic",
+      "auto_activity_detect_start_timestamp": "2026-10-11 23:13:00+00:00",
+      "data": 4
+    },
+    {
+      "source_file": "492798591232_WELLNESS.fit",
+      "timestamp": "2026-10-11 23:33:00+00:00",
+      "start_timestamp": "2026-10-11 23:17:00+00:00",
+      "data16": 1,
+      "event": "auto_activity_detect",
+      "event_type": "marker",
+      "activity_type": "sedentary",
+      "auto_activity_detect_start_timestamp": "2026-10-11 23:17:00+00:00",
+      "data": 1
+    },
+    {
+      "source_file": "492798591232_WELLNESS.fit",
+      "timestamp": "2026-10-11 23:34:00+00:00",
+      "start_timestamp": "2026-10-11 23:18:00+00:00",
+      "data16": 1,
+      "event": "auto_activity_detect",
+      "event_type": "marker",
+      "activity_type": "generic",
+      "auto_activity_detect_start_timestamp": "2026-10-11 23:18:00+00:00",
+      "data": 1
+    },
+    {
+      "source_file": "492798591232_WELLNESS.fit",
+      "timestamp": "2026-10-11 23:35:00+00:00",
+      "start_timestamp": "2026-10-11 23:19:00+00:00",
+      "data16": 1,
+      "event": "auto_activity_detect",
+      "event_type": "marker",
+      "activity_type": "sedentary",
+      "auto_activity_detect_start_timestamp": "2026-10-11 23:19:00+00:00",
+      "data": 1
+    },
+    {
+      "source_file": "492798591232_WELLNESS.fit",
+      "timestamp": "2026-10-11 23:37:00+00:00",
+      "start_timestamp": "2026-10-11 23:20:00+00:00",
+      "data16": 2,
+      "event": "auto_activity_detect",
+      "event_type": "marker",
+      "activity_type": "generic",
+      "auto_activity_detect_start_timestamp": "2026-10-11 23:20:00+00:00",
+      "data": 2
+    },
+    {
+      "source_file": "492798591232_WELLNESS.fit",
+      "timestamp": "2026-10-11 23:39:00+00:00",
+      "start_timestamp": "2026-10-11 23:22:00+00:00",
+      "data16": 2,
+      "event": "auto_activity_detect",
+      "event_type": "marker",
+      "activity_type": "sedentary",
+      "auto_activity_detect_start_timestamp": "2026-10-11 23:22:00+00:00",
+      "data": 2
+    },
+    {
+      "source_file": "492798591232_WELLNESS.fit",
+      "timestamp": "2026-10-11 23:42:00+00:00",
+      "start_timestamp": "2026-10-11 23:24:00+00:00",
+      "data16": 3,
+      "event": "auto_activity_detect",
+      "event_type": "marker",
+      "activity_type": "generic",
+      "auto_activity_detect_start_timestamp": "2026-10-11 23:24:00+00:00",
+      "data": 3
+    },
+    {
+      "source_file": "492798591232_WELLNESS.fit",
+      "timestamp": "2026-10-11 23:43:00+00:00",
+      "start_timestamp": "2026-10-11 23:27:00+00:00",
+      "data16": 1,
+      "event": "auto_activity_detect",
+      "event_type": "marker",
+      "activity_type": "sedentary",
+      "auto_activity_detect_start_timestamp": "2026-10-11 23:27:00+00:00",
+      "data": 1
+    },
+    {
+      "source_file": "492798591232_WELLNESS.fit",
+      "timestamp": "2026-10-11 23:51:00+00:00",
+      "start_timestamp": "2026-10-11 23:28:00+00:00",
+      "data16": 8,
+      "event": "auto_activity_detect",
+      "event_type": "marker",
+      "activity_type": "generic",
+      "auto_activity_detect_start_timestamp": "2026-10-11 23:28:00+00:00",
+      "data": 8
+    },
+    {
+      "source_file": "492798591232_WELLNESS.fit",
+      "timestamp": "2026-10-11 23:52:00+00:00",
+      "start_timestamp": "2026-10-11 23:36:00+00:00",
+      "data16": 1,
+      "event": "auto_activity_detect",
+      "event_type": "marker",
+      "activity_type": "sedentary",
+      "auto_activity_detect_start_timestamp": "2026-10-11 23:36:00+00:00",
+      "data": 1
+    },
+    {
+      "source_file": "492798591232_WELLNESS.fit",
+      "timestamp": "2026-10-11 23:54:00+00:00",
+      "start_timestamp": "2026-10-11 23:37:00+00:00",
+      "data16": 2,
+      "event": "auto_activity_detect",
+      "event_type": "marker",
+      "activity_type": "generic",
+      "auto_activity_detect_start_timestamp": "2026-10-11 23:37:00+00:00",
+      "data": 2
+    },
+    {
+      "source_file": "492798591232_WELLNESS.fit",
+      "timestamp": "2026-10-11 23:55:00+00:00",
+      "start_timestamp": "2026-10-11 23:39:00+00:00",
+      "data16": 1,
+      "event": "auto_activity_detect",
+      "event_type": "marker",
+      "activity_type": "sedentary",
+      "auto_activity_detect_start_timestamp": "2026-10-11 23:39:00+00:00",
+      "data": 1
+    },
+    {
+      "source_file": "492798591232_WELLNESS.fit",
+      "timestamp": "2026-10-11 23:58:00+00:00",
+      "start_timestamp": "2026-10-11 23:40:00+00:00",
+      "data16": 3,
+      "event": "auto_activity_detect",
+      "event_type": "marker",
+      "activity_type": "generic",
+      "auto_activity_detect_start_timestamp": "2026-10-11 23:40:00+00:00",
+      "data": 3
+    },
+    {
+      "source_file": "492798591232_WELLNESS.fit",
+      "timestamp": "2026-10-11 23:59:00+00:00",
+      "start_timestamp": "2026-10-11 23:43:00+00:00",
+      "data16": 1,
+      "event": "auto_activity_detect",
+      "event_type": "marker",
+      "activity_type": "sedentary",
+      "auto_activity_detect_start_timestamp": "2026-10-11 23:43:00+00:00",
+      "data": 1
+    },
+    {
+      "source_file": "492798591232_WELLNESS.fit",
+      "timestamp": "2026-10-12 00:00:00+00:00",
+      "start_timestamp": "2026-10-11 23:44:00+00:00",
+      "data16": 1,
+      "event": "auto_activity_detect",
+      "event_type": "marker",
+      "activity_type": "generic",
+      "auto_activity_detect_start_timestamp": "2026-10-11 23:44:00+00:00",
+      "data": 1
+    },
+    {
+      "source_file": "492798591232_WELLNESS.fit",
+      "timestamp": "2026-10-12 01:37:00+00:00",
+      "start_timestamp": "2026-10-11 23:45:00+00:00",
+      "data16": 97,
+      "event": "auto_activity_detect",
+      "event_type": "marker",
+      "activity_type": "sedentary",
+      "auto_activity_detect_start_timestamp": "2026-10-11 23:45:00+00:00",
+      "data": 97
+    },
+    {
+      "source_file": "492798591232_WELLNESS.fit",
+      "timestamp": "2026-10-12 01:38:00+00:00",
+      "start_timestamp": "2026-10-12 01:22:00+00:00",
+      "data16": 1,
+      "event": "auto_activity_detect",
+      "event_type": "marker",
+      "activity_type": "generic",
+      "auto_activity_detect_start_timestamp": "2026-10-12 01:22:00+00:00",
+      "data": 1
+    },
+    {
+      "source_file": "492798591232_WELLNESS.fit",
+      "timestamp": "2026-10-12 06:10:00+00:00",
+      "start_timestamp": "2026-10-12 01:23:00+00:00",
+      "data16": 272,
+      "event": "auto_activity_detect",
+      "event_type": "marker",
+      "activity_type": "sedentary",
+      "auto_activity_detect_start_timestamp": "2026-10-12 01:23:00+00:00",
+      "data": 272
+    },
+    {
+      "source_file": "492798591232_WELLNESS.fit",
+      "timestamp": "2026-10-12 06:12:00+00:00",
+      "start_timestamp": "2026-10-12 05:55:00+00:00",
+      "data16": 2,
+      "event": "auto_activity_detect",
+      "event_type": "marker",
+      "activity_type": "generic",
+      "auto_activity_detect_start_timestamp": "2026-10-12 05:55:00+00:00",
+      "data": 2
+    },
+    {
+      "source_file": "492798591232_WELLNESS.fit",
+      "timestamp": "2026-10-12 06:13:00+00:00",
+      "start_timestamp": "2026-10-12 05:57:00+00:00",
+      "data16": 1,
+      "event": "auto_activity_detect",
+      "event_type": "marker",
+      "activity_type": "sedentary",
+      "auto_activity_detect_start_timestamp": "2026-10-12 05:57:00+00:00",
+      "data": 1
+    },
+    {
+      "source_file": "492798591232_WELLNESS.fit",
+      "timestamp": "2026-10-12 06:14:00+00:00",
+      "start_timestamp": "2026-10-12 05:58:00+00:00",
+      "data16": 1,
+      "event": "auto_activity_detect",
+      "event_type": "marker",
+      "activity_type": "generic",
+      "auto_activity_detect_start_timestamp": "2026-10-12 05:58:00+00:00",
+      "data": 1
+    },
+    {
+      "source_file": "492798591232_WELLNESS.fit",
+      "timestamp": "2026-10-12 06:30:00+00:00",
+      "start_timestamp": "2026-10-12 05:59:00+00:00",
+      "data16": 16,
+      "event": "auto_activity_detect",
+      "event_type": "marker",
+      "activity_type": "sedentary",
+      "auto_activity_detect_start_timestamp": "2026-10-12 05:59:00+00:00",
+      "data": 16
+    },
+    {
+      "source_file": "492798591232_WELLNESS.fit",
+      "timestamp": "2026-10-12 06:37:26+00:00",
+      "data16": 0,
+      "event": 62,
+      "event_type": "stop",
+      "data": 0
+    },
+    {
+      "source_file": "492800154661_WELLNESS.fit",
+      "timestamp": "2026-10-12 06:37:28+00:00",
+      "data16": 300,
+      "event": 78,
+      "event_type": "marker",
+      "data": 300
+    },
+    {
+      "source_file": "492805745989_WELLNESS.fit",
+      "timestamp": "2026-10-12 06:42:04+00:00",
+      "data16": 300,
+      "event": 78,
+      "event_type": "marker",
+      "data": 300
+    },
+    {
+      "source_file": "492805745989_WELLNESS.fit",
+      "timestamp": "2026-10-12 06:52:00+00:00",
+      "start_timestamp": "2026-10-12 06:15:00+00:00",
+      "data16": 22,
+      "event": "auto_activity_detect",
+      "event_type": "marker",
+      "activity_type": "generic",
+      "auto_activity_detect_start_timestamp": "2026-10-12 06:15:00+00:00",
+      "data": 22
+    },
+    {
+      "source_file": "492805745989_WELLNESS.fit",
+      "timestamp": "2026-10-12 06:53:00+00:00",
+      "start_timestamp": "2026-10-12 06:37:00+00:00",
+      "data16": 1,
+      "event": "auto_activity_detect",
+      "event_type": "marker",
+      "activity_type": "sedentary",
+      "auto_activity_detect_start_timestamp": "2026-10-12 06:37:00+00:00",
+      "data": 1
+    },
+    {
+      "source_file": "492805745989_WELLNESS.fit",
+      "timestamp": "2026-10-12 06:59:00+00:00",
+      "start_timestamp": "2026-10-12 06:38:00+00:00",
+      "data16": 6,
+      "event": "auto_activity_detect",
+      "event_type": "marker",
+      "activity_type": "generic",
+      "auto_activity_detect_start_timestamp": "2026-10-12 06:38:00+00:00",
+      "data": 6
+    },
+    {
+      "source_file": "492805745989_WELLNESS.fit",
+      "timestamp": "2026-10-12 07:00:00+00:00",
+      "start_timestamp": "2026-10-12 06:44:00+00:00",
+      "data16": 1,
+      "event": "auto_activity_detect",
+      "event_type": "marker",
+      "activity_type": "sedentary",
+      "auto_activity_detect_start_timestamp": "2026-10-12 06:44:00+00:00",
+      "data": 1
+    },
+    {
+      "source_file": "492835960623_WELLNESS.fit",
+      "timestamp": "2026-10-12 07:00:17+00:00",
+      "data16": 300,
+      "event": 78,
+      "event_type": "marker",
+      "data": 300
+    },
+    {
+      "source_file": "492835960623_WELLNESS.fit",
+      "timestamp": "2026-10-12 07:01:00+00:00",
+      "start_timestamp": "2026-10-12 06:45:00+00:00",
+      "data16": 1,
+      "event": "auto_activity_detect",
+      "event_type": "marker",
+      "activity_type": "generic",
+      "auto_activity_detect_start_timestamp": "2026-10-12 06:45:00+00:00",
+      "data": 1
+    },
+    {
+      "source_file": "492835960623_WELLNESS.fit",
+      "timestamp": "2026-10-12 07:02:00+00:00",
+      "start_timestamp": "2026-10-12 06:46:00+00:00",
+      "data16": 1,
+      "event": "auto_activity_detect",
+      "event_type": "marker",
+      "activity_type": "sedentary",
+      "auto_activity_detect_start_timestamp": "2026-10-12 06:46:00+00:00",
+      "data": 1
+    },
+    {
+      "source_file": "492835960623_WELLNESS.fit",
+      "timestamp": "2026-10-12 07:44:00+00:00",
+      "start_timestamp": "2026-10-12 06:47:00+00:00",
+      "data16": 42,
+      "event": "auto_activity_detect",
+      "event_type": "marker",
+      "activity_type": "generic",
+      "auto_activity_detect_start_timestamp": "2026-10-12 06:47:00+00:00",
+      "data": 42
+    },
+    {
+      "source_file": "492835960623_WELLNESS.fit",
+      "timestamp": "2026-10-12 07:51:00+00:00",
+      "start_timestamp": "2026-10-12 07:29:00+00:00",
+      "data16": 7,
+      "event": "auto_activity_detect",
+      "event_type": "marker",
+      "activity_type": "sedentary",
+      "auto_activity_detect_start_timestamp": "2026-10-12 07:29:00+00:00",
+      "data": 7
+    },
+    {
+      "source_file": "492835960623_WELLNESS.fit",
+      "timestamp": "2026-10-12 08:02:00+00:00",
+      "start_timestamp": "2026-10-12 07:36:00+00:00",
+      "data16": 11,
+      "event": "auto_activity_detect",
+      "event_type": "marker",
+      "activity_type": "generic",
+      "auto_activity_detect_start_timestamp": "2026-10-12 07:36:00+00:00",
+      "data": 11
+    },
+    {
+      "source_file": "492835960623_WELLNESS.fit",
+      "timestamp": "2026-10-12 08:06:00+00:00",
+      "start_timestamp": "2026-10-12 07:47:00+00:00",
+      "data16": 4,
+      "event": "auto_activity_detect",
+      "event_type": "marker",
+      "activity_type": "sedentary",
+      "auto_activity_detect_start_timestamp": "2026-10-12 07:47:00+00:00",
+      "data": 4
+    },
+    {
+      "source_file": "492835960623_WELLNESS.fit",
+      "timestamp": "2026-10-12 08:07:00+00:00",
+      "start_timestamp": "2026-10-12 07:51:00+00:00",
+      "data16": 1,
+      "event": "auto_activity_detect",
+      "event_type": "marker",
+      "activity_type": "generic",
+      "auto_activity_detect_start_timestamp": "2026-10-12 07:51:00+00:00",
+      "data": 1
+    },
+    {
+      "source_file": "492835960623_WELLNESS.fit",
+      "timestamp": "2026-10-12 08:25:00+00:00",
+      "start_timestamp": "2026-10-12 07:52:00+00:00",
+      "data16": 18,
+      "event": "auto_activity_detect",
+      "event_type": "marker",
+      "activity_type": "sedentary",
+      "auto_activity_detect_start_timestamp": "2026-10-12 07:52:00+00:00",
+      "data": 18
+    },
+    {
+      "source_file": "492835960623_WELLNESS.fit",
+      "timestamp": "2026-10-12 08:27:00+00:00",
+      "start_timestamp": "2026-10-12 08:10:00+00:00",
+      "data16": 2,
+      "event": "auto_activity_detect",
+      "event_type": "marker",
+      "activity_type": "generic",
+      "auto_activity_detect_start_timestamp": "2026-10-12 08:10:00+00:00",
+      "data": 2
+    },
+    {
+      "source_file": "492835960623_WELLNESS.fit",
+      "timestamp": "2026-10-12 08:51:00+00:00",
+      "start_timestamp": "2026-10-12 08:12:00+00:00",
+      "data16": 24,
+      "event": "auto_activity_detect",
+      "event_type": "marker",
+      "activity_type": "sedentary",
+      "auto_activity_detect_start_timestamp": "2026-10-12 08:12:00+00:00",
+      "data": 24
+    },
+    {
+      "source_file": "492835960623_WELLNESS.fit",
+      "timestamp": "2026-10-12 08:52:00+00:00",
+      "start_timestamp": "2026-10-12 08:36:00+00:00",
+      "data16": 1,
+      "event": "auto_activity_detect",
+      "event_type": "marker",
+      "activity_type": "generic",
+      "auto_activity_detect_start_timestamp": "2026-10-12 08:36:00+00:00",
+      "data": 1
+    },
+    {
+      "source_file": "492835960623_WELLNESS.fit",
+      "timestamp": "2026-10-12 08:56:00+00:00",
+      "start_timestamp": "2026-10-12 08:37:00+00:00",
+      "data16": 4,
+      "event": "auto_activity_detect",
+      "event_type": "marker",
+      "activity_type": "sedentary",
+      "auto_activity_detect_start_timestamp": "2026-10-12 08:37:00+00:00",
+      "data": 4
+    },
+    {
+      "source_file": "492879523483_WELLNESS.fit",
+      "timestamp": "2026-10-12 08:59:02+00:00",
+      "data16": 300,
+      "event": 78,
+      "event_type": "marker",
+      "data": 300
+    },
+    {
+      "source_file": "492879523483_WELLNESS.fit",
+      "timestamp": "2026-10-12 09:05:00+00:00",
+      "start_timestamp": "2026-10-12 08:41:00+00:00",
+      "data16": 9,
+      "event": "auto_activity_detect",
+      "event_type": "marker",
+      "activity_type": "generic",
+      "auto_activity_detect_start_timestamp": "2026-10-12 08:41:00+00:00",
+      "data": 9
+    },
+    {
+      "source_file": "492879523483_WELLNESS.fit",
+      "timestamp": "2026-10-12 09:11:00+00:00",
+      "start_timestamp": "2026-10-12 08:50:00+00:00",
+      "data16": 6,
+      "event": "auto_activity_detect",
+      "event_type": "marker",
+      "activity_type": "sedentary",
+      "auto_activity_detect_start_timestamp": "2026-10-12 08:50:00+00:00",
+      "data": 6
+    },
+    {
+      "source_file": "492879523483_WELLNESS.fit",
+      "timestamp": "2026-10-12 09:12:00+00:00",
+      "start_timestamp": "2026-10-12 08:56:00+00:00",
+      "data16": 1,
+      "event": "auto_activity_detect",
+      "event_type": "marker",
+      "activity_type": "generic",
+      "auto_activity_detect_start_timestamp": "2026-10-12 08:56:00+00:00",
+      "data": 1
+    },
+    {
+      "source_file": "492879523483_WELLNESS.fit",
+      "timestamp": "2026-10-12 09:18:00+00:00",
+      "start_timestamp": "2026-10-12 08:57:00+00:00",
+      "data16": 6,
+      "event": "auto_activity_detect",
+      "event_type": "marker",
+      "activity_type": "sedentary",
+      "auto_activity_detect_start_timestamp": "2026-10-12 08:57:00+00:00",
+      "data": 6
+    },
+    {
+      "source_file": "492879523483_WELLNESS.fit",
+      "timestamp": "2026-10-12 09:19:00+00:00",
+      "start_timestamp": "2026-10-12 09:03:00+00:00",
+      "data16": 1,
+      "event": "auto_activity_detect",
+      "event_type": "marker",
+      "activity_type": "generic",
+      "auto_activity_detect_start_timestamp": "2026-10-12 09:03:00+00:00",
+      "data": 1
+    },
+    {
+      "source_file": "492879523483_WELLNESS.fit",
+      "timestamp": "2026-10-12 09:20:00+00:00",
+      "start_timestamp": "2026-10-12 09:04:00+00:00",
+      "data16": 1,
+      "event": "auto_activity_detect",
+      "event_type": "marker",
+      "activity_type": "sedentary",
+      "auto_activity_detect_start_timestamp": "2026-10-12 09:04:00+00:00",
+      "data": 1
+    },
+    {
+      "source_file": "492879523483_WELLNESS.fit",
+      "timestamp": "2026-10-12 09:22:00+00:00",
+      "start_timestamp": "2026-10-12 09:05:00+00:00",
+      "data16": 2,
+      "event": "auto_activity_detect",
+      "event_type": "marker",
+      "activity_type": "generic",
+      "auto_activity_detect_start_timestamp": "2026-10-12 09:05:00+00:00",
+      "data": 2
+    },
+    {
+      "source_file": "492879523483_WELLNESS.fit",
+      "timestamp": "2026-10-12 09:28:00+00:00",
+      "start_timestamp": "2026-10-12 09:07:00+00:00",
+      "data16": 6,
+      "event": "auto_activity_detect",
+      "event_type": "marker",
+      "activity_type": "sedentary",
+      "auto_activity_detect_start_timestamp": "2026-10-12 09:07:00+00:00",
+      "data": 6
+    },
+    {
+      "source_file": "492879523483_WELLNESS.fit",
+      "timestamp": "2026-10-12 09:29:00+00:00",
+      "start_timestamp": "2026-10-12 09:13:00+00:00",
+      "data16": 1,
+      "event": "auto_activity_detect",
+      "event_type": "marker",
+      "activity_type": "generic",
+      "auto_activity_detect_start_timestamp": "2026-10-12 09:13:00+00:00",
+      "data": 1
+    },
+    {
+      "source_file": "492879523483_WELLNESS.fit",
+      "timestamp": "2026-10-12 09:30:00+00:00",
+      "start_timestamp": "2026-10-12 09:14:00+00:00",
+      "data16": 1,
+      "event": "auto_activity_detect",
+      "event_type": "marker",
+      "activity_type": "sedentary",
+      "auto_activity_detect_start_timestamp": "2026-10-12 09:14:00+00:00",
+      "data": 1
+    },
+    {
+      "source_file": "492879523483_WELLNESS.fit",
+      "timestamp": "2026-10-12 09:33:00+00:00",
+      "start_timestamp": "2026-10-12 09:15:00+00:00",
+      "data16": 3,
+      "event": "auto_activity_detect",
+      "event_type": "marker",
+      "activity_type": "generic",
+      "auto_activity_detect_start_timestamp": "2026-10-12 09:15:00+00:00",
+      "data": 3
+    },
+    {
+      "source_file": "492879523483_WELLNESS.fit",
+      "timestamp": "2026-10-12 09:43:00+00:00",
+      "start_timestamp": "2026-10-12 09:18:00+00:00",
+      "data16": 10,
+      "event": "auto_activity_detect",
+      "event_type": "marker",
+      "activity_type": "walking",
+      "auto_activity_detect_start_timestamp": "2026-10-12 09:18:00+00:00",
+      "data": 10
+    },
+    {
+      "source_file": "492879523483_WELLNESS.fit",
+      "timestamp": "2026-10-12 09:50:00+00:00",
+      "start_timestamp": "2026-10-12 09:28:00+00:00",
+      "data16": 7,
+      "event": "auto_activity_detect",
+      "event_type": "marker",
+      "activity_type": "generic",
+      "auto_activity_detect_start_timestamp": "2026-10-12 09:28:00+00:00",
+      "data": 7
+    },
+    {
+      "source_file": "492879523483_WELLNESS.fit",
+      "timestamp": "2026-10-12 09:51:00+00:00",
+      "start_timestamp": "2026-10-12 09:35:00+00:00",
+      "data16": 1,
+      "event": "auto_activity_detect",
+      "event_type": "marker",
+      "activity_type": "sedentary",
+      "auto_activity_detect_start_timestamp": "2026-10-12 09:35:00+00:00",
+      "data": 1
+    },
+    {
+      "source_file": "492879523483_WELLNESS.fit",
+      "timestamp": "2026-10-12 09:55:00+00:00",
+      "start_timestamp": "2026-10-12 09:36:00+00:00",
+      "data16": 4,
+      "event": "auto_activity_detect",
+      "event_type": "marker",
+      "activity_type": "generic",
+      "auto_activity_detect_start_timestamp": "2026-10-12 09:36:00+00:00",
+      "data": 4
+    },
+    {
+      "source_file": "492879523483_WELLNESS.fit",
+      "timestamp": "2026-10-12 10:01:00+00:00",
+      "start_timestamp": "2026-10-12 09:40:00+00:00",
+      "data16": 6,
+      "event": "auto_activity_detect",
+      "event_type": "marker",
+      "activity_type": "walking",
+      "auto_activity_detect_start_timestamp": "2026-10-12 09:40:00+00:00",
+      "data": 6
+    },
+    {
+      "source_file": "492879523483_WELLNESS.fit",
+      "timestamp": "2026-10-12 10:44:00+00:00",
+      "start_timestamp": "2026-10-12 09:46:00+00:00",
+      "data16": 43,
+      "event": "auto_activity_detect",
+      "event_type": "marker",
+      "activity_type": "generic",
+      "auto_activity_detect_start_timestamp": "2026-10-12 09:46:00+00:00",
+      "data": 43
+    },
+    {
+      "source_file": "492879523483_WELLNESS.fit",
+      "timestamp": "2026-10-12 10:48:00+00:00",
+      "start_timestamp": "2026-10-12 10:29:00+00:00",
+      "data16": 4,
+      "event": "auto_activity_detect",
+      "event_type": "marker",
+      "activity_type": "sedentary",
+      "auto_activity_detect_start_timestamp": "2026-10-12 10:29:00+00:00",
+      "data": 4
+    },
+    {
+      "source_file": "492879523483_WELLNESS.fit",
+      "timestamp": "2026-10-12 10:55:00+00:00",
+      "start_timestamp": "2026-10-12 10:33:00+00:00",
+      "data16": 7,
+      "event": "auto_activity_detect",
+      "event_type": "marker",
+      "activity_type": "generic",
+      "auto_activity_detect_start_timestamp": "2026-10-12 10:33:00+00:00",
+      "data": 7
+    },
+    {
+      "source_file": "492879523483_WELLNESS.fit",
+      "timestamp": "2026-10-12 10:59:00+00:00",
+      "start_timestamp": "2026-10-12 10:40:00+00:00",
+      "data16": 4,
+      "event": "auto_activity_detect",
+      "event_type": "marker",
+      "activity_type": "sedentary",
+      "auto_activity_detect_start_timestamp": "2026-10-12 10:40:00+00:00",
+      "data": 4
+    },
+    {
+      "source_file": "492879523483_WELLNESS.fit",
+      "timestamp": "2026-10-12 11:00:00+00:00",
+      "start_timestamp": "2026-10-12 10:44:00+00:00",
+      "data16": 1,
+      "event": "auto_activity_detect",
+      "event_type": "marker",
+      "activity_type": "generic",
+      "auto_activity_detect_start_timestamp": "2026-10-12 10:44:00+00:00",
+      "data": 1
+    },
+    {
+      "source_file": "492879523483_WELLNESS.fit",
+      "timestamp": "2026-10-12 11:03:00+00:00",
+      "start_timestamp": "2026-10-12 10:45:00+00:00",
+      "data16": 3,
+      "event": "auto_activity_detect",
+      "event_type": "marker",
+      "activity_type": "sedentary",
+      "auto_activity_detect_start_timestamp": "2026-10-12 10:45:00+00:00",
+      "data": 3
+    },
+    {
+      "source_file": "492879523483_WELLNESS.fit",
+      "timestamp": "2026-10-12 11:06:00+00:00",
+      "start_timestamp": "2026-10-12 10:48:00+00:00",
+      "data16": 3,
+      "event": "auto_activity_detect",
+      "event_type": "marker",
+      "activity_type": "generic",
+      "auto_activity_detect_start_timestamp": "2026-10-12 10:48:00+00:00",
+      "data": 3
+    },
+    {
+      "source_file": "492879523483_WELLNESS.fit",
+      "timestamp": "2026-10-12 11:21:00+00:00",
+      "start_timestamp": "2026-10-12 10:51:00+00:00",
+      "data16": 15,
+      "event": "auto_activity_detect",
+      "event_type": "marker",
+      "activity_type": "sedentary",
+      "auto_activity_detect_start_timestamp": "2026-10-12 10:51:00+00:00",
+      "data": 15
+    },
+    {
+      "source_file": "492879523483_WELLNESS.fit",
+      "timestamp": "2026-10-12 11:23:00+00:00",
+      "start_timestamp": "2026-10-12 11:06:00+00:00",
+      "data16": 2,
+      "event": "auto_activity_detect",
+      "event_type": "marker",
+      "activity_type": "generic",
+      "auto_activity_detect_start_timestamp": "2026-10-12 11:06:00+00:00",
+      "data": 2
+    },
+    {
+      "source_file": "492879523483_WELLNESS.fit",
+      "timestamp": "2026-10-12 11:33:00+00:00",
+      "start_timestamp": "2026-10-12 11:08:00+00:00",
+      "data16": 10,
+      "event": "auto_activity_detect",
+      "event_type": "marker",
+      "activity_type": "sedentary",
+      "auto_activity_detect_start_timestamp": "2026-10-12 11:08:00+00:00",
+      "data": 10
+    },
+    {
+      "source_file": "492879523483_WELLNESS.fit",
+      "timestamp": "2026-10-12 11:35:00+00:00",
+      "data16": 1,
+      "event": 41,
+      "event_type": "marker",
+      "data": 1
+    },
+    {
+      "source_file": "492879523483_WELLNESS.fit",
+      "timestamp": "2026-10-12 11:41:00+00:00",
+      "start_timestamp": "2026-10-12 11:18:00+00:00",
+      "data16": 8,
+      "event": "auto_activity_detect",
+      "event_type": "marker",
+      "activity_type": "generic",
+      "auto_activity_detect_start_timestamp": "2026-10-12 11:18:00+00:00",
+      "data": 8
+    },
+    {
+      "source_file": "492879523483_WELLNESS.fit",
+      "timestamp": "2026-10-12 11:42:00+00:00",
+      "start_timestamp": "2026-10-12 11:26:00+00:00",
+      "data16": 1,
+      "event": "auto_activity_detect",
+      "event_type": "marker",
+      "activity_type": "sedentary",
+      "auto_activity_detect_start_timestamp": "2026-10-12 11:26:00+00:00",
+      "data": 1
+    },
+    {
+      "source_file": "492879523483_WELLNESS.fit",
+      "timestamp": "2026-10-12 11:44:00+00:00",
+      "start_timestamp": "2026-10-12 11:27:00+00:00",
+      "data16": 2,
+      "event": "auto_activity_detect",
+      "event_type": "marker",
+      "activity_type": "generic",
+      "auto_activity_detect_start_timestamp": "2026-10-12 11:27:00+00:00",
+      "data": 2
+    },
+    {
+      "source_file": "492879523483_WELLNESS.fit",
+      "timestamp": "2026-10-12 11:45:00+00:00",
+      "start_timestamp": "2026-10-12 11:29:00+00:00",
+      "data16": 1,
+      "event": "auto_activity_detect",
+      "event_type": "marker",
+      "activity_type": "sedentary",
+      "auto_activity_detect_start_timestamp": "2026-10-12 11:29:00+00:00",
+      "data": 1
+    },
+    {
+      "source_file": "492879523483_WELLNESS.fit",
+      "timestamp": "2026-10-12 11:46:00+00:00",
+      "start_timestamp": "2026-10-12 11:30:00+00:00",
+      "data16": 1,
+      "event": "auto_activity_detect",
+      "event_type": "marker",
+      "activity_type": "generic",
+      "auto_activity_detect_start_timestamp": "2026-10-12 11:30:00+00:00",
+      "data": 1
+    },
+    {
+      "source_file": "492879523483_WELLNESS.fit",
+      "timestamp": "2026-10-12 11:50:00+00:00",
+      "data16": 2,
+      "event": 41,
+      "event_type": "marker",
+      "data": 2
+    },
+    {
+      "source_file": "492879523483_WELLNESS.fit",
+      "timestamp": "2026-10-12 11:51:00+00:00",
+      "start_timestamp": "2026-10-12 11:31:00+00:00",
+      "data16": 5,
+      "event": "auto_activity_detect",
+      "event_type": "marker",
+      "activity_type": "sedentary",
+      "auto_activity_detect_start_timestamp": "2026-10-12 11:31:00+00:00",
+      "data": 5
+    },
+    {
+      "source_file": "492879523483_WELLNESS.fit",
+      "timestamp": "2026-10-12 11:52:00+00:00",
+      "start_timestamp": "2026-10-12 11:36:00+00:00",
+      "data16": 1,
+      "event": "auto_activity_detect",
+      "event_type": "marker",
+      "activity_type": "generic",
+      "auto_activity_detect_start_timestamp": "2026-10-12 11:36:00+00:00",
+      "data": 1
+    },
+    {
+      "source_file": "492952012911_WELLNESS.fit",
+      "timestamp": "2026-10-12 11:55:34+00:00",
+      "data16": 300,
+      "event": 78,
+      "event_type": "marker",
+      "data": 300
+    },
+    {
+      "source_file": "492952012911_WELLNESS.fit",
+      "timestamp": "2026-10-12 12:00:00+00:00",
+      "start_timestamp": "2026-10-12 11:37:00+00:00",
+      "data16": 8,
+      "event": "auto_activity_detect",
+      "event_type": "marker",
+      "activity_type": "sedentary",
+      "auto_activity_detect_start_timestamp": "2026-10-12 11:37:00+00:00",
+      "data": 8
+    },
+    {
+      "source_file": "492952012911_WELLNESS.fit",
+      "timestamp": "2026-10-12 12:02:00+00:00",
+      "start_timestamp": "2026-10-12 11:45:00+00:00",
+      "data16": 2,
+      "event": "auto_activity_detect",
+      "event_type": "marker",
+      "activity_type": "generic",
+      "auto_activity_detect_start_timestamp": "2026-10-12 11:45:00+00:00",
+      "data": 2
+    },
+    {
+      "source_file": "492952012911_WELLNESS.fit",
+      "timestamp": "2026-10-12 12:05:00+00:00",
+      "data16": 3,
+      "event": 41,
+      "event_type": "marker",
+      "data": 3
+    },
+    {
+      "source_file": "492952012911_WELLNESS.fit",
+      "timestamp": "2026-10-12 12:08:00+00:00",
+      "start_timestamp": "2026-10-12 11:47:00+00:00",
+      "data16": 6,
+      "event": "auto_activity_detect",
+      "event_type": "marker",
+      "activity_type": "sedentary",
+      "auto_activity_detect_start_timestamp": "2026-10-12 11:47:00+00:00",
+      "data": 6
+    },
+    {
+      "source_file": "492952012911_WELLNESS.fit",
+      "timestamp": "2026-10-12 12:10:00+00:00",
+      "start_timestamp": "2026-10-12 11:53:00+00:00",
+      "data16": 2,
+      "event": "auto_activity_detect",
+      "event_type": "marker",
+      "activity_type": "generic",
+      "auto_activity_detect_start_timestamp": "2026-10-12 11:53:00+00:00",
+      "data": 2
+    },
+    {
+      "source_file": "492952012911_WELLNESS.fit",
+      "timestamp": "2026-10-12 12:12:00+00:00",
+      "start_timestamp": "2026-10-12 11:55:00+00:00",
+      "data16": 2,
+      "event": "auto_activity_detect",
+      "event_type": "marker",
+      "activity_type": "sedentary",
+      "auto_activity_detect_start_timestamp": "2026-10-12 11:55:00+00:00",
+      "data": 2
+    },
+    {
+      "source_file": "492952012911_WELLNESS.fit",
+      "timestamp": "2026-10-12 12:13:00+00:00",
+      "start_timestamp": "2026-10-12 11:57:00+00:00",
+      "data16": 1,
+      "event": "auto_activity_detect",
+      "event_type": "marker",
+      "activity_type": "generic",
+      "auto_activity_detect_start_timestamp": "2026-10-12 11:57:00+00:00",
+      "data": 1
+    },
+    {
+      "source_file": "492952012911_WELLNESS.fit",
+      "timestamp": "2026-10-12 12:20:00+00:00",
+      "start_timestamp": "2026-10-12 11:58:00+00:00",
+      "data16": 7,
+      "event": "auto_activity_detect",
+      "event_type": "marker",
+      "activity_type": "sedentary",
+      "auto_activity_detect_start_timestamp": "2026-10-12 11:58:00+00:00",
+      "data": 7
+    },
+    {
+      "source_file": "492952012911_WELLNESS.fit",
+      "timestamp": "2026-10-12 12:20:00+00:00",
+      "data16": 4,
+      "event": 41,
+      "event_type": "marker",
+      "data": 4
+    },
+    {
+      "source_file": "492952012911_WELLNESS.fit",
+      "timestamp": "2026-10-12 12:22:00+00:00",
+      "start_timestamp": "2026-10-12 12:05:00+00:00",
+      "data16": 2,
+      "event": "auto_activity_detect",
+      "event_type": "marker",
+      "activity_type": "generic",
+      "auto_activity_detect_start_timestamp": "2026-10-12 12:05:00+00:00",
+      "data": 2
+    },
+    {
+      "source_file": "492952012911_WELLNESS.fit",
+      "timestamp": "2026-10-12 12:26:00+00:00",
+      "start_timestamp": "2026-10-12 12:07:00+00:00",
+      "data16": 4,
+      "event": "auto_activity_detect",
+      "event_type": "marker",
+      "activity_type": "sedentary",
+      "auto_activity_detect_start_timestamp": "2026-10-12 12:07:00+00:00",
+      "data": 4
+    },
+    {
+      "source_file": "492952012911_WELLNESS.fit",
+      "timestamp": "2026-10-12 12:27:00+00:00",
+      "start_timestamp": "2026-10-12 12:11:00+00:00",
+      "data16": 1,
+      "event": "auto_activity_detect",
+      "event_type": "marker",
+      "activity_type": "generic",
+      "auto_activity_detect_start_timestamp": "2026-10-12 12:11:00+00:00",
+      "data": 1
+    },
+    {
+      "source_file": "492952012911_WELLNESS.fit",
+      "timestamp": "2026-10-12 12:34:00+00:00",
+      "start_timestamp": "2026-10-12 12:12:00+00:00",
+      "data16": 7,
+      "event": "auto_activity_detect",
+      "event_type": "marker",
+      "activity_type": "sedentary",
+      "auto_activity_detect_start_timestamp": "2026-10-12 12:12:00+00:00",
+      "data": 7
+    },
+    {
+      "source_file": "492952012911_WELLNESS.fit",
+      "timestamp": "2026-10-12 12:35:00+00:00",
+      "data16": 5,
+      "event": 41,
+      "event_type": "marker",
+      "data": 5
+    },
+    {
+      "source_file": "492952012911_WELLNESS.fit",
+      "timestamp": "2026-10-12 12:36:00+00:00",
+      "start_timestamp": "2026-10-12 12:19:00+00:00",
+      "data16": 2,
+      "event": "auto_activity_detect",
+      "event_type": "marker",
+      "activity_type": "generic",
+      "auto_activity_detect_start_timestamp": "2026-10-12 12:19:00+00:00",
+      "data": 2
+    },
+    {
+      "source_file": "492952012911_WELLNESS.fit",
+      "timestamp": "2026-10-12 12:38:00+00:00",
+      "start_timestamp": "2026-10-12 12:21:00+00:00",
+      "data16": 2,
+      "event": "auto_activity_detect",
+      "event_type": "marker",
+      "activity_type": "sedentary",
+      "auto_activity_detect_start_timestamp": "2026-10-12 12:21:00+00:00",
+      "data": 2
+    },
+    {
+      "source_file": "492952012911_WELLNESS.fit",
+      "timestamp": "2026-10-12 12:40:00+00:00",
+      "start_timestamp": "2026-10-12 12:23:00+00:00",
+      "data16": 2,
+      "event": "auto_activity_detect",
+      "event_type": "marker",
+      "activity_type": "generic",
+      "auto_activity_detect_start_timestamp": "2026-10-12 12:23:00+00:00",
+      "data": 2
+    },
+    {
+      "source_file": "492952012911_WELLNESS.fit",
+      "timestamp": "2026-10-12 12:41:00+00:00",
+      "start_timestamp": "2026-10-12 12:25:00+00:00",
+      "data16": 1,
+      "event": "auto_activity_detect",
+      "event_type": "marker",
+      "activity_type": "sedentary",
+      "auto_activity_detect_start_timestamp": "2026-10-12 12:25:00+00:00",
+      "data": 1
+    },
+    {
+      "source_file": "492952012911_WELLNESS.fit",
+      "timestamp": "2026-10-12 12:45:00+00:00",
+      "start_timestamp": "2026-10-12 12:26:00+00:00",
+      "data16": 4,
+      "event": "auto_activity_detect",
+      "event_type": "marker",
+      "activity_type": "generic",
+      "auto_activity_detect_start_timestamp": "2026-10-12 12:26:00+00:00",
+      "data": 4
+    },
+    {
+      "source_file": "492952012911_WELLNESS.fit",
+      "timestamp": "2026-10-12 12:46:00+00:00",
+      "start_timestamp": "2026-10-12 12:30:00+00:00",
+      "data16": 1,
+      "event": "auto_activity_detect",
+      "event_type": "marker",
+      "activity_type": "sedentary",
+      "auto_activity_detect_start_timestamp": "2026-10-12 12:30:00+00:00",
+      "data": 1
+    },
+    {
+      "source_file": "492952012911_WELLNESS.fit",
+      "timestamp": "2026-10-12 12:48:00+00:00",
+      "start_timestamp": "2026-10-12 12:31:00+00:00",
+      "data16": 2,
+      "event": "auto_activity_detect",
+      "event_type": "marker",
+      "activity_type": "generic",
+      "auto_activity_detect_start_timestamp": "2026-10-12 12:31:00+00:00",
+      "data": 2
+    },
+    {
+      "source_file": "492952012911_WELLNESS.fit",
+      "timestamp": "2026-10-12 12:49:00+00:00",
+      "start_timestamp": "2026-10-12 12:33:00+00:00",
+      "data16": 1,
+      "event": "auto_activity_detect",
+      "event_type": "marker",
+      "activity_type": "sedentary",
+      "auto_activity_detect_start_timestamp": "2026-10-12 12:33:00+00:00",
+      "data": 1
+    },
+    {
+      "source_file": "492952012911_WELLNESS.fit",
+      "timestamp": "2026-10-12 12:50:00+00:00",
+      "start_timestamp": "2026-10-12 12:34:00+00:00",
+      "data16": 1,
+      "event": "auto_activity_detect",
+      "event_type": "marker",
+      "activity_type": "generic",
+      "auto_activity_detect_start_timestamp": "2026-10-12 12:34:00+00:00",
+      "data": 1
+    },
+    {
+      "source_file": "492952012911_WELLNESS.fit",
+      "timestamp": "2026-10-12 13:01:00+00:00",
+      "start_timestamp": "2026-10-12 12:35:00+00:00",
+      "data16": 11,
+      "event": "auto_activity_detect",
+      "event_type": "marker",
+      "activity_type": "sedentary",
+      "auto_activity_detect_start_timestamp": "2026-10-12 12:35:00+00:00",
+      "data": 11
+    },
+    {
+      "source_file": "492952012911_WELLNESS.fit",
+      "timestamp": "2026-10-12 13:03:00+00:00",
+      "start_timestamp": "2026-10-12 12:46:00+00:00",
+      "data16": 2,
+      "event": "auto_activity_detect",
+      "event_type": "marker",
+      "activity_type": "generic",
+      "auto_activity_detect_start_timestamp": "2026-10-12 12:46:00+00:00",
+      "data": 2
+    },
+    {
+      "source_file": "492952012911_WELLNESS.fit",
+      "timestamp": "2026-10-12 13:18:00+00:00",
+      "start_timestamp": "2026-10-12 12:48:00+00:00",
+      "data16": 15,
+      "event": "auto_activity_detect",
+      "event_type": "marker",
+      "activity_type": "sedentary",
+      "auto_activity_detect_start_timestamp": "2026-10-12 12:48:00+00:00",
+      "data": 15
+    },
+    {
+      "source_file": "492952012911_WELLNESS.fit",
+      "timestamp": "2026-10-12 13:19:00+00:00",
+      "start_timestamp": "2026-10-12 13:03:00+00:00",
+      "data16": 1,
+      "event": "auto_activity_detect",
+      "event_type": "marker",
+      "activity_type": "generic",
+      "auto_activity_detect_start_timestamp": "2026-10-12 13:03:00+00:00",
+      "data": 1
+    },
+    {
+      "source_file": "492952012911_WELLNESS.fit",
+      "timestamp": "2026-10-12 13:22:00+00:00",
+      "start_timestamp": "2026-10-12 13:04:00+00:00",
+      "data16": 3,
+      "event": "auto_activity_detect",
+      "event_type": "marker",
+      "activity_type": "sedentary",
+      "auto_activity_detect_start_timestamp": "2026-10-12 13:04:00+00:00",
+      "data": 3
+    },
+    {
+      "source_file": "492952012911_WELLNESS.fit",
+      "timestamp": "2026-10-12 13:23:00+00:00",
+      "start_timestamp": "2026-10-12 13:07:00+00:00",
+      "data16": 1,
+      "event": "auto_activity_detect",
+      "event_type": "marker",
+      "activity_type": "generic",
+      "auto_activity_detect_start_timestamp": "2026-10-12 13:07:00+00:00",
+      "data": 1
+    },
+    {
+      "source_file": "492952012911_WELLNESS.fit",
+      "timestamp": "2026-10-12 13:27:00+00:00",
+      "start_timestamp": "2026-10-12 13:08:00+00:00",
+      "data16": 4,
+      "event": "auto_activity_detect",
+      "event_type": "marker",
+      "activity_type": "sedentary",
+      "auto_activity_detect_start_timestamp": "2026-10-12 13:08:00+00:00",
+      "data": 4
+    },
+    {
+      "source_file": "492952012911_WELLNESS.fit",
+      "timestamp": "2026-10-12 13:28:00+00:00",
+      "start_timestamp": "2026-10-12 13:12:00+00:00",
+      "data16": 1,
+      "event": "auto_activity_detect",
+      "event_type": "marker",
+      "activity_type": "generic",
+      "auto_activity_detect_start_timestamp": "2026-10-12 13:12:00+00:00",
+      "data": 1
+    },
+    {
+      "source_file": "492952012911_WELLNESS.fit",
+      "timestamp": "2026-10-12 13:29:00+00:00",
+      "start_timestamp": "2026-10-12 13:13:00+00:00",
+      "data16": 1,
+      "event": "auto_activity_detect",
+      "event_type": "marker",
+      "activity_type": "sedentary",
+      "auto_activity_detect_start_timestamp": "2026-10-12 13:13:00+00:00",
+      "data": 1
+    },
+    {
+      "source_file": "492952012911_WELLNESS.fit",
+      "timestamp": "2026-10-12 13:30:00+00:00",
+      "start_timestamp": "2026-10-12 13:14:00+00:00",
+      "data16": 1,
+      "event": "auto_activity_detect",
+      "event_type": "marker",
+      "activity_type": "generic",
+      "auto_activity_detect_start_timestamp": "2026-10-12 13:14:00+00:00",
+      "data": 1
+    },
+    {
+      "source_file": "492952012911_WELLNESS.fit",
+      "timestamp": "2026-10-12 13:35:00+00:00",
+      "start_timestamp": "2026-10-12 13:15:00+00:00",
+      "data16": 5,
+      "event": "auto_activity_detect",
+      "event_type": "marker",
+      "activity_type": "sedentary",
+      "auto_activity_detect_start_timestamp": "2026-10-12 13:15:00+00:00",
+      "data": 5
+    },
+    {
+      "source_file": "492952012911_WELLNESS.fit",
+      "timestamp": "2026-10-12 13:36:00+00:00",
+      "start_timestamp": "2026-10-12 13:20:00+00:00",
+      "data16": 1,
+      "event": "auto_activity_detect",
+      "event_type": "marker",
+      "activity_type": "generic",
+      "auto_activity_detect_start_timestamp": "2026-10-12 13:20:00+00:00",
+      "data": 1
+    },
+    {
+      "source_file": "492952012911_WELLNESS.fit",
+      "timestamp": "2026-10-12 13:37:00+00:00",
+      "start_timestamp": "2026-10-12 13:21:00+00:00",
+      "data16": 1,
+      "event": "auto_activity_detect",
+      "event_type": "marker",
+      "activity_type": "sedentary",
+      "auto_activity_detect_start_timestamp": "2026-10-12 13:21:00+00:00",
+      "data": 1
+    },
+    {
+      "source_file": "492952012911_WELLNESS.fit",
+      "timestamp": "2026-10-12 13:39:00+00:00",
+      "start_timestamp": "2026-10-12 13:22:00+00:00",
+      "data16": 2,
+      "event": "auto_activity_detect",
+      "event_type": "marker",
+      "activity_type": "generic",
+      "auto_activity_detect_start_timestamp": "2026-10-12 13:22:00+00:00",
+      "data": 2
+    },
+    {
+      "source_file": "492952012911_WELLNESS.fit",
+      "timestamp": "2026-10-12 13:41:00+00:00",
+      "start_timestamp": "2026-10-12 13:24:00+00:00",
+      "data16": 2,
+      "event": "auto_activity_detect",
+      "event_type": "marker",
+      "activity_type": "sedentary",
+      "auto_activity_detect_start_timestamp": "2026-10-12 13:24:00+00:00",
+      "data": 2
+    },
+    {
+      "source_file": "492952012911_WELLNESS.fit",
+      "timestamp": "2026-10-12 13:42:00+00:00",
+      "start_timestamp": "2026-10-12 13:26:00+00:00",
+      "data16": 1,
+      "event": "auto_activity_detect",
+      "event_type": "marker",
+      "activity_type": "generic",
+      "auto_activity_detect_start_timestamp": "2026-10-12 13:26:00+00:00",
+      "data": 1
+    },
+    {
+      "source_file": "492952012911_WELLNESS.fit",
+      "timestamp": "2026-10-12 13:45:00+00:00",
+      "start_timestamp": "2026-10-12 13:27:00+00:00",
+      "data16": 3,
+      "event": "auto_activity_detect",
+      "event_type": "marker",
+      "activity_type": "sedentary",
+      "auto_activity_detect_start_timestamp": "2026-10-12 13:27:00+00:00",
+      "data": 3
+    },
+    {
+      "source_file": "492952012911_WELLNESS.fit",
+      "timestamp": "2026-10-12 13:50:00+00:00",
+      "start_timestamp": "2026-10-12 13:30:00+00:00",
+      "data16": 5,
+      "event": "auto_activity_detect",
+      "event_type": "marker",
+      "activity_type": "generic",
+      "auto_activity_detect_start_timestamp": "2026-10-12 13:30:00+00:00",
+      "data": 5
+    },
+    {
+      "source_file": "492952012911_WELLNESS.fit",
+      "timestamp": "2026-10-12 13:51:00+00:00",
+      "start_timestamp": "2026-10-12 13:35:00+00:00",
+      "data16": 1,
+      "event": "auto_activity_detect",
+      "event_type": "marker",
+      "activity_type": "sedentary",
+      "auto_activity_detect_start_timestamp": "2026-10-12 13:35:00+00:00",
+      "data": 1
+    },
+    {
+      "source_file": "492952012911_WELLNESS.fit",
+      "timestamp": "2026-10-12 13:53:00+00:00",
+      "start_timestamp": "2026-10-12 13:36:00+00:00",
+      "data16": 2,
+      "event": "auto_activity_detect",
+      "event_type": "marker",
+      "activity_type": "generic",
+      "auto_activity_detect_start_timestamp": "2026-10-12 13:36:00+00:00",
+      "data": 2
+    },
+    {
+      "source_file": "492952012911_WELLNESS.fit",
+      "timestamp": "2026-10-12 13:58:00+00:00",
+      "start_timestamp": "2026-10-12 13:38:00+00:00",
+      "data16": 5,
+      "event": "auto_activity_detect",
+      "event_type": "marker",
+      "activity_type": "sedentary",
+      "auto_activity_detect_start_timestamp": "2026-10-12 13:38:00+00:00",
+      "data": 5
+    },
+    {
+      "source_file": "492952012911_WELLNESS.fit",
+      "timestamp": "2026-10-12 14:00:00+00:00",
+      "start_timestamp": "2026-10-12 13:43:00+00:00",
+      "data16": 2,
+      "event": "auto_activity_detect",
+      "event_type": "marker",
+      "activity_type": "generic",
+      "auto_activity_detect_start_timestamp": "2026-10-12 13:43:00+00:00",
+      "data": 2
+    },
+    {
+      "source_file": "492952012911_WELLNESS.fit",
+      "timestamp": "2026-10-12 14:05:00+00:00",
+      "start_timestamp": "2026-10-12 13:45:00+00:00",
+      "data16": 5,
+      "event": "auto_activity_detect",
+      "event_type": "marker",
+      "activity_type": "sedentary",
+      "auto_activity_detect_start_timestamp": "2026-10-12 13:45:00+00:00",
+      "data": 5
+    },
+    {
+      "source_file": "492952012911_WELLNESS.fit",
+      "timestamp": "2026-10-12 14:08:00+00:00",
+      "start_timestamp": "2026-10-12 13:50:00+00:00",
+      "data16": 3,
+      "event": "auto_activity_detect",
+      "event_type": "marker",
+      "activity_type": "generic",
+      "auto_activity_detect_start_timestamp": "2026-10-12 13:50:00+00:00",
+      "data": 3
+    },
+    {
+      "source_file": "492952012911_WELLNESS.fit",
+      "timestamp": "2026-10-12 14:10:00+00:00",
+      "start_timestamp": "2026-10-12 13:53:00+00:00",
+      "data16": 2,
+      "event": "auto_activity_detect",
+      "event_type": "marker",
+      "activity_type": "sedentary",
+      "auto_activity_detect_start_timestamp": "2026-10-12 13:53:00+00:00",
+      "data": 2
+    },
+    {
+      "source_file": "492952012911_WELLNESS.fit",
+      "timestamp": "2026-10-12 14:12:00+00:00",
+      "start_timestamp": "2026-10-12 13:55:00+00:00",
+      "data16": 2,
+      "event": "auto_activity_detect",
+      "event_type": "marker",
+      "activity_type": "generic",
+      "auto_activity_detect_start_timestamp": "2026-10-12 13:55:00+00:00",
+      "data": 2
+    },
+    {
+      "source_file": "492952012911_WELLNESS.fit",
+      "timestamp": "2026-10-12 14:17:00+00:00",
+      "start_timestamp": "2026-10-12 13:57:00+00:00",
+      "data16": 5,
+      "event": "auto_activity_detect",
+      "event_type": "marker",
+      "activity_type": "sedentary",
+      "auto_activity_detect_start_timestamp": "2026-10-12 13:57:00+00:00",
+      "data": 5
+    },
+    {
+      "source_file": "492952012911_WELLNESS.fit",
+      "timestamp": "2026-10-12 14:18:00+00:00",
+      "start_timestamp": "2026-10-12 14:02:00+00:00",
+      "data16": 1,
+      "event": "auto_activity_detect",
+      "event_type": "marker",
+      "activity_type": "generic",
+      "auto_activity_detect_start_timestamp": "2026-10-12 14:02:00+00:00",
+      "data": 1
+    },
+    {
+      "source_file": "492952012911_WELLNESS.fit",
+      "timestamp": "2026-10-12 14:20:00+00:00",
+      "start_timestamp": "2026-10-12 14:03:00+00:00",
+      "data16": 2,
+      "event": "auto_activity_detect",
+      "event_type": "marker",
+      "activity_type": "sedentary",
+      "auto_activity_detect_start_timestamp": "2026-10-12 14:03:00+00:00",
+      "data": 2
+    },
+    {
+      "source_file": "492952012911_WELLNESS.fit",
+      "timestamp": "2026-10-12 14:21:00+00:00",
+      "start_timestamp": "2026-10-12 14:05:00+00:00",
+      "data16": 1,
+      "event": "auto_activity_detect",
+      "event_type": "marker",
+      "activity_type": "generic",
+      "auto_activity_detect_start_timestamp": "2026-10-12 14:05:00+00:00",
+      "data": 1
+    },
+    {
+      "source_file": "492952012911_WELLNESS.fit",
+      "timestamp": "2026-10-12 14:23:00+00:00",
+      "start_timestamp": "2026-10-12 14:06:00+00:00",
+      "data16": 2,
+      "event": "auto_activity_detect",
+      "event_type": "marker",
+      "activity_type": "sedentary",
+      "auto_activity_detect_start_timestamp": "2026-10-12 14:06:00+00:00",
+      "data": 2
+    },
+    {
+      "source_file": "492952012911_WELLNESS.fit",
+      "timestamp": "2026-10-12 14:25:00+00:00",
+      "start_timestamp": "2026-10-12 14:08:00+00:00",
+      "data16": 2,
+      "event": "auto_activity_detect",
+      "event_type": "marker",
+      "activity_type": "generic",
+      "auto_activity_detect_start_timestamp": "2026-10-12 14:08:00+00:00",
+      "data": 2
+    },
+    {
+      "source_file": "492952012911_WELLNESS.fit",
+      "timestamp": "2026-10-12 14:29:00+00:00",
+      "data16": 0,
+      "event": 41,
+      "event_type": "marker",
+      "data": 0
+    },
+    {
+      "source_file": "492952012911_WELLNESS.fit",
+      "timestamp": "2026-10-12 14:34:00+00:00",
+      "start_timestamp": "2026-10-12 14:10:00+00:00",
+      "data16": 9,
+      "event": "auto_activity_detect",
+      "event_type": "marker",
+      "activity_type": "sedentary",
+      "auto_activity_detect_start_timestamp": "2026-10-12 14:10:00+00:00",
+      "data": 9
+    },
+    {
+      "source_file": "492952012911_WELLNESS.fit",
+      "timestamp": "2026-10-12 14:40:00+00:00",
+      "start_timestamp": "2026-10-12 14:19:00+00:00",
+      "data16": 6,
+      "event": "auto_activity_detect",
+      "event_type": "marker",
+      "activity_type": "generic",
+      "auto_activity_detect_start_timestamp": "2026-10-12 14:19:00+00:00",
+      "data": 6
+    },
+    {
+      "source_file": "492952012911_WELLNESS.fit",
+      "timestamp": "2026-10-12 14:41:00+00:00",
+      "start_timestamp": "2026-10-12 14:25:00+00:00",
+      "data16": 1,
+      "event": "auto_activity_detect",
+      "event_type": "marker",
+      "activity_type": "sedentary",
+      "auto_activity_detect_start_timestamp": "2026-10-12 14:25:00+00:00",
+      "data": 1
+    },
+    {
+      "source_file": "492952012911_WELLNESS.fit",
+      "timestamp": "2026-10-12 14:44:00+00:00",
+      "start_timestamp": "2026-10-12 14:26:00+00:00",
+      "data16": 3,
+      "event": "auto_activity_detect",
+      "event_type": "marker",
+      "activity_type": "generic",
+      "auto_activity_detect_start_timestamp": "2026-10-12 14:26:00+00:00",
+      "data": 3
+    },
+    {
+      "source_file": "492952012911_WELLNESS.fit",
+      "timestamp": "2026-10-12 14:45:00+00:00",
+      "start_timestamp": "2026-10-12 14:29:00+00:00",
+      "data16": 1,
+      "event": "auto_activity_detect",
+      "event_type": "marker",
+      "activity_type": "sedentary",
+      "auto_activity_detect_start_timestamp": "2026-10-12 14:29:00+00:00",
+      "data": 1
+    },
+    {
+      "source_file": "492952012911_WELLNESS.fit",
+      "timestamp": "2026-10-12 14:47:00+00:00",
+      "start_timestamp": "2026-10-12 14:30:00+00:00",
+      "data16": 2,
+      "event": "auto_activity_detect",
+      "event_type": "marker",
+      "activity_type": "generic",
+      "auto_activity_detect_start_timestamp": "2026-10-12 14:30:00+00:00",
+      "data": 2
+    },
+    {
+      "source_file": "492952012911_WELLNESS.fit",
+      "timestamp": "2026-10-12 14:51:00+00:00",
+      "start_timestamp": "2026-10-12 14:32:00+00:00",
+      "data16": 4,
+      "event": "auto_activity_detect",
+      "event_type": "marker",
+      "activity_type": "sedentary",
+      "auto_activity_detect_start_timestamp": "2026-10-12 14:32:00+00:00",
+      "data": 4
+    },
+    {
+      "source_file": "492952012911_WELLNESS.fit",
+      "timestamp": "2026-10-12 14:53:00+00:00",
+      "start_timestamp": "2026-10-12 14:36:00+00:00",
+      "data16": 2,
+      "event": "auto_activity_detect",
+      "event_type": "marker",
+      "activity_type": "generic",
+      "auto_activity_detect_start_timestamp": "2026-10-12 14:36:00+00:00",
+      "data": 2
+    },
+    {
+      "source_file": "492952012911_WELLNESS.fit",
+      "timestamp": "2026-10-12 14:54:00+00:00",
+      "start_timestamp": "2026-10-12 14:38:00+00:00",
+      "data16": 1,
+      "event": "auto_activity_detect",
+      "event_type": "marker",
+      "activity_type": "sedentary",
+      "auto_activity_detect_start_timestamp": "2026-10-12 14:38:00+00:00",
+      "data": 1
+    },
+    {
+      "source_file": "492952012911_WELLNESS.fit",
+      "timestamp": "2026-10-12 15:00:00+00:00",
+      "start_timestamp": "2026-10-12 14:39:00+00:00",
+      "data16": 6,
+      "event": "auto_activity_detect",
+      "event_type": "marker",
+      "activity_type": "generic",
+      "auto_activity_detect_start_timestamp": "2026-10-12 14:39:00+00:00",
+      "data": 6
+    },
+    {
+      "source_file": "492952012911_WELLNESS.fit",
+      "timestamp": "2026-10-12 15:01:00+00:00",
+      "start_timestamp": "2026-10-12 14:45:00+00:00",
+      "data16": 1,
+      "event": "auto_activity_detect",
+      "event_type": "marker",
+      "activity_type": "sedentary",
+      "auto_activity_detect_start_timestamp": "2026-10-12 14:45:00+00:00",
+      "data": 1
+    },
+    {
+      "source_file": "492952012911_WELLNESS.fit",
+      "timestamp": "2026-10-12 15:02:00+00:00",
+      "start_timestamp": "2026-10-12 14:46:00+00:00",
+      "data16": 1,
+      "event": "auto_activity_detect",
+      "event_type": "marker",
+      "activity_type": "generic",
+      "auto_activity_detect_start_timestamp": "2026-10-12 14:46:00+00:00",
+      "data": 1
+    },
+    {
+      "source_file": "492952012911_WELLNESS.fit",
+      "timestamp": "2026-10-12 15:03:00+00:00",
+      "start_timestamp": "2026-10-12 14:47:00+00:00",
+      "data16": 1,
+      "event": "auto_activity_detect",
+      "event_type": "marker",
+      "activity_type": "sedentary",
+      "auto_activity_detect_start_timestamp": "2026-10-12 14:47:00+00:00",
+      "data": 1
+    },
+    {
+      "source_file": "492952012911_WELLNESS.fit",
+      "timestamp": "2026-10-12 15:10:00+00:00",
+      "start_timestamp": "2026-10-12 14:48:00+00:00",
+      "data16": 7,
+      "event": "auto_activity_detect",
+      "event_type": "marker",
+      "activity_type": "generic",
+      "auto_activity_detect_start_timestamp": "2026-10-12 14:48:00+00:00",
+      "data": 7
+    },
+    {
+      "source_file": "492952012911_WELLNESS.fit",
+      "timestamp": "2026-10-12 15:12:00+00:00",
+      "start_timestamp": "2026-10-12 14:55:00+00:00",
+      "data16": 2,
+      "event": "auto_activity_detect",
+      "event_type": "marker",
+      "activity_type": "sedentary",
+      "auto_activity_detect_start_timestamp": "2026-10-12 14:55:00+00:00",
+      "data": 2
+    },
+    {
+      "source_file": "492952012911_WELLNESS.fit",
+      "timestamp": "2026-10-12 15:15:00+00:00",
+      "start_timestamp": "2026-10-12 14:57:00+00:00",
+      "data16": 3,
+      "event": "auto_activity_detect",
+      "event_type": "marker",
+      "activity_type": "generic",
+      "auto_activity_detect_start_timestamp": "2026-10-12 14:57:00+00:00",
+      "data": 3
+    },
+    {
+      "source_file": "492952012911_WELLNESS.fit",
+      "timestamp": "2026-10-12 15:16:00+00:00",
+      "start_timestamp": "2026-10-12 15:00:00+00:00",
+      "data16": 1,
+      "event": "auto_activity_detect",
+      "event_type": "marker",
+      "activity_type": "sedentary",
+      "auto_activity_detect_start_timestamp": "2026-10-12 15:00:00+00:00",
+      "data": 1
+    },
+    {
+      "source_file": "492952012911_WELLNESS.fit",
+      "timestamp": "2026-10-12 15:17:00+00:00",
+      "start_timestamp": "2026-10-12 15:01:00+00:00",
+      "data16": 1,
+      "event": "auto_activity_detect",
+      "event_type": "marker",
+      "activity_type": "generic",
+      "auto_activity_detect_start_timestamp": "2026-10-12 15:01:00+00:00",
+      "data": 1
+    },
+    {
+      "source_file": "492952012911_WELLNESS.fit",
+      "timestamp": "2026-10-12 15:20:00+00:00",
+      "start_timestamp": "2026-10-12 15:02:00+00:00",
+      "data16": 3,
+      "event": "auto_activity_detect",
+      "event_type": "marker",
+      "activity_type": "sedentary",
+      "auto_activity_detect_start_timestamp": "2026-10-12 15:02:00+00:00",
+      "data": 3
+    },
+    {
+      "source_file": "492952012911_WELLNESS.fit",
+      "timestamp": "2026-10-12 15:21:00+00:00",
+      "start_timestamp": "2026-10-12 15:05:00+00:00",
+      "data16": 1,
+      "event": "auto_activity_detect",
+      "event_type": "marker",
+      "activity_type": "generic",
+      "auto_activity_detect_start_timestamp": "2026-10-12 15:05:00+00:00",
+      "data": 1
+    },
+    {
+      "source_file": "492952012911_WELLNESS.fit",
+      "timestamp": "2026-10-12 15:22:00+00:00",
+      "start_timestamp": "2026-10-12 15:06:00+00:00",
+      "data16": 1,
+      "event": "auto_activity_detect",
+      "event_type": "marker",
+      "activity_type": "sedentary",
+      "auto_activity_detect_start_timestamp": "2026-10-12 15:06:00+00:00",
+      "data": 1
+    },
+    {
+      "source_file": "492952012911_WELLNESS.fit",
+      "timestamp": "2026-10-12 15:24:00+00:00",
+      "start_timestamp": "2026-10-12 15:07:00+00:00",
+      "data16": 2,
+      "event": "auto_activity_detect",
+      "event_type": "marker",
+      "activity_type": "generic",
+      "auto_activity_detect_start_timestamp": "2026-10-12 15:07:00+00:00",
+      "data": 2
+    },
+    {
+      "source_file": "492952012911_WELLNESS.fit",
+      "timestamp": "2026-10-12 15:25:00+00:00",
+      "start_timestamp": "2026-10-12 15:09:00+00:00",
+      "data16": 1,
+      "event": "auto_activity_detect",
+      "event_type": "marker",
+      "activity_type": "sedentary",
+      "auto_activity_detect_start_timestamp": "2026-10-12 15:09:00+00:00",
+      "data": 1
+    },
+    {
+      "source_file": "492952012911_WELLNESS.fit",
+      "timestamp": "2026-10-12 15:26:00+00:00",
+      "start_timestamp": "2026-10-12 15:10:00+00:00",
+      "data16": 1,
+      "event": "auto_activity_detect",
+      "event_type": "marker",
+      "activity_type": "generic",
+      "auto_activity_detect_start_timestamp": "2026-10-12 15:10:00+00:00",
+      "data": 1
+    },
+    {
+      "source_file": "492952012911_WELLNESS.fit",
+      "timestamp": "2026-10-12 15:28:00+00:00",
+      "start_timestamp": "2026-10-12 15:11:00+00:00",
+      "data16": 2,
+      "event": "auto_activity_detect",
+      "event_type": "marker",
+      "activity_type": "sedentary",
+      "auto_activity_detect_start_timestamp": "2026-10-12 15:11:00+00:00",
+      "data": 2
+    },
+    {
+      "source_file": "492952012911_WELLNESS.fit",
+      "timestamp": "2026-10-12 15:29:00+00:00",
+      "start_timestamp": "2026-10-12 15:13:00+00:00",
+      "data16": 1,
+      "event": "auto_activity_detect",
+      "event_type": "marker",
+      "activity_type": "generic",
+      "auto_activity_detect_start_timestamp": "2026-10-12 15:13:00+00:00",
+      "data": 1
+    },
+    {
+      "source_file": "492952012911_WELLNESS.fit",
+      "timestamp": "2026-10-12 15:31:00+00:00",
+      "start_timestamp": "2026-10-12 15:14:00+00:00",
+      "data16": 2,
+      "event": "auto_activity_detect",
+      "event_type": "marker",
+      "activity_type": "sedentary",
+      "auto_activity_detect_start_timestamp": "2026-10-12 15:14:00+00:00",
+      "data": 2
+    },
+    {
+      "source_file": "492952012911_WELLNESS.fit",
+      "timestamp": "2026-10-12 15:33:00+00:00",
+      "start_timestamp": "2026-10-12 15:16:00+00:00",
+      "data16": 2,
+      "event": "auto_activity_detect",
+      "event_type": "marker",
+      "activity_type": "generic",
+      "auto_activity_detect_start_timestamp": "2026-10-12 15:16:00+00:00",
+      "data": 2
+    },
+    {
+      "source_file": "492952012911_WELLNESS.fit",
+      "timestamp": "2026-10-12 15:36:00+00:00",
+      "start_timestamp": "2026-10-12 15:18:00+00:00",
+      "data16": 3,
+      "event": "auto_activity_detect",
+      "event_type": "marker",
+      "activity_type": "sedentary",
+      "auto_activity_detect_start_timestamp": "2026-10-12 15:18:00+00:00",
+      "data": 3
+    },
+    {
+      "source_file": "492952012911_WELLNESS.fit",
+      "timestamp": "2026-10-12 15:37:00+00:00",
+      "start_timestamp": "2026-10-12 15:21:00+00:00",
+      "data16": 1,
+      "event": "auto_activity_detect",
+      "event_type": "marker",
+      "activity_type": "generic",
+      "auto_activity_detect_start_timestamp": "2026-10-12 15:21:00+00:00",
+      "data": 1
+    },
+    {
+      "source_file": "492952012911_WELLNESS.fit",
+      "timestamp": "2026-10-12 15:40:00+00:00",
+      "start_timestamp": "2026-10-12 15:22:00+00:00",
+      "data16": 3,
+      "event": "auto_activity_detect",
+      "event_type": "marker",
+      "activity_type": "sedentary",
+      "auto_activity_detect_start_timestamp": "2026-10-12 15:22:00+00:00",
+      "data": 3
+    },
+    {
+      "source_file": "492952012911_WELLNESS.fit",
+      "timestamp": "2026-10-12 15:42:00+00:00",
+      "start_timestamp": "2026-10-12 15:25:00+00:00",
+      "data16": 2,
+      "event": "auto_activity_detect",
+      "event_type": "marker",
+      "activity_type": "generic",
+      "auto_activity_detect_start_timestamp": "2026-10-12 15:25:00+00:00",
+      "data": 2
+    },
+    {
+      "source_file": "492952012911_WELLNESS.fit",
+      "timestamp": "2026-10-12 15:51:00+00:00",
+      "start_timestamp": "2026-10-12 15:27:00+00:00",
+      "data16": 9,
+      "event": "auto_activity_detect",
+      "event_type": "marker",
+      "activity_type": "sedentary",
+      "auto_activity_detect_start_timestamp": "2026-10-12 15:27:00+00:00",
+      "data": 9
+    },
+    {
+      "source_file": "492952012911_WELLNESS.fit",
+      "timestamp": "2026-10-12 15:52:00+00:00",
+      "start_timestamp": "2026-10-12 15:36:00+00:00",
+      "data16": 1,
+      "event": "auto_activity_detect",
+      "event_type": "marker",
+      "activity_type": "generic",
+      "auto_activity_detect_start_timestamp": "2026-10-12 15:36:00+00:00",
+      "data": 1
+    },
+    {
+      "source_file": "492952012911_WELLNESS.fit",
+      "timestamp": "2026-10-12 15:54:00+00:00",
+      "start_timestamp": "2026-10-12 15:37:00+00:00",
+      "data16": 2,
+      "event": "auto_activity_detect",
+      "event_type": "marker",
+      "activity_type": "sedentary",
+      "auto_activity_detect_start_timestamp": "2026-10-12 15:37:00+00:00",
+      "data": 2
+    },
+    {
+      "source_file": "492952012911_WELLNESS.fit",
+      "timestamp": "2026-10-12 15:55:00+00:00",
+      "start_timestamp": "2026-10-12 15:39:00+00:00",
+      "data16": 1,
+      "event": "auto_activity_detect",
+      "event_type": "marker",
+      "activity_type": "generic",
+      "auto_activity_detect_start_timestamp": "2026-10-12 15:39:00+00:00",
+      "data": 1
+    },
+    {
+      "source_file": "492952012911_WELLNESS.fit",
+      "timestamp": "2026-10-12 16:05:00+00:00",
+      "start_timestamp": "2026-10-12 15:40:00+00:00",
+      "data16": 10,
+      "event": "auto_activity_detect",
+      "event_type": "marker",
+      "activity_type": "sedentary",
+      "auto_activity_detect_start_timestamp": "2026-10-12 15:40:00+00:00",
+      "data": 10
+    },
+    {
+      "source_file": "492952012911_WELLNESS.fit",
+      "timestamp": "2026-10-12 16:08:00+00:00",
+      "start_timestamp": "2026-10-12 15:50:00+00:00",
+      "data16": 3,
+      "event": "auto_activity_detect",
+      "event_type": "marker",
+      "activity_type": "generic",
+      "auto_activity_detect_start_timestamp": "2026-10-12 15:50:00+00:00",
+      "data": 3
+    },
+    {
+      "source_file": "492952012911_WELLNESS.fit",
+      "timestamp": "2026-10-12 16:09:00+00:00",
+      "start_timestamp": "2026-10-12 15:53:00+00:00",
+      "data16": 1,
+      "event": "auto_activity_detect",
+      "event_type": "marker",
+      "activity_type": "sedentary",
+      "auto_activity_detect_start_timestamp": "2026-10-12 15:53:00+00:00",
+      "data": 1
+    },
+    {
+      "source_file": "492952012911_WELLNESS.fit",
+      "timestamp": "2026-10-12 16:10:00+00:00",
+      "start_timestamp": "2026-10-12 15:54:00+00:00",
+      "data16": 1,
+      "event": "auto_activity_detect",
+      "event_type": "marker",
+      "activity_type": "generic",
+      "auto_activity_detect_start_timestamp": "2026-10-12 15:54:00+00:00",
+      "data": 1
+    },
+    {
+      "source_file": "492952012911_WELLNESS.fit",
+      "timestamp": "2026-10-12 16:11:00+00:00",
+      "start_timestamp": "2026-10-12 15:55:00+00:00",
+      "data16": 1,
+      "event": "auto_activity_detect",
+      "event_type": "marker",
+      "activity_type": "sedentary",
+      "auto_activity_detect_start_timestamp": "2026-10-12 15:55:00+00:00",
+      "data": 1
+    },
+    {
+      "source_file": "492952012911_WELLNESS.fit",
+      "timestamp": "2026-10-12 16:14:00+00:00",
+      "start_timestamp": "2026-10-12 15:56:00+00:00",
+      "data16": 3,
+      "event": "auto_activity_detect",
+      "event_type": "marker",
+      "activity_type": "generic",
+      "auto_activity_detect_start_timestamp": "2026-10-12 15:56:00+00:00",
+      "data": 3
+    },
+    {
+      "source_file": "492952012911_WELLNESS.fit",
+      "timestamp": "2026-10-12 16:15:00+00:00",
+      "start_timestamp": "2026-10-12 15:59:00+00:00",
+      "data16": 1,
+      "event": "auto_activity_detect",
+      "event_type": "marker",
+      "activity_type": "sedentary",
+      "auto_activity_detect_start_timestamp": "2026-10-12 15:59:00+00:00",
+      "data": 1
+    },
+    {
+      "source_file": "492952012911_WELLNESS.fit",
+      "timestamp": "2026-10-12 16:16:00+00:00",
+      "start_timestamp": "2026-10-12 16:00:00+00:00",
+      "data16": 1,
+      "event": "auto_activity_detect",
+      "event_type": "marker",
+      "activity_type": "generic",
+      "auto_activity_detect_start_timestamp": "2026-10-12 16:00:00+00:00",
+      "data": 1
+    },
+    {
+      "source_file": "492952012911_WELLNESS.fit",
+      "timestamp": "2026-10-12 16:18:00+00:00",
+      "start_timestamp": "2026-10-12 16:01:00+00:00",
+      "data16": 2,
+      "event": "auto_activity_detect",
+      "event_type": "marker",
+      "activity_type": "sedentary",
+      "auto_activity_detect_start_timestamp": "2026-10-12 16:01:00+00:00",
+      "data": 2
+    },
+    {
+      "source_file": "492973338267_WELLNESS.fit",
+      "timestamp": "2026-10-12 16:28:56+00:00",
+      "data16": 300,
+      "event": 78,
+      "event_type": "marker",
+      "data": 300
+    },
+    {
+      "source_file": "492973338267_WELLNESS.fit",
+      "timestamp": "2026-10-12 16:50:00+00:00",
+      "start_timestamp": "2026-10-12 16:03:00+00:00",
+      "data16": 32,
+      "event": "auto_activity_detect",
+      "event_type": "marker",
+      "activity_type": "generic",
+      "auto_activity_detect_start_timestamp": "2026-10-12 16:03:00+00:00",
+      "data": 32
+    },
+    {
+      "source_file": "492973338267_WELLNESS.fit",
+      "timestamp": "2026-10-12 16:56:00+00:00",
+      "start_timestamp": "2026-10-12 16:35:00+00:00",
+      "data16": 6,
+      "event": "auto_activity_detect",
+      "event_type": "marker",
+      "activity_type": "sedentary",
+      "auto_activity_detect_start_timestamp": "2026-10-12 16:35:00+00:00",
+      "data": 6
+    },
+    {
+      "source_file": "492973338267_WELLNESS.fit",
+      "timestamp": "2026-10-12 17:07:00+00:00",
+      "start_timestamp": "2026-10-12 16:41:00+00:00",
+      "data16": 11,
+      "event": "auto_activity_detect",
+      "event_type": "marker",
+      "activity_type": "generic",
+      "auto_activity_detect_start_timestamp": "2026-10-12 16:41:00+00:00",
+      "data": 11
+    },
+    {
+      "source_file": "492973338267_WELLNESS.fit",
+      "timestamp": "2026-10-12 17:08:00+00:00",
+      "start_timestamp": "2026-10-12 16:52:00+00:00",
+      "data16": 1,
+      "event": "auto_activity_detect",
+      "event_type": "marker",
+      "activity_type": "sedentary",
+      "auto_activity_detect_start_timestamp": "2026-10-12 16:52:00+00:00",
+      "data": 1
+    },
+    {
+      "source_file": "492973338267_WELLNESS.fit",
+      "timestamp": "2026-10-12 17:26:00+00:00",
+      "data16": 1,
+      "event": 41,
+      "event_type": "marker",
+      "data": 1
+    },
+    {
+      "source_file": "492973338267_WELLNESS.fit",
+      "timestamp": "2026-10-12 17:36:00+00:00",
+      "start_timestamp": "2026-10-12 16:53:00+00:00",
+      "data16": 28,
+      "event": "auto_activity_detect",
+      "event_type": "marker",
+      "activity_type": "generic",
+      "auto_activity_detect_start_timestamp": "2026-10-12 16:53:00+00:00",
+      "data": 28
+    },
+    {
+      "source_file": "492973338267_WELLNESS.fit",
+      "timestamp": "2026-10-12 17:37:00+00:00",
+      "start_timestamp": "2026-10-12 17:21:00+00:00",
+      "data16": 1,
+      "event": "auto_activity_detect",
+      "event_type": "marker",
+      "activity_type": "sedentary",
+      "auto_activity_detect_start_timestamp": "2026-10-12 17:21:00+00:00",
+      "data": 1
+    },
+    {
+      "source_file": "492973338267_WELLNESS.fit",
+      "timestamp": "2026-10-12 17:39:00+00:00",
+      "start_timestamp": "2026-10-12 17:22:00+00:00",
+      "data16": 2,
+      "event": "auto_activity_detect",
+      "event_type": "marker",
+      "activity_type": "generic",
+      "auto_activity_detect_start_timestamp": "2026-10-12 17:22:00+00:00",
+      "data": 2
+    },
+    {
+      "source_file": "492973338267_WELLNESS.fit",
+      "timestamp": "2026-10-12 17:40:00+00:00",
+      "start_timestamp": "2026-10-12 17:24:00+00:00",
+      "data16": 1,
+      "event": "auto_activity_detect",
+      "event_type": "marker",
+      "activity_type": "sedentary",
+      "auto_activity_detect_start_timestamp": "2026-10-12 17:24:00+00:00",
+      "data": 1
+    },
+    {
+      "source_file": "492973338267_WELLNESS.fit",
+      "timestamp": "2026-10-12 17:40:00+00:00",
+      "data16": 2,
+      "event": 41,
+      "event_type": "marker",
+      "data": 2
+    },
+    {
+      "source_file": "492973338267_WELLNESS.fit",
+      "timestamp": "2026-10-12 17:46:00+00:00",
+      "start_timestamp": "2026-10-12 17:25:00+00:00",
+      "data16": 6,
+      "event": "auto_activity_detect",
+      "event_type": "marker",
+      "activity_type": "generic",
+      "auto_activity_detect_start_timestamp": "2026-10-12 17:25:00+00:00",
+      "data": 6
+    },
+    {
+      "source_file": "493049062189_WELLNESS.fit",
+      "timestamp": "2026-10-12 17:49:05+00:00",
+      "data16": 300,
+      "event": 78,
+      "event_type": "marker",
+      "data": 300
+    },
+    {
+      "source_file": "493049062189_WELLNESS.fit",
+      "timestamp": "2026-10-12 17:50:00+00:00",
+      "start_timestamp": "2026-10-12 17:31:00+00:00",
+      "data16": 4,
+      "event": "auto_activity_detect",
+      "event_type": "marker",
+      "activity_type": "sedentary",
+      "auto_activity_detect_start_timestamp": "2026-10-12 17:31:00+00:00",
+      "data": 4
+    },
+    {
+      "source_file": "493049062189_WELLNESS.fit",
+      "timestamp": "2026-10-12 17:55:00+00:00",
+      "data16": 3,
+      "event": 41,
+      "event_type": "marker",
+      "data": 3
+    },
+    {
+      "source_file": "493049062189_WELLNESS.fit",
+      "timestamp": "2026-10-12 18:00:00+00:00",
+      "start_timestamp": "2026-10-12 17:35:00+00:00",
+      "data16": 10,
+      "event": "auto_activity_detect",
+      "event_type": "marker",
+      "activity_type": "generic",
+      "auto_activity_detect_start_timestamp": "2026-10-12 17:35:00+00:00",
+      "data": 10
+    },
+    {
+      "source_file": "493049062189_WELLNESS.fit",
+      "timestamp": "2026-10-12 18:03:00+00:00",
+      "start_timestamp": "2026-10-12 17:45:00+00:00",
+      "data16": 3,
+      "event": "auto_activity_detect",
+      "event_type": "marker",
+      "activity_type": "sedentary",
+      "auto_activity_detect_start_timestamp": "2026-10-12 17:45:00+00:00",
+      "data": 3
+    },
+    {
+      "source_file": "493049062189_WELLNESS.fit",
+      "timestamp": "2026-10-12 18:09:00+00:00",
+      "start_timestamp": "2026-10-12 17:48:00+00:00",
+      "data16": 6,
+      "event": "auto_activity_detect",
+      "event_type": "marker",
+      "activity_type": "generic",
+      "auto_activity_detect_start_timestamp": "2026-10-12 17:48:00+00:00",
+      "data": 6
+    },
+    {
+      "source_file": "493049062189_WELLNESS.fit",
+      "timestamp": "2026-10-12 18:10:00+00:00",
+      "start_timestamp": "2026-10-12 17:54:00+00:00",
+      "data16": 1,
+      "event": "auto_activity_detect",
+      "event_type": "marker",
+      "activity_type": "sedentary",
+      "auto_activity_detect_start_timestamp": "2026-10-12 17:54:00+00:00",
+      "data": 1
+    },
+    {
+      "source_file": "493049062189_WELLNESS.fit",
+      "timestamp": "2026-10-12 18:10:00+00:00",
+      "data16": 4,
+      "event": 41,
+      "event_type": "marker",
+      "data": 4
+    },
+    {
+      "source_file": "493049062189_WELLNESS.fit",
+      "timestamp": "2026-10-12 18:11:00+00:00",
+      "start_timestamp": "2026-10-12 17:55:00+00:00",
+      "data16": 1,
+      "event": "auto_activity_detect",
+      "event_type": "marker",
+      "activity_type": "generic",
+      "auto_activity_detect_start_timestamp": "2026-10-12 17:55:00+00:00",
+      "data": 1
+    },
+    {
+      "source_file": "493049062189_WELLNESS.fit",
+      "timestamp": "2026-10-12 18:17:00+00:00",
+      "start_timestamp": "2026-10-12 17:56:00+00:00",
+      "data16": 6,
+      "event": "auto_activity_detect",
+      "event_type": "marker",
+      "activity_type": "sedentary",
+      "auto_activity_detect_start_timestamp": "2026-10-12 17:56:00+00:00",
+      "data": 6
+    },
+    {
+      "source_file": "493049062189_WELLNESS.fit",
+      "timestamp": "2026-10-12 18:18:00+00:00",
+      "start_timestamp": "2026-10-12 18:02:00+00:00",
+      "data16": 1,
+      "event": "auto_activity_detect",
+      "event_type": "marker",
+      "activity_type": "generic",
+      "auto_activity_detect_start_timestamp": "2026-10-12 18:02:00+00:00",
+      "data": 1
+    },
+    {
+      "source_file": "493049062189_WELLNESS.fit",
+      "timestamp": "2026-10-12 18:20:00+00:00",
+      "start_timestamp": "2026-10-12 18:03:00+00:00",
+      "data16": 2,
+      "event": "auto_activity_detect",
+      "event_type": "marker",
+      "activity_type": "sedentary",
+      "auto_activity_detect_start_timestamp": "2026-10-12 18:03:00+00:00",
+      "data": 2
+    },
+    {
+      "source_file": "493049062189_WELLNESS.fit",
+      "timestamp": "2026-10-12 18:21:00+00:00",
+      "start_timestamp": "2026-10-12 18:05:00+00:00",
+      "data16": 1,
+      "event": "auto_activity_detect",
+      "event_type": "marker",
+      "activity_type": "generic",
+      "auto_activity_detect_start_timestamp": "2026-10-12 18:05:00+00:00",
+      "data": 1
+    },
+    {
+      "source_file": "493049062189_WELLNESS.fit",
+      "timestamp": "2026-10-12 18:27:00+00:00",
+      "data16": 5,
+      "event": 41,
+      "event_type": "marker",
+      "data": 5
+    },
+    {
+      "source_file": "493049062189_WELLNESS.fit",
+      "timestamp": "2026-10-12 18:38:00+00:00",
+      "start_timestamp": "2026-10-12 18:06:00+00:00",
+      "data16": 17,
+      "event": "auto_activity_detect",
+      "event_type": "marker",
+      "activity_type": "sedentary",
+      "auto_activity_detect_start_timestamp": "2026-10-12 18:06:00+00:00",
+      "data": 17
+    },
+    {
+      "source_file": "493049062189_WELLNESS.fit",
+      "timestamp": "2026-10-12 18:47:00+00:00",
+      "start_timestamp": "2026-10-12 18:23:00+00:00",
+      "data16": 9,
+      "event": "auto_activity_detect",
+      "event_type": "marker",
+      "activity_type": "generic",
+      "auto_activity_detect_start_timestamp": "2026-10-12 18:23:00+00:00",
+      "data": 9
+    },
+    {
+      "source_file": "493049062189_WELLNESS.fit",
+      "timestamp": "2026-10-12 18:49:00+00:00",
+      "start_timestamp": "2026-10-12 18:32:00+00:00",
+      "data16": 2,
+      "event": "auto_activity_detect",
+      "event_type": "marker",
+      "activity_type": "sedentary",
+      "auto_activity_detect_start_timestamp": "2026-10-12 18:32:00+00:00",
+      "data": 2
+    },
+    {
+      "source_file": "493049062189_WELLNESS.fit",
+      "timestamp": "2026-10-12 18:53:00+00:00",
+      "start_timestamp": "2026-10-12 18:34:00+00:00",
+      "data16": 4,
+      "event": "auto_activity_detect",
+      "event_type": "marker",
+      "activity_type": "generic",
+      "auto_activity_detect_start_timestamp": "2026-10-12 18:34:00+00:00",
+      "data": 4
+    },
+    {
+      "source_file": "493049062189_WELLNESS.fit",
+      "timestamp": "2026-10-12 19:04:00+00:00",
+      "start_timestamp": "2026-10-12 18:38:00+00:00",
+      "data16": 11,
+      "event": "auto_activity_detect",
+      "event_type": "marker",
+      "activity_type": "sedentary",
+      "auto_activity_detect_start_timestamp": "2026-10-12 18:38:00+00:00",
+      "data": 11
+    },
+    {
+      "source_file": "493049062189_WELLNESS.fit",
+      "timestamp": "2026-10-12 19:05:00+00:00",
+      "start_timestamp": "2026-10-12 18:49:00+00:00",
+      "data16": 1,
+      "event": "auto_activity_detect",
+      "event_type": "marker",
+      "activity_type": "generic",
+      "auto_activity_detect_start_timestamp": "2026-10-12 18:49:00+00:00",
+      "data": 1
+    },
+    {
+      "source_file": "493049062189_WELLNESS.fit",
+      "timestamp": "2026-10-12 19:18:00+00:00",
+      "start_timestamp": "2026-10-12 18:50:00+00:00",
+      "data16": 13,
+      "event": "auto_activity_detect",
+      "event_type": "marker",
+      "activity_type": "sedentary",
+      "auto_activity_detect_start_timestamp": "2026-10-12 18:50:00+00:00",
+      "data": 13
+    },
+    {
+      "source_file": "493049062189_WELLNESS.fit",
+      "timestamp": "2026-10-12 19:20:00+00:00",
+      "start_timestamp": "2026-10-12 19:03:00+00:00",
+      "data16": 2,
+      "event": "auto_activity_detect",
+      "event_type": "marker",
+      "activity_type": "generic",
+      "auto_activity_detect_start_timestamp": "2026-10-12 19:03:00+00:00",
+      "data": 2
+    },
+    {
+      "source_file": "493049062189_WELLNESS.fit",
+      "timestamp": "2026-10-12 19:28:00+00:00",
+      "start_timestamp": "2026-10-12 19:05:00+00:00",
+      "data16": 8,
+      "event": "auto_activity_detect",
+      "event_type": "marker",
+      "activity_type": "sedentary",
+      "auto_activity_detect_start_timestamp": "2026-10-12 19:05:00+00:00",
+      "data": 8
+    },
+    {
+      "source_file": "493049062189_WELLNESS.fit",
+      "timestamp": "2026-10-12 19:51:00+00:00",
+      "start_timestamp": "2026-10-12 19:13:00+00:00",
+      "data16": 23,
+      "event": "auto_activity_detect",
+      "event_type": "marker",
+      "activity_type": "generic",
+      "auto_activity_detect_start_timestamp": "2026-10-12 19:13:00+00:00",
+      "data": 23
+    },
+    {
+      "source_file": "493049062189_WELLNESS.fit",
+      "timestamp": "2026-10-12 19:54:00+00:00",
+      "start_timestamp": "2026-10-12 19:36:00+00:00",
+      "data16": 3,
+      "event": "auto_activity_detect",
+      "event_type": "marker",
+      "activity_type": "sedentary",
+      "auto_activity_detect_start_timestamp": "2026-10-12 19:36:00+00:00",
+      "data": 3
+    },
+    {
+      "source_file": "493049062189_WELLNESS.fit",
+      "timestamp": "2026-10-12 19:55:00+00:00",
+      "start_timestamp": "2026-10-12 19:39:00+00:00",
+      "data16": 1,
+      "event": "auto_activity_detect",
+      "event_type": "marker",
+      "activity_type": "generic",
+      "auto_activity_detect_start_timestamp": "2026-10-12 19:39:00+00:00",
+      "data": 1
+    },
+    {
+      "source_file": "493049062189_WELLNESS.fit",
+      "timestamp": "2026-10-12 19:58:00+00:00",
+      "start_timestamp": "2026-10-12 19:40:00+00:00",
+      "data16": 3,
+      "event": "auto_activity_detect",
+      "event_type": "marker",
+      "activity_type": "sedentary",
+      "auto_activity_detect_start_timestamp": "2026-10-12 19:40:00+00:00",
+      "data": 3
+    },
+    {
+      "source_file": "493049062189_WELLNESS.fit",
+      "timestamp": "2026-10-12 20:00:00+00:00",
+      "start_timestamp": "2026-10-12 19:43:00+00:00",
+      "data16": 2,
+      "event": "auto_activity_detect",
+      "event_type": "marker",
+      "activity_type": "generic",
+      "auto_activity_detect_start_timestamp": "2026-10-12 19:43:00+00:00",
+      "data": 2
+    },
+    {
+      "source_file": "493049062189_WELLNESS.fit",
+      "timestamp": "2026-10-12 20:00:00+00:00",
+      "data16": 0,
+      "event": 41,
+      "event_type": "marker",
+      "data": 0
+    },
+    {
+      "source_file": "493049062189_WELLNESS.fit",
+      "timestamp": "2026-10-12 20:03:00+00:00",
+      "start_timestamp": "2026-10-12 19:45:00+00:00",
+      "data16": 3,
+      "event": "auto_activity_detect",
+      "event_type": "marker",
+      "activity_type": "sedentary",
+      "auto_activity_detect_start_timestamp": "2026-10-12 19:45:00+00:00",
+      "data": 3
+    },
+    {
+      "source_file": "493049062189_WELLNESS.fit",
+      "timestamp": "2026-10-12 20:07:00+00:00",
+      "start_timestamp": "2026-10-12 19:48:00+00:00",
+      "data16": 4,
+      "event": "auto_activity_detect",
+      "event_type": "marker",
+      "activity_type": "generic",
+      "auto_activity_detect_start_timestamp": "2026-10-12 19:48:00+00:00",
+      "data": 4
+    },
+    {
+      "source_file": "493049062189_WELLNESS.fit",
+      "timestamp": "2026-10-12 20:08:00+00:00",
+      "start_timestamp": "2026-10-12 19:52:00+00:00",
+      "data16": 1,
+      "event": "auto_activity_detect",
+      "event_type": "marker",
+      "activity_type": "sedentary",
+      "auto_activity_detect_start_timestamp": "2026-10-12 19:52:00+00:00",
+      "data": 1
+    },
+    {
+      "source_file": "493049062189_WELLNESS.fit",
+      "timestamp": "2026-10-12 20:18:00+00:00",
+      "start_timestamp": "2026-10-12 19:53:00+00:00",
+      "data16": 10,
+      "event": "auto_activity_detect",
+      "event_type": "marker",
+      "activity_type": "generic",
+      "auto_activity_detect_start_timestamp": "2026-10-12 19:53:00+00:00",
+      "data": 10
+    },
+    {
+      "source_file": "493049062189_WELLNESS.fit",
+      "timestamp": "2026-10-12 20:19:00+00:00",
+      "start_timestamp": "2026-10-12 20:03:00+00:00",
+      "data16": 1,
+      "event": "auto_activity_detect",
+      "event_type": "marker",
+      "activity_type": "sedentary",
+      "auto_activity_detect_start_timestamp": "2026-10-12 20:03:00+00:00",
+      "data": 1
+    },
+    {
+      "source_file": "493049062189_WELLNESS.fit",
+      "timestamp": "2026-10-12 20:20:00+00:00",
+      "start_timestamp": "2026-10-12 20:04:00+00:00",
+      "data16": 1,
+      "event": "auto_activity_detect",
+      "event_type": "marker",
+      "activity_type": "generic",
+      "auto_activity_detect_start_timestamp": "2026-10-12 20:04:00+00:00",
+      "data": 1
+    },
+    {
+      "source_file": "493049062189_WELLNESS.fit",
+      "timestamp": "2026-10-12 20:23:00+00:00",
+      "start_timestamp": "2026-10-12 20:05:00+00:00",
+      "data16": 3,
+      "event": "auto_activity_detect",
+      "event_type": "marker",
+      "activity_type": "sedentary",
+      "auto_activity_detect_start_timestamp": "2026-10-12 20:05:00+00:00",
+      "data": 3
+    },
+    {
+      "source_file": "493049062189_WELLNESS.fit",
+      "timestamp": "2026-10-12 20:27:00+00:00",
+      "start_timestamp": "2026-10-12 20:08:00+00:00",
+      "data16": 4,
+      "event": "auto_activity_detect",
+      "event_type": "marker",
+      "activity_type": "generic",
+      "auto_activity_detect_start_timestamp": "2026-10-12 20:08:00+00:00",
+      "data": 4
+    },
+    {
+      "source_file": "493049062189_WELLNESS.fit",
+      "timestamp": "2026-10-12 20:29:00+00:00",
+      "start_timestamp": "2026-10-12 20:12:00+00:00",
+      "data16": 2,
+      "event": "auto_activity_detect",
+      "event_type": "marker",
+      "activity_type": "sedentary",
+      "auto_activity_detect_start_timestamp": "2026-10-12 20:12:00+00:00",
+      "data": 2
+    },
+    {
+      "source_file": "493049062189_WELLNESS.fit",
+      "timestamp": "2026-10-12 20:33:00+00:00",
+      "start_timestamp": "2026-10-12 20:14:00+00:00",
+      "data16": 4,
+      "event": "auto_activity_detect",
+      "event_type": "marker",
+      "activity_type": "generic",
+      "auto_activity_detect_start_timestamp": "2026-10-12 20:14:00+00:00",
+      "data": 4
+    },
+    {
+      "source_file": "493049062189_WELLNESS.fit",
+      "timestamp": "2026-10-12 20:37:00+00:00",
+      "start_timestamp": "2026-10-12 20:18:00+00:00",
+      "data16": 4,
+      "event": "auto_activity_detect",
+      "event_type": "marker",
+      "activity_type": "sedentary",
+      "auto_activity_detect_start_timestamp": "2026-10-12 20:18:00+00:00",
+      "data": 4
+    },
+    {
+      "source_file": "493049062189_WELLNESS.fit",
+      "timestamp": "2026-10-12 20:38:00+00:00",
+      "start_timestamp": "2026-10-12 20:22:00+00:00",
+      "data16": 1,
+      "event": "auto_activity_detect",
+      "event_type": "marker",
+      "activity_type": "generic",
+      "auto_activity_detect_start_timestamp": "2026-10-12 20:22:00+00:00",
+      "data": 1
+    },
+    {
+      "source_file": "493049062189_WELLNESS.fit",
+      "timestamp": "2026-10-12 20:41:00+00:00",
+      "start_timestamp": "2026-10-12 20:23:00+00:00",
+      "data16": 3,
+      "event": "auto_activity_detect",
+      "event_type": "marker",
+      "activity_type": "sedentary",
+      "auto_activity_detect_start_timestamp": "2026-10-12 20:23:00+00:00",
+      "data": 3
+    },
+    {
+      "source_file": "493049062189_WELLNESS.fit",
+      "timestamp": "2026-10-12 20:42:00+00:00",
+      "start_timestamp": "2026-10-12 20:26:00+00:00",
+      "data16": 1,
+      "event": "auto_activity_detect",
+      "event_type": "marker",
+      "activity_type": "generic",
+      "auto_activity_detect_start_timestamp": "2026-10-12 20:26:00+00:00",
+      "data": 1
+    },
+    {
+      "source_file": "493049062189_WELLNESS.fit",
+      "timestamp": "2026-10-12 20:49:00+00:00",
+      "start_timestamp": "2026-10-12 20:27:00+00:00",
+      "data16": 7,
+      "event": "auto_activity_detect",
+      "event_type": "marker",
+      "activity_type": "sedentary",
+      "auto_activity_detect_start_timestamp": "2026-10-12 20:27:00+00:00",
+      "data": 7
+    },
+    {
+      "source_file": "493049062189_WELLNESS.fit",
+      "timestamp": "2026-10-12 20:50:00+00:00",
+      "start_timestamp": "2026-10-12 20:34:00+00:00",
+      "data16": 1,
+      "event": "auto_activity_detect",
+      "event_type": "marker",
+      "activity_type": "generic",
+      "auto_activity_detect_start_timestamp": "2026-10-12 20:34:00+00:00",
+      "data": 1
+    },
+    {
+      "source_file": "493049062189_WELLNESS.fit",
+      "timestamp": "2026-10-12 20:53:00+00:00",
+      "start_timestamp": "2026-10-12 20:35:00+00:00",
+      "data16": 3,
+      "event": "auto_activity_detect",
+      "event_type": "marker",
+      "activity_type": "sedentary",
+      "auto_activity_detect_start_timestamp": "2026-10-12 20:35:00+00:00",
+      "data": 3
+    },
+    {
+      "source_file": "493049062189_WELLNESS.fit",
+      "timestamp": "2026-10-12 20:54:00+00:00",
+      "start_timestamp": "2026-10-12 20:38:00+00:00",
+      "data16": 1,
+      "event": "auto_activity_detect",
+      "event_type": "marker",
+      "activity_type": "generic",
+      "auto_activity_detect_start_timestamp": "2026-10-12 20:38:00+00:00",
+      "data": 1
+    },
+    {
+      "source_file": "493049062189_WELLNESS.fit",
+      "timestamp": "2026-10-12 20:55:00+00:00",
+      "start_timestamp": "2026-10-12 20:39:00+00:00",
+      "data16": 1,
+      "event": "auto_activity_detect",
+      "event_type": "marker",
+      "activity_type": "sedentary",
+      "auto_activity_detect_start_timestamp": "2026-10-12 20:39:00+00:00",
+      "data": 1
+    },
+    {
+      "source_file": "493049062189_WELLNESS.fit",
+      "timestamp": "2026-10-12 20:56:00+00:00",
+      "start_timestamp": "2026-10-12 20:40:00+00:00",
+      "data16": 1,
+      "event": "auto_activity_detect",
+      "event_type": "marker",
+      "activity_type": "generic",
+      "auto_activity_detect_start_timestamp": "2026-10-12 20:40:00+00:00",
+      "data": 1
+    },
+    {
+      "source_file": "493049062189_WELLNESS.fit",
+      "timestamp": "2026-10-12 20:57:00+00:00",
+      "start_timestamp": "2026-10-12 20:41:00+00:00",
+      "data16": 1,
+      "event": "auto_activity_detect",
+      "event_type": "marker",
+      "activity_type": "sedentary",
+      "auto_activity_detect_start_timestamp": "2026-10-12 20:41:00+00:00",
+      "data": 1
+    },
+    {
+      "source_file": "493049062189_WELLNESS.fit",
+      "timestamp": "2026-10-12 20:58:00+00:00",
+      "start_timestamp": "2026-10-12 20:42:00+00:00",
+      "data16": 1,
+      "event": "auto_activity_detect",
+      "event_type": "marker",
+      "activity_type": "generic",
+      "auto_activity_detect_start_timestamp": "2026-10-12 20:42:00+00:00",
+      "data": 1
+    },
+    {
+      "source_file": "493049062189_WELLNESS.fit",
+      "timestamp": "2026-10-12 21:00:00+00:00",
+      "data16": 0,
+      "event": 62,
+      "event_type": "start",
+      "data": 0
+    },
+    {
+      "source_file": "493049062189_WELLNESS.fit",
+      "timestamp": "2026-10-12 21:04:00+00:00",
+      "start_timestamp": "2026-10-12 20:43:00+00:00",
+      "data16": 6,
+      "event": "auto_activity_detect",
+      "event_type": "marker",
+      "activity_type": "sedentary",
+      "auto_activity_detect_start_timestamp": "2026-10-12 20:43:00+00:00",
+      "data": 6
+    },
+    {
+      "source_file": "493049062189_WELLNESS.fit",
+      "timestamp": "2026-10-12 21:05:00+00:00",
+      "start_timestamp": "2026-10-12 20:49:00+00:00",
+      "data16": 1,
+      "event": "auto_activity_detect",
+      "event_type": "marker",
+      "activity_type": "generic",
+      "auto_activity_detect_start_timestamp": "2026-10-12 20:49:00+00:00",
+      "data": 1
+    },
+    {
+      "source_file": "493049062189_WELLNESS.fit",
+      "timestamp": "2026-10-12 21:09:00+00:00",
+      "start_timestamp": "2026-10-12 20:50:00+00:00",
+      "data16": 4,
+      "event": "auto_activity_detect",
+      "event_type": "marker",
+      "activity_type": "sedentary",
+      "auto_activity_detect_start_timestamp": "2026-10-12 20:50:00+00:00",
+      "data": 4
+    },
+    {
+      "source_file": "493049062189_WELLNESS.fit",
+      "timestamp": "2026-10-12 21:10:00+00:00",
+      "start_timestamp": "2026-10-12 20:54:00+00:00",
+      "data16": 1,
+      "event": "auto_activity_detect",
+      "event_type": "marker",
+      "activity_type": "generic",
+      "auto_activity_detect_start_timestamp": "2026-10-12 20:54:00+00:00",
+      "data": 1
+    },
+    {
+      "source_file": "493049062189_WELLNESS.fit",
+      "timestamp": "2026-10-12 21:16:00+00:00",
+      "start_timestamp": "2026-10-12 20:55:00+00:00",
+      "data16": 6,
+      "event": "auto_activity_detect",
+      "event_type": "marker",
+      "activity_type": "sedentary",
+      "auto_activity_detect_start_timestamp": "2026-10-12 20:55:00+00:00",
+      "data": 6
+    },
+    {
+      "source_file": "493049062189_WELLNESS.fit",
+      "timestamp": "2026-10-12 21:17:00+00:00",
+      "start_timestamp": "2026-10-12 21:01:00+00:00",
+      "data16": 1,
+      "event": "auto_activity_detect",
+      "event_type": "marker",
+      "activity_type": "generic",
+      "auto_activity_detect_start_timestamp": "2026-10-12 21:01:00+00:00",
+      "data": 1
+    },
+    {
+      "source_file": "493049062189_WELLNESS.fit",
+      "timestamp": "2026-10-12 21:19:00+00:00",
+      "start_timestamp": "2026-10-12 21:02:00+00:00",
+      "data16": 2,
+      "event": "auto_activity_detect",
+      "event_type": "marker",
+      "activity_type": "sedentary",
+      "auto_activity_detect_start_timestamp": "2026-10-12 21:02:00+00:00",
+      "data": 2
+    },
+    {
+      "source_file": "493049062189_WELLNESS.fit",
+      "timestamp": "2026-10-12 21:20:00+00:00",
+      "start_timestamp": "2026-10-12 21:04:00+00:00",
+      "data16": 1,
+      "event": "auto_activity_detect",
+      "event_type": "marker",
+      "activity_type": "generic",
+      "auto_activity_detect_start_timestamp": "2026-10-12 21:04:00+00:00",
+      "data": 1
+    },
+    {
+      "source_file": "493049062189_WELLNESS.fit",
+      "timestamp": "2026-10-12 21:21:00+00:00",
+      "start_timestamp": "2026-10-12 21:05:00+00:00",
+      "data16": 1,
+      "event": "auto_activity_detect",
+      "event_type": "marker",
+      "activity_type": "sedentary",
+      "auto_activity_detect_start_timestamp": "2026-10-12 21:05:00+00:00",
+      "data": 1
+    },
+    {
+      "source_file": "493049062189_WELLNESS.fit",
+      "timestamp": "2026-10-12 21:24:00+00:00",
+      "start_timestamp": "2026-10-12 21:06:00+00:00",
+      "data16": 3,
+      "event": "auto_activity_detect",
+      "event_type": "marker",
+      "activity_type": "generic",
+      "auto_activity_detect_start_timestamp": "2026-10-12 21:06:00+00:00",
+      "data": 3
+    },
+    {
+      "source_file": "493049062189_WELLNESS.fit",
+      "timestamp": "2026-10-12 21:29:00+00:00",
+      "start_timestamp": "2026-10-12 21:09:00+00:00",
+      "data16": 5,
+      "event": "auto_activity_detect",
+      "event_type": "marker",
+      "activity_type": "sedentary",
+      "auto_activity_detect_start_timestamp": "2026-10-12 21:09:00+00:00",
+      "data": 5
+    },
+    {
+      "source_file": "493049062189_WELLNESS.fit",
+      "timestamp": "2026-10-12 21:30:00+00:00",
+      "start_timestamp": "2026-10-12 21:14:00+00:00",
+      "data16": 1,
+      "event": "auto_activity_detect",
+      "event_type": "marker",
+      "activity_type": "generic",
+      "auto_activity_detect_start_timestamp": "2026-10-12 21:14:00+00:00",
+      "data": 1
+    },
+    {
+      "source_file": "493049062189_WELLNESS.fit",
+      "timestamp": "2026-10-12 21:31:00+00:00",
+      "start_timestamp": "2026-10-12 21:15:00+00:00",
+      "data16": 1,
+      "event": "auto_activity_detect",
+      "event_type": "marker",
+      "activity_type": "sedentary",
+      "auto_activity_detect_start_timestamp": "2026-10-12 21:15:00+00:00",
+      "data": 1
+    },
+    {
+      "source_file": "493049062189_WELLNESS.fit",
+      "timestamp": "2026-10-12 21:32:00+00:00",
+      "start_timestamp": "2026-10-12 21:16:00+00:00",
+      "data16": 1,
+      "event": "auto_activity_detect",
+      "event_type": "marker",
+      "activity_type": "generic",
+      "auto_activity_detect_start_timestamp": "2026-10-12 21:16:00+00:00",
+      "data": 1
+    },
+    {
+      "source_file": "493049062189_WELLNESS.fit",
+      "timestamp": "2026-10-12 21:39:00+00:00",
+      "start_timestamp": "2026-10-12 21:17:00+00:00",
+      "data16": 7,
+      "event": "auto_activity_detect",
+      "event_type": "marker",
+      "activity_type": "sedentary",
+      "auto_activity_detect_start_timestamp": "2026-10-12 21:17:00+00:00",
+      "data": 7
+    },
+    {
+      "source_file": "493049062189_WELLNESS.fit",
+      "timestamp": "2026-10-12 21:40:00+00:00",
+      "start_timestamp": "2026-10-12 21:24:00+00:00",
+      "data16": 1,
+      "event": "auto_activity_detect",
+      "event_type": "marker",
+      "activity_type": "generic",
+      "auto_activity_detect_start_timestamp": "2026-10-12 21:24:00+00:00",
+      "data": 1
+    },
+    {
+      "source_file": "493049062189_WELLNESS.fit",
+      "timestamp": "2026-10-12 21:41:00+00:00",
+      "start_timestamp": "2026-10-12 21:25:00+00:00",
+      "data16": 1,
+      "event": "auto_activity_detect",
+      "event_type": "marker",
+      "activity_type": "sedentary",
+      "auto_activity_detect_start_timestamp": "2026-10-12 21:25:00+00:00",
+      "data": 1
+    },
+    {
+      "source_file": "493049062189_WELLNESS.fit",
+      "timestamp": "2026-10-12 21:43:00+00:00",
+      "start_timestamp": "2026-10-12 21:26:00+00:00",
+      "data16": 2,
+      "event": "auto_activity_detect",
+      "event_type": "marker",
+      "activity_type": "generic",
+      "auto_activity_detect_start_timestamp": "2026-10-12 21:26:00+00:00",
+      "data": 2
+    },
+    {
+      "source_file": "493049062189_WELLNESS.fit",
+      "timestamp": "2026-10-12 21:55:00+00:00",
+      "start_timestamp": "2026-10-12 21:28:00+00:00",
+      "data16": 12,
+      "event": "auto_activity_detect",
+      "event_type": "marker",
+      "activity_type": "sedentary",
+      "auto_activity_detect_start_timestamp": "2026-10-12 21:28:00+00:00",
+      "data": 12
+    },
+    {
+      "source_file": "493049062189_WELLNESS.fit",
+      "timestamp": "2026-10-12 21:57:00+00:00",
+      "start_timestamp": "2026-10-12 21:40:00+00:00",
+      "data16": 2,
+      "event": "auto_activity_detect",
+      "event_type": "marker",
+      "activity_type": "generic",
+      "auto_activity_detect_start_timestamp": "2026-10-12 21:40:00+00:00",
+      "data": 2
+    },
+    {
+      "source_file": "493049062189_WELLNESS.fit",
+      "timestamp": "2026-10-12 22:00:00+00:00",
+      "start_timestamp": "2026-10-12 21:42:00+00:00",
+      "data16": 3,
+      "event": "auto_activity_detect",
+      "event_type": "marker",
+      "activity_type": "sedentary",
+      "auto_activity_detect_start_timestamp": "2026-10-12 21:42:00+00:00",
+      "data": 3
+    }
+  ],
+  "activity_metadata": {
+    "file_id_mesgs": [
+      {
+        "type": "activity",
+        "manufacturer": "garmin",
+        "product": 4062,
+        "serial_number": 3313379353,
+        "time_created": "2026-10-12 14:27:52+00:00",
+        "garmin_product": "edge_840"
+      }
+    ],
+    "file_creator_mesgs": [
+      {
+        "software_version": 29
+      }
+    ],
+    "developer_data_id_mesgs": [
+      {
+        "application_id": [
+          109,
+          121,
+          119,
+          104,
+          111,
+          111,
+          115,
+          104,
+          46,
+          119,
+          104,
+          111,
+          111,
+          115,
+          104,
+          103
+        ],
+        "developer_data_index": 0,
+        "application_version": 164
+      }
+    ],
+    "field_description_mesgs": [
+      {
+        "developer_data_index": 0,
+        "field_definition_number": 0,
+        "fit_base_type_id": 7,
+        "field_name": "UUID",
+        "units": "String",
+        "native_mesg_num": 18,
+        "key": 0
+      },
+      {
+        "developer_data_index": 0,
+        "field_definition_number": 1,
+        "fit_base_type_id": 7,
+        "field_name": "Title",
+        "units": "String",
+        "native_mesg_num": 18,
+        "key": 1
+      },
+      {
+        "developer_data_index": 0,
+        "field_definition_number": 2,
+        "fit_base_type_id": 134,
+        "field_name": "CurrentRouteId",
+        "units": "Int",
+        "native_mesg_num": 18,
+        "key": 2
+      },
+      {
+        "developer_data_index": 0,
+        "field_definition_number": 3,
+        "fit_base_type_id": 1,
+        "field_name": "IsEvent",
+        "units": "Bool",
+        "native_mesg_num": 18,
+        "key": 3
+      }
+    ],
+    "event_mesgs": [
+      {
+        "timestamp": "2026-10-12 14:27:52+00:00"
+      },
+      {
+        "timestamp": "2026-10-12 15:53:07+00:00",
+        "event": "session",
+        "event_type": "stop_disable_all"
+      }
+    ],
+    "lap_mesgs": [
+      {
+        "start_time": "2026-10-12 14:27:52+00:00",
+        "timestamp": "2026-10-12 15:53:07+00:00",
+        "total_timer_time": 5115.0,
+        "total_elapsed_time": 5115.0,
+        "intensity": "active",
+        "sport": "cycling",
+        "sub_sport": "virtual_activity",
+        "lap_trigger": "session_end"
+      }
+    ],
+    "session_mesgs": [
+      {
+        "timestamp": "2026-10-12 14:27:52+00:00",
+        "start_time": "2026-10-12 14:27:52+00:00",
+        "total_timer_time": 5115.0,
+        "total_elapsed_time": 5115.0,
+        "sport": "cycling",
+        "sub_sport": "virtual_activity",
+        "total_calories": 1092,
+        "num_laps": 1,
+        "total_ascent": 1038,
+        "avg_cadence": 74,
+        "avg_heart_rate": 149,
+        "max_cadence": 158,
+        "avg_power": 213,
+        "max_power": 332,
+        "avg_speed": 3.614,
+        "max_heart_rate": 167,
+        "total_distance": 18486.88,
+        "enhanced_avg_speed": 3.614,
+        "developer_fields": {
+          "0": "12_=CECEA717468631725C63F2B7C83230A4",
+          "1": "El Limonar",
+          "2": 12,
+          "3": 0
+        }
+      }
+    ],
+    "activity_mesgs": [
+      {
+        "timestamp": "2026-10-12 14:27:52+00:00",
+        "total_timer_time": 5115.0,
+        "num_sessions": 1,
+        "type": "manual",
+        "event": "activity",
+        "event_type": "stop",
+        "local_timestamp": 1791820382
+      }
+    ]
+  }
+}
