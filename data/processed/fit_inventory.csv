@@ -1,0 +1,800 @@
+file,device,message_type,messages,fields,first_utc,last_utc,hr_fields,valid_hr
+data/mtb_edge.fit,edge_840,file_id_mesgs,1,"garmin_product, manufacturer, product, serial_number, time_created, type",,,0,0
+data/mtb_edge.fit,edge_840,file_creator_mesgs,1,software_version,,,0,0
+data/mtb_edge.fit,edge_840,activity_mesgs,1,"event, event_type, local_timestamp, num_sessions, timestamp, total_timer_time, type",2026-10-16T17:32:22+00:00,2026-10-16T17:32:22+00:00,0,0
+data/mtb_edge.fit,edge_840,140,1,"0, 1, 10, 11, 12, 13, 17, 18, 19, 2, 20, 21, 22, 23, 253, 26, 27, 28, 29, 3, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 4, 40, 41, 42, 43, 44, 45, 46, 48, 49, 5, 50, 51, 52, 53, 54, 55, 56, 59, 6, 60, 61, 63, 64, 65, 66, 67, 7, 8, 9",,,0,0
+data/mtb_edge.fit,edge_840,session_mesgs,1,"109, 138, 177, 178, 179, 184, 188, 205, 206, 207, 219, 81, avg_flow, avg_heart_rate, avg_temperature, avg_vam, end_position_lat, end_position_long, enhanced_avg_speed, enhanced_max_speed, event, event_type, first_lap_index, jump_count, max_heart_rate, max_temperature, message_index, metabolic_calories, min_temperature, nec_lat, nec_long, num_laps, num_segment_laps, sport, sport_profile_name, start_position_lat, start_position_long, start_time, sub_sport, swc_lat, swc_long, timestamp, total_anaerobic_training_effect, total_ascent, total_calories, total_descent, total_distance, total_elapsed_time, total_grit, total_timer_time, total_training_effect, training_load_peak, trigger",2026-10-16T17:32:22+00:00,2026-10-16T17:32:22+00:00,0,0
+data/mtb_edge.fit,edge_840,time_in_zone_mesgs,31,"hr_calc_type, hr_zone_high_boundary, max_heart_rate, reference_index, reference_mesg, resting_heart_rate, threshold_heart_rate, time_in_hr_zone, timestamp",2026-10-16T17:32:22+00:00,2026-10-16T17:32:22+00:00,0,0
+data/mtb_edge.fit,edge_840,lap_mesgs,1,"145, 163, avg_flow, avg_heart_rate, avg_temperature, avg_vam, end_position_lat, end_position_long, enhanced_avg_speed, enhanced_max_speed, event, event_type, jump_count, lap_trigger, max_heart_rate, max_temperature, message_index, metabolic_calories, min_temperature, nec_lat, nec_long, sport, start_position_lat, start_position_long, start_time, sub_sport, swc_lat, swc_long, timestamp, total_ascent, total_calories, total_descent, total_distance, total_elapsed_time, total_grit, total_timer_time",2026-10-16T17:32:22+00:00,2026-10-16T17:32:22+00:00,0,0
+data/mtb_edge.fit,edge_840,split_mesgs,29,"102, 103, 107, 108, 109, 132, 7, 92, avg_flow, avg_heart_rate, avg_speed, avg_temperature, avg_vam, avg_vert_speed, end_position_lat, end_position_long, end_time, first_lap_index, jump_count, max_heart_rate, max_speed, max_temperature, message_index, metabolic_calories, min_heart_rate, min_temperature, nec_lat, nec_long, split_type, sport, start_elevation, start_position_lat, start_position_long, start_time, sub_sport, swc_lat, swc_long, timestamp, total_ascent, total_ascent_time, total_calories, total_descent, total_descent_time, total_distance, total_elapsed_time, total_timer_time",2026-10-16T17:32:22+00:00,2026-10-16T17:32:22+00:00,0,0
+data/mtb_edge.fit,edge_840,split_summary_mesgs,2,"avg_ascent, avg_flow, avg_heart_rate, avg_speed, avg_temperature, avg_vert_speed, max_ascent, max_distance, max_heart_rate, max_speed, message_index, metabolic_calories, min_temperature, num_splits, split_type, start_time, timestamp, total_ascent, total_calories, total_descent, total_distance, total_timer_time",2026-10-16T17:32:22+00:00,2026-10-16T17:32:22+00:00,0,0
+data/mtb_edge.fit,edge_840,288,7,"0, 1, 252, 253",,,0,0
+data/mtb_edge.fit,edge_840,327,3,"0, 1, 2, 253, 3, 4, 5, 6",,,0,0
+data/mtb_edge.fit,edge_840,326,18,"0, 1, 253",,,0,0
+data/mtb_edge.fit,edge_840,timestamp_correlation_mesgs,37,"local_timestamp, system_timestamp, timestamp",2026-10-16T17:32:22+00:00,2026-10-16T19:58:19+00:00,0,0
+data/mtb_edge.fit,edge_840,event_mesgs,2,"data, event, event_group, event_type, timer_trigger, timestamp",2026-10-16T17:32:22+00:00,2026-10-16T20:25:50+00:00,0,0
+data/mtb_edge.fit,edge_840,device_info_mesgs,7,"15, 24, 29, 30, ant_network, antplus_device_type, battery_level, battery_status, battery_voltage, device_index, device_type, garmin_product, local_device_type, manufacturer, product, serial_number, software_version, source_type, timestamp",2026-10-16T17:32:22+00:00,2026-10-16T20:25:50+00:00,0,0
+data/mtb_edge.fit,edge_840,22,6,"0, 1, 253, 3, 4, 5",,,0,0
+data/mtb_edge.fit,edge_840,141,1,"0, 253",,,0,0
+data/mtb_edge.fit,edge_840,394,2,"0, 1, 2, 253",,,0,0
+data/mtb_edge.fit,edge_840,device_settings_mesgs,1,"10, 106, 109, 11, 110, 111, 121, 13, 14, 144, 15, 170, 173, 218, 219, 22, 26, 29, 3, 33, 35, 38, 41, 48, 52, 53, 54, 63, 75, 77, 81, 85, 91, 97, 98, active_time_zone, activity_tracker_enabled, autosync_min_steps, autosync_min_time, backlight_mode, date_mode, lactate_threshold_autodetect_enabled, time_mode, time_offset, time_zone_offset, utc_offset",,,0,0
+data/mtb_edge.fit,edge_840,user_profile_mesgs,1,"24, 36, 40, 42, 44, 45, 57, 60, 62, 65, 66, 67, 69, activity_class, age, default_max_biking_heart_rate, default_max_heart_rate, dist_setting, elev_setting, friendly_name, gender, height, height_setting, hr_setting, language, position_setting, power_setting, resting_heart_rate, sleep_time, speed_setting, temperature_setting, wake_time, weight, weight_setting",,,0,0
+data/mtb_edge.fit,edge_840,147,5,"0, 1, 10, 2, 25, 254, 26, 3, 32, 33, 34, 44, 50, 51, 52, 53, 6, 62, 73",,,0,0
+data/mtb_edge.fit,edge_840,79,1,"0, 1, 10, 11, 12, 13, 14, 16, 17, 18, 19, 2, 20, 23, 253, 27, 28, 29, 3, 30, 31, 32, 33, 34, 35, 36, 37, 4, 41, 42, 44, 5, 6, 7, 8, 9",,,0,0
+data/mtb_edge.fit,edge_840,sport_mesgs,1,"10, 12, 15, 17, 18, 22, 23, 24, 26, 5, 6, 9, name, sport, sub_sport",,,0,0
+data/mtb_edge.fit,edge_840,training_settings_mesgs,1,"1, 111, 117, 119, 12, 13, 14, 15, 155, 156, 158, 18, 19, 2, 25, 254, 27, 3, 30, 4, 50, 51, 52, 53, 54, 58, 62, 63, 64, 67, 69, 7, 70, 75, 76, 8, 80, 83, 84, 89, 90, 93, 99",,,0,0
+data/mtb_edge.fit,edge_840,zones_target_mesgs,1,"10, 11, 12, 13, 254, 9, functional_threshold_power, hr_calc_type, max_heart_rate, pwr_calc_type, threshold_heart_rate",,,0,0
+data/mtb_edge.fit,edge_840,record_mesgs,10409,"107, 137, 138, 144, distance, enhanced_altitude, enhanced_speed, flow, grit, heart_rate, position_lat, position_long, temperature, timestamp",2026-10-16T17:32:22+00:00,2026-10-16T20:25:50+00:00,1525,1525
+data/mtb_edge.fit,edge_840,534,10409,"0, 1, 253",,,0,0
+data/mtb_edge.fit,edge_840,hrv_mesgs,3267,time,,,0,0
+data/mtb_edge.fit,edge_840,battery_mesgs,135,"0, 3, 4, capacity, timestamp",2026-10-16T17:32:41+00:00,2026-10-16T20:24:41+00:00,0,0
+data/mtb_edge.fit,edge_840,325,562,"0, 1, 2, 253, 3, 4, 5",,,0,0
+data/mtb_edge.fit,edge_840,526,1,13,,,0,0
+data/road_ride_1.fit,edge_840,file_id_mesgs,1,"garmin_product, manufacturer, product, serial_number, time_created, type",,,0,0
+data/road_ride_1.fit,edge_840,file_creator_mesgs,1,software_version,,,0,0
+data/road_ride_1.fit,edge_840,activity_mesgs,1,"event, event_type, local_timestamp, num_sessions, timestamp, total_timer_time, type",2026-10-04T07:20:00+00:00,2026-10-04T07:20:00+00:00,0,0
+data/road_ride_1.fit,edge_840,140,1,"0, 1, 10, 11, 12, 13, 17, 18, 19, 2, 20, 21, 22, 23, 253, 26, 27, 28, 29, 3, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 4, 40, 41, 42, 43, 44, 45, 46, 48, 49, 5, 50, 51, 52, 53, 54, 55, 56, 59, 6, 60, 61, 63, 64, 65, 66, 67, 7, 8, 9",,,0,0
+data/road_ride_1.fit,edge_840,session_mesgs,1,"109, 138, 177, 178, 179, 184, 188, 205, 206, 207, 219, 81, avg_flow, avg_heart_rate, avg_temperature, avg_vam, end_position_lat, end_position_long, enhanced_avg_speed, enhanced_max_speed, event, event_type, first_lap_index, max_heart_rate, max_temperature, message_index, metabolic_calories, min_temperature, nec_lat, nec_long, num_laps, num_segment_laps, sport, sport_profile_name, start_position_lat, start_position_long, start_time, sub_sport, swc_lat, swc_long, timestamp, total_anaerobic_training_effect, total_ascent, total_calories, total_descent, total_distance, total_elapsed_time, total_grit, total_timer_time, total_training_effect, training_load_peak, trigger",2026-10-04T07:20:00+00:00,2026-10-04T07:20:00+00:00,0,0
+data/road_ride_1.fit,edge_840,time_in_zone_mesgs,76,"hr_calc_type, hr_zone_high_boundary, max_heart_rate, reference_index, reference_mesg, resting_heart_rate, threshold_heart_rate, time_in_hr_zone, timestamp",2026-10-04T07:20:00+00:00,2026-10-04T07:20:00+00:00,0,0
+data/road_ride_1.fit,edge_840,lap_mesgs,16,"145, 163, avg_flow, avg_heart_rate, avg_temperature, avg_vam, end_position_lat, end_position_long, enhanced_avg_speed, enhanced_max_speed, event, event_type, lap_trigger, max_heart_rate, max_temperature, message_index, metabolic_calories, min_temperature, nec_lat, nec_long, sport, start_position_lat, start_position_long, start_time, sub_sport, swc_lat, swc_long, timestamp, total_ascent, total_calories, total_descent, total_distance, total_elapsed_time, total_grit, total_timer_time",2026-10-04T07:20:00+00:00,2026-10-04T07:20:00+00:00,0,0
+data/road_ride_1.fit,edge_840,split_mesgs,59,"101, 103, 107, 108, 109, 132, 7, 91, 92, avg_flow, avg_grade, avg_heart_rate, avg_speed, avg_temperature, avg_vam, avg_vert_speed, end_position_lat, end_position_long, end_time, first_lap_index, max_grade, max_heart_rate, max_speed, max_temperature, message_index, metabolic_calories, min_heart_rate, min_temperature, nec_lat, nec_long, split_type, sport, start_elevation, start_position_lat, start_position_long, start_time, sub_sport, swc_lat, swc_long, timestamp, total_ascent, total_ascent_time, total_calories, total_descent, total_descent_time, total_distance, total_elapsed_time, total_timer_time",2026-10-04T07:20:00+00:00,2026-10-04T07:20:00+00:00,0,0
+data/road_ride_1.fit,edge_840,split_summary_mesgs,2,"avg_ascent, avg_flow, avg_heart_rate, avg_speed, avg_temperature, avg_vert_speed, max_ascent, max_distance, max_heart_rate, max_speed, message_index, metabolic_calories, min_temperature, num_splits, split_type, start_time, timestamp, total_ascent, total_calories, total_descent, total_distance, total_timer_time",2026-10-04T07:20:00+00:00,2026-10-04T07:20:00+00:00,0,0
+data/road_ride_1.fit,edge_840,288,12,"0, 1, 252, 253",,,0,0
+data/road_ride_1.fit,edge_840,327,3,"0, 1, 2, 253, 3, 4, 5, 6",,,0,0
+data/road_ride_1.fit,edge_840,326,36,"0, 1, 253",,,0,0
+data/road_ride_1.fit,edge_840,timestamp_correlation_mesgs,5,"local_timestamp, system_timestamp, timestamp",2026-10-04T07:20:00+00:00,2026-10-04T10:41:16+00:00,0,0
+data/road_ride_1.fit,edge_840,event_mesgs,49,"data, event, event_group, event_type, timer_trigger, timestamp",2026-10-04T07:20:00+00:00,2026-10-04T12:49:03+00:00,0,0
+data/road_ride_1.fit,edge_840,device_info_mesgs,8,"13, 15, 16, 24, 29, 30, 9, ant_network, antplus_device_type, battery_level, battery_status, battery_voltage, device_index, device_type, garmin_product, local_device_type, manufacturer, product, serial_number, software_version, source_type, timestamp",2026-10-04T07:20:00+00:00,2026-10-04T12:49:03+00:00,0,0
+data/road_ride_1.fit,edge_840,22,19,"0, 1, 253, 3, 4, 5",,,0,0
+data/road_ride_1.fit,edge_840,141,1,"0, 253",,,0,0
+data/road_ride_1.fit,edge_840,394,2,"0, 1, 2, 253",,,0,0
+data/road_ride_1.fit,edge_840,device_settings_mesgs,1,"10, 106, 109, 11, 110, 111, 121, 13, 14, 144, 15, 170, 173, 218, 219, 22, 26, 29, 3, 33, 35, 38, 41, 48, 52, 53, 54, 63, 75, 77, 81, 85, 91, 97, 98, active_time_zone, activity_tracker_enabled, autosync_min_steps, autosync_min_time, backlight_mode, date_mode, lactate_threshold_autodetect_enabled, time_mode, time_offset, time_zone_offset, utc_offset",,,0,0
+data/road_ride_1.fit,edge_840,user_profile_mesgs,1,"24, 36, 40, 42, 44, 45, 57, 60, 62, 65, 66, 67, 69, activity_class, age, default_max_biking_heart_rate, default_max_heart_rate, dist_setting, elev_setting, friendly_name, gender, height, height_setting, hr_setting, language, position_setting, power_setting, resting_heart_rate, sleep_time, speed_setting, temperature_setting, wake_time, weight, weight_setting",,,0,0
+data/road_ride_1.fit,edge_840,147,5,"0, 1, 10, 2, 25, 254, 26, 3, 32, 33, 34, 44, 50, 51, 52, 53, 6, 62, 73",,,0,0
+data/road_ride_1.fit,edge_840,79,1,"0, 1, 10, 11, 12, 13, 14, 16, 17, 18, 19, 2, 20, 23, 253, 27, 28, 29, 3, 30, 31, 32, 33, 34, 35, 36, 37, 4, 41, 42, 44, 5, 6, 7, 8, 9",,,0,0
+data/road_ride_1.fit,edge_840,sport_mesgs,1,"10, 12, 15, 17, 18, 22, 23, 24, 26, 5, 6, 9, name, sport, sub_sport",,,0,0
+data/road_ride_1.fit,edge_840,training_settings_mesgs,1,"1, 111, 117, 119, 12, 13, 14, 15, 155, 156, 158, 18, 19, 2, 25, 254, 27, 3, 30, 4, 50, 51, 52, 53, 54, 58, 62, 63, 64, 67, 69, 7, 70, 75, 76, 8, 80, 83, 84, 89, 90, 93, 99",,,0,0
+data/road_ride_1.fit,edge_840,zones_target_mesgs,1,"10, 11, 12, 13, 254, 9, functional_threshold_power, hr_calc_type, max_heart_rate, pwr_calc_type, threshold_heart_rate",,,0,0
+data/road_ride_1.fit,edge_840,training_file_mesgs,1,"garmin_product, manufacturer, product, serial_number, time_created, timestamp, type",2026-10-04T07:20:00+00:00,2026-10-04T07:20:00+00:00,0,0
+data/road_ride_1.fit,edge_840,record_mesgs,17735,"107, 137, 138, 144, distance, enhanced_altitude, enhanced_speed, heart_rate, position_lat, position_long, temperature, timestamp",2026-10-04T07:20:00+00:00,2026-10-04T12:49:01+00:00,17735,17735
+data/road_ride_1.fit,edge_840,534,17735,"0, 1, 253",,,0,0
+data/road_ride_1.fit,edge_840,hrv_mesgs,19720,time,,,0,0
+data/road_ride_1.fit,edge_840,325,1095,"0, 1, 2, 253, 3, 4, 5",,,0,0
+data/road_ride_1.fit,edge_840,battery_mesgs,258,"0, 3, 4, capacity, timestamp",2026-10-04T07:20:58+00:00,2026-10-04T12:48:58+00:00,0,0
+data/road_ride_1.fit,edge_840,climb_pro_mesgs,27,"climb_category, climb_number, climb_pro_event, current_dist, position_lat, position_long, timestamp",2026-10-04T08:01:53+00:00,2026-10-04T12:14:31+00:00,0,0
+data/road_ride_1.fit,edge_840,526,1,13,,,0,0
+data/road_ride_1.fit,edge_840,428,1,"0, 1, 10, 12, 14, 2, 253, 3, 4, 5, 6, 7, 8, 9",,,0,0
+data/road_ride_1.fit,edge_840,113,1,"0, 1, 2, 253, 3, 4, 5",,,0,0
+data/road_ride_2.fit,edge_840,file_id_mesgs,1,"garmin_product, manufacturer, product, serial_number, time_created, type",,,0,0
+data/road_ride_2.fit,edge_840,file_creator_mesgs,1,software_version,,,0,0
+data/road_ride_2.fit,edge_840,activity_mesgs,1,"event, event_type, local_timestamp, num_sessions, timestamp, total_timer_time, type",2026-09-26T07:49:36+00:00,2026-09-26T07:49:36+00:00,0,0
+data/road_ride_2.fit,edge_840,140,1,"0, 1, 10, 11, 12, 13, 17, 18, 19, 2, 20, 21, 22, 23, 253, 26, 27, 28, 29, 3, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 4, 40, 41, 42, 43, 44, 45, 46, 48, 49, 5, 50, 51, 52, 53, 54, 55, 56, 59, 6, 60, 61, 63, 64, 65, 66, 67, 7, 8, 9",,,0,0
+data/road_ride_2.fit,edge_840,session_mesgs,1,"109, 138, 177, 178, 179, 184, 188, 205, 206, 207, 219, 81, avg_flow, avg_heart_rate, avg_temperature, avg_vam, end_position_lat, end_position_long, enhanced_avg_speed, enhanced_max_speed, event, event_type, first_lap_index, max_heart_rate, max_temperature, message_index, metabolic_calories, min_temperature, nec_lat, nec_long, num_laps, num_segment_laps, sport, sport_profile_name, start_position_lat, start_position_long, start_time, sub_sport, swc_lat, swc_long, timestamp, total_anaerobic_training_effect, total_ascent, total_calories, total_descent, total_distance, total_elapsed_time, total_grit, total_timer_time, total_training_effect, training_load_peak, trigger",2026-09-26T07:49:36+00:00,2026-09-26T07:49:36+00:00,0,0
+data/road_ride_2.fit,edge_840,time_in_zone_mesgs,89,"hr_calc_type, hr_zone_high_boundary, max_heart_rate, reference_index, reference_mesg, resting_heart_rate, threshold_heart_rate, time_in_hr_zone, timestamp",2026-09-26T07:49:36+00:00,2026-09-26T07:49:36+00:00,0,0
+data/road_ride_2.fit,edge_840,lap_mesgs,14,"145, 163, avg_flow, avg_heart_rate, avg_temperature, avg_vam, end_position_lat, end_position_long, enhanced_avg_speed, enhanced_max_speed, event, event_type, lap_trigger, max_heart_rate, max_temperature, message_index, metabolic_calories, min_temperature, nec_lat, nec_long, sport, start_position_lat, start_position_long, start_time, sub_sport, swc_lat, swc_long, timestamp, total_ascent, total_calories, total_descent, total_distance, total_elapsed_time, total_grit, total_timer_time",2026-09-26T07:49:36+00:00,2026-09-26T07:49:36+00:00,0,0
+data/road_ride_2.fit,edge_840,split_mesgs,74,"101, 103, 107, 108, 109, 132, 7, 91, 92, avg_flow, avg_grade, avg_heart_rate, avg_speed, avg_temperature, avg_vam, avg_vert_speed, end_position_lat, end_position_long, end_time, first_lap_index, max_grade, max_heart_rate, max_speed, max_temperature, message_index, metabolic_calories, min_heart_rate, min_temperature, nec_lat, nec_long, split_type, sport, start_elevation, start_position_lat, start_position_long, start_time, sub_sport, swc_lat, swc_long, timestamp, total_ascent, total_ascent_time, total_calories, total_descent, total_descent_time, total_distance, total_elapsed_time, total_timer_time",2026-09-26T07:49:36+00:00,2026-09-26T07:49:36+00:00,0,0
+data/road_ride_2.fit,edge_840,split_summary_mesgs,2,"avg_ascent, avg_flow, avg_heart_rate, avg_speed, avg_temperature, avg_vert_speed, max_ascent, max_distance, max_heart_rate, max_speed, message_index, metabolic_calories, min_temperature, num_splits, split_type, start_time, timestamp, total_ascent, total_calories, total_descent, total_distance, total_timer_time",2026-09-26T07:49:36+00:00,2026-09-26T07:49:36+00:00,0,0
+data/road_ride_2.fit,edge_840,288,11,"0, 1, 252, 253",,,0,0
+data/road_ride_2.fit,edge_840,327,3,"0, 1, 2, 253, 3, 4, 5, 6",,,0,0
+data/road_ride_2.fit,edge_840,326,31,"0, 1, 253",,,0,0
+data/road_ride_2.fit,edge_840,timestamp_correlation_mesgs,606,"local_timestamp, system_timestamp, timestamp",2026-09-26T07:49:36+00:00,2026-09-26T12:40:16+00:00,0,0
+data/road_ride_2.fit,edge_840,event_mesgs,50,"data, event, event_group, event_type, timer_trigger, timestamp",2026-09-26T07:49:36+00:00,2026-09-26T12:43:57+00:00,0,0
+data/road_ride_2.fit,edge_840,device_info_mesgs,8,"15, 16, 24, 29, 30, 9, ant_network, antplus_device_type, battery_level, battery_status, battery_voltage, device_index, device_type, garmin_product, local_device_type, manufacturer, product, serial_number, software_version, source_type, timestamp",2026-09-26T07:49:36+00:00,2026-09-26T12:43:57+00:00,0,0
+data/road_ride_2.fit,edge_840,22,15,"0, 1, 253, 3, 4, 5",,,0,0
+data/road_ride_2.fit,edge_840,141,1,"0, 253",,,0,0
+data/road_ride_2.fit,edge_840,394,2,"0, 1, 2, 253",,,0,0
+data/road_ride_2.fit,edge_840,device_settings_mesgs,1,"10, 106, 109, 11, 110, 111, 121, 13, 14, 144, 15, 170, 173, 218, 219, 22, 26, 29, 3, 33, 35, 38, 41, 48, 52, 53, 54, 63, 75, 77, 81, 85, 91, 97, 98, active_time_zone, activity_tracker_enabled, autosync_min_steps, autosync_min_time, backlight_mode, date_mode, lactate_threshold_autodetect_enabled, time_mode, time_offset, time_zone_offset, utc_offset",,,0,0
+data/road_ride_2.fit,edge_840,user_profile_mesgs,1,"24, 36, 40, 42, 44, 45, 57, 60, 62, 65, 66, 67, 69, activity_class, age, default_max_biking_heart_rate, default_max_heart_rate, dist_setting, elev_setting, friendly_name, gender, height, height_setting, hr_setting, language, position_setting, power_setting, resting_heart_rate, sleep_time, speed_setting, temperature_setting, wake_time, weight, weight_setting",,,0,0
+data/road_ride_2.fit,edge_840,147,5,"0, 1, 10, 2, 25, 254, 26, 3, 32, 33, 34, 44, 50, 51, 52, 53, 6, 62, 73",,,0,0
+data/road_ride_2.fit,edge_840,79,1,"0, 1, 10, 11, 12, 13, 14, 16, 17, 18, 19, 2, 20, 23, 253, 27, 28, 29, 3, 30, 31, 32, 33, 34, 35, 36, 37, 4, 41, 42, 44, 5, 6, 7, 8, 9",,,0,0
+data/road_ride_2.fit,edge_840,sport_mesgs,1,"10, 12, 15, 17, 18, 22, 23, 24, 26, 5, 6, 9, name, sport, sub_sport",,,0,0
+data/road_ride_2.fit,edge_840,training_settings_mesgs,1,"1, 111, 117, 119, 12, 13, 14, 15, 155, 156, 158, 18, 19, 2, 25, 254, 27, 3, 30, 4, 50, 51, 52, 53, 54, 58, 62, 63, 64, 67, 69, 7, 70, 75, 76, 8, 80, 83, 84, 89, 90, 93, 99",,,0,0
+data/road_ride_2.fit,edge_840,zones_target_mesgs,1,"10, 11, 12, 13, 254, 9, functional_threshold_power, hr_calc_type, max_heart_rate, pwr_calc_type, threshold_heart_rate",,,0,0
+data/road_ride_2.fit,edge_840,training_file_mesgs,2,"garmin_product, manufacturer, product, serial_number, time_created, timestamp, type",2026-09-26T07:49:36+00:00,2026-09-26T07:54:41+00:00,0,0
+data/road_ride_2.fit,edge_840,record_mesgs,15455,"107, 137, 138, 144, distance, enhanced_altitude, enhanced_speed, heart_rate, position_lat, position_long, temperature, timestamp",2026-09-26T07:49:36+00:00,2026-09-26T12:43:52+00:00,15455,15455
+data/road_ride_2.fit,edge_840,534,15455,"0, 1, 253",,,0,0
+data/road_ride_2.fit,edge_840,hrv_mesgs,17674,time,,,0,0
+data/road_ride_2.fit,edge_840,325,1429,"0, 1, 2, 253, 3, 4, 5",,,0,0
+data/road_ride_2.fit,edge_840,battery_mesgs,232,"0, 3, 4, capacity, timestamp",2026-09-26T07:49:51+00:00,2026-09-26T12:43:53+00:00,0,0
+data/road_ride_2.fit,edge_840,climb_pro_mesgs,18,"climb_category, climb_number, climb_pro_event, current_dist, position_lat, position_long, timestamp",2026-09-26T08:04:14+00:00,2026-09-26T11:47:32+00:00,0,0
+data/road_ride_2.fit,edge_840,526,1,13,,,0,0
+data/road_ride_2.fit,edge_840,428,1,"0, 1, 10, 12, 14, 2, 253, 3, 4, 5, 6, 7, 8, 9",,,0,0
+data/road_ride_2.fit,edge_840,113,1,"0, 1, 2, 253, 3, 4, 5",,,0,0
+data/watch_wellness/494183377524_METRICS.fit,fr265_large,file_id_mesgs,1,"garmin_product, manufacturer, number, product, serial_number, time_created, type",,,0,0
+data/watch_wellness/494183377524_METRICS.fit,fr265_large,file_creator_mesgs,1,"3, 4, software_version",,,0,0
+data/watch_wellness/494183377524_METRICS.fit,fr265_large,device_info_mesgs,1,"product, serial_number, software_version, timestamp",2026-10-15T22:03:53+00:00,2026-10-15T22:03:53+00:00,0,0
+data/watch_wellness/494183377524_METRICS.fit,fr265_large,241,1,"0, 1, 253",,,0,0
+data/watch_wellness/494183377524_METRICS.fit,fr265_large,369,1,"0, 1, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 2, 20, 21, 22, 25, 253, 26, 27, 28, 29, 3, 30, 5, 6, 7, 8, 9",,,0,0
+data/watch_wellness/494183394106_METRICS.fit,fr265_large,file_id_mesgs,1,"garmin_product, manufacturer, number, product, serial_number, time_created, type",,,0,0
+data/watch_wellness/494183394106_METRICS.fit,fr265_large,file_creator_mesgs,1,"3, 4, software_version",,,0,0
+data/watch_wellness/494183394106_METRICS.fit,fr265_large,device_info_mesgs,1,"product, serial_number, software_version, timestamp",2026-10-15T22:04:53+00:00,2026-10-15T22:04:53+00:00,0,0
+data/watch_wellness/494183394106_METRICS.fit,fr265_large,241,1,"0, 1, 253",,,0,0
+data/watch_wellness/494183394106_METRICS.fit,fr265_large,339,1,"0, 1, 2, 253, 3, 4",,,0,0
+data/watch_wellness/494183410991_WELLNESS.fit,fr265_large,file_id_mesgs,1,"garmin_product, manufacturer, number, product, serial_number, time_created, type",,,0,0
+data/watch_wellness/494183410991_WELLNESS.fit,fr265_large,device_info_mesgs,1,"garmin_product, manufacturer, product, serial_number, software_version, timestamp",2026-10-15T22:00:00+00:00,2026-10-15T22:00:00+00:00,0,0
+data/watch_wellness/494183410991_WELLNESS.fit,fr265_large,software_mesgs,1,version,,,0,0
+data/watch_wellness/494183410991_WELLNESS.fit,fr265_large,355,1,"0, 1, 2",,,0,0
+data/watch_wellness/494183410991_WELLNESS.fit,fr265_large,484,1,0,,,0,0
+data/watch_wellness/494183410991_WELLNESS.fit,fr265_large,monitoring_info_mesgs,1,"7, activity_type, cycles_to_calories, cycles_to_distance, local_timestamp, resting_metabolic_rate, timestamp",2026-10-15T22:00:00+00:00,2026-10-15T22:00:00+00:00,0,0
+data/watch_wellness/494183410991_WELLNESS.fit,fr265_large,24,14,2,,,0,0
+data/watch_wellness/494183410991_WELLNESS.fit,fr265_large,monitoring_mesgs,33,"35, 36, 37, 38, active_calories, active_time, activity_type, current_activity_type_intensity, cycles, distance, duration_min, heart_rate, intensity, steps, timestamp, timestamp_16",2026-10-15T22:00:00+00:00,2026-10-15T22:23:00+00:00,22,22
+data/watch_wellness/494183410991_WELLNESS.fit,fr265_large,ohr_settings_mesgs,2,"enabled, timestamp",2026-10-15T22:00:00+00:00,2026-10-15T22:23:00+00:00,0,0
+data/watch_wellness/494183410991_WELLNESS.fit,fr265_large,event_mesgs,11,"activity_type, auto_activity_detect_start_timestamp, data, data16, event, event_type, start_timestamp, timestamp",2026-10-15T22:00:00+00:00,2026-10-15T22:22:00+00:00,0,0
+data/watch_wellness/494183410991_WELLNESS.fit,fr265_large,233,23,2,,,0,0
+data/watch_wellness/494183410991_WELLNESS.fit,fr265_large,stress_level_mesgs,23,"2, 3, 4, stress_level_time, stress_level_value",,,0,0
+data/watch_wellness/494183410991_WELLNESS.fit,fr265_large,respiration_rate_mesgs,23,"respiration_rate, timestamp",2026-10-15T22:01:00+00:00,2026-10-15T22:23:00+00:00,0,0
+data/watch_wellness/494183410991_WELLNESS.fit,fr265_large,spo2_data_mesgs,23,"mode, reading_confidence, reading_spo2, timestamp",2026-10-15T22:01:00+00:00,2026-10-15T22:23:00+00:00,0,0
+data/watch_wellness/494183410991_WELLNESS.fit,fr265_large,279,11,"0, 253",,,0,0
+data/watch_wellness/494183410991_WELLNESS.fit,fr265_large,monitoring_hr_data_mesgs,1,"current_day_resting_heart_rate, resting_heart_rate, timestamp",2026-10-15T22:23:00+00:00,2026-10-15T22:23:00+00:00,0,0
+data/watch_wellness/494319662250_METRICS.fit,fr265_large,file_id_mesgs,1,"garmin_product, manufacturer, number, product, serial_number, time_created, type",,,0,0
+data/watch_wellness/494319662250_METRICS.fit,fr265_large,file_creator_mesgs,1,"3, 4, software_version",,,0,0
+data/watch_wellness/494319662250_METRICS.fit,fr265_large,device_info_mesgs,1,"product, serial_number, software_version, timestamp",2026-10-16T06:14:47+00:00,2026-10-16T06:14:47+00:00,0,0
+data/watch_wellness/494319662250_METRICS.fit,fr265_large,241,1,"0, 1, 253",,,0,0
+data/watch_wellness/494319662250_METRICS.fit,fr265_large,330,1,"0, 1, 2, 3",,,0,0
+data/watch_wellness/494319662250_METRICS.fit,fr265_large,384,1,"0, 1, 10, 11, 12, 14, 15, 16, 17, 18, 19, 2, 20, 21, 22, 23, 24, 25, 253, 3, 4, 5, 6, 7, 8, 9",,,0,0
+data/watch_wellness/494319662250_METRICS.fit,fr265_large,294,1,"0, 1, 2, 253, 3, 4, 5, 6, 7, 8, 9",,,0,0
+data/watch_wellness/494319662250_METRICS.fit,fr265_large,232,1,"0, 1, 11, 2, 253, 3, 9",,,0,0
+data/watch_wellness/494319662250_METRICS.fit,fr265_large,378,1,"0, 1, 2, 253, 3, 4, 5",,,0,0
+data/watch_wellness/494319662250_METRICS.fit,fr265_large,369,1,"0, 1, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 2, 20, 21, 22, 25, 253, 26, 27, 28, 29, 3, 30, 4, 5, 6, 7, 8, 9",,,0,0
+data/watch_wellness/494319662250_METRICS.fit,fr265_large,339,1,"0, 1, 2, 253, 3, 4",,,0,0
+data/watch_wellness/494319662250_METRICS.fit,fr265_large,356,1,"0, 10, 11, 12, 2, 253, 3, 4, 5, 6, 7, 8, 9",,,0,0
+data/watch_wellness/494319662250_METRICS.fit,fr265_large,410,1,"0, 1, 2, 253, 3, 4, 5, 6",,,0,0
+data/watch_wellness/494319662250_METRICS.fit,fr265_large,284,1,"0, 1, 2, 3, 4, 5",,,0,0
+data/watch_wellness/494319679660_HRV_STATUS.fit,fr265_large,file_id_mesgs,1,"garmin_product, manufacturer, product, serial_number, time_created, type",,,0,0
+data/watch_wellness/494319679660_HRV_STATUS.fit,fr265_large,file_creator_mesgs,1,software_version,,,0,0
+data/watch_wellness/494319679660_HRV_STATUS.fit,fr265_large,device_info_mesgs,2,"device_index, device_type, garmin_product, local_device_type, manufacturer, product, serial_number, software_version, source_type, timestamp",2026-10-15T23:01:53+00:00,2026-10-15T23:01:53+00:00,0,0
+data/watch_wellness/494319679660_HRV_STATUS.fit,fr265_large,22,1,"253, 4",,,0,0
+data/watch_wellness/494319679660_HRV_STATUS.fit,fr265_large,timestamp_correlation_mesgs,2,"local_timestamp, system_timestamp, timestamp",2026-10-15T23:01:53+00:00,2026-10-16T06:09:52+00:00,0,0
+data/watch_wellness/494319679660_HRV_STATUS.fit,fr265_large,hrv_value_mesgs,86,"timestamp, value",2026-10-15T23:04:52+00:00,2026-10-16T06:09:52+00:00,0,0
+data/watch_wellness/494319679660_HRV_STATUS.fit,fr265_large,hrv_status_summary_mesgs,1,"7, 8, baseline_balanced_lower, baseline_balanced_upper, baseline_low_upper, last_night_5_min_high, last_night_average, status, timestamp, weekly_average",2026-10-16T06:14:47+00:00,2026-10-16T06:14:47+00:00,0,0
+data/watch_wellness/494319697625_SLEEP_DATA.fit,fr265_large,file_id_mesgs,1,"garmin_product, manufacturer, product, serial_number, time_created, type",,,0,0
+data/watch_wellness/494319697625_SLEEP_DATA.fit,fr265_large,file_creator_mesgs,1,software_version,,,0,0
+data/watch_wellness/494319697625_SLEEP_DATA.fit,fr265_large,device_info_mesgs,1,"garmin_product, manufacturer, product, serial_number, software_version, timestamp",2026-10-16T06:14:48+00:00,2026-10-16T06:14:48+00:00,0,0
+data/watch_wellness/494319697625_SLEEP_DATA.fit,fr265_large,273,1,"0, 1, 2, 253, 3, 4",,,0,0
+data/watch_wellness/494319697625_SLEEP_DATA.fit,fr265_large,event_mesgs,2,"data, event, event_type, timestamp",2026-10-15T23:01:53+00:00,2026-10-16T06:14:46+00:00,0,0
+data/watch_wellness/494319697625_SLEEP_DATA.fit,fr265_large,sleep_assessment_mesgs,1,"12, 13, 16, average_stress_during_sleep, awake_time_score, awakenings_count, awakenings_count_score, combined_awake_score, deep_sleep_score, interruptions_score, light_sleep_score, overall_sleep_score, rem_sleep_score, sleep_duration_score, sleep_quality_score, sleep_recovery_score, sleep_restlessness_score",,,0,0
+data/watch_wellness/494319697625_SLEEP_DATA.fit,fr265_large,sleep_level_mesgs,17,"sleep_level, timestamp",2026-10-15T23:09:53+00:00,2026-10-16T06:14:46+00:00,0,0
+data/watch_wellness/494319697625_SLEEP_DATA.fit,fr265_large,382,1,"0, 1, 2",,,0,0
+data/watch_wellness/494319697625_SLEEP_DATA.fit,fr265_large,521,1,"0, 1, 10, 11, 2, 253, 3, 4, 5, 6, 8, 9",,,0,0
+data/watch_wellness/494319717058_WELLNESS.fit,fr265_large,file_id_mesgs,1,"garmin_product, manufacturer, number, product, serial_number, time_created, type",,,0,0
+data/watch_wellness/494319717058_WELLNESS.fit,fr265_large,device_info_mesgs,1,"garmin_product, manufacturer, product, serial_number, software_version, timestamp",2026-10-15T22:23:00+00:00,2026-10-15T22:23:00+00:00,0,0
+data/watch_wellness/494319717058_WELLNESS.fit,fr265_large,software_mesgs,1,version,,,0,0
+data/watch_wellness/494319717058_WELLNESS.fit,fr265_large,355,1,"0, 1, 2",,,0,0
+data/watch_wellness/494319717058_WELLNESS.fit,fr265_large,484,1,0,,,0,0
+data/watch_wellness/494319717058_WELLNESS.fit,fr265_large,monitoring_info_mesgs,1,"7, activity_type, cycles_to_calories, cycles_to_distance, local_timestamp, resting_metabolic_rate, timestamp",2026-10-15T22:23:00+00:00,2026-10-15T22:23:00+00:00,0,0
+data/watch_wellness/494319717058_WELLNESS.fit,fr265_large,24,25,2,,,0,0
+data/watch_wellness/494319717058_WELLNESS.fit,fr265_large,monitoring_mesgs,460,"35, 36, 37, 38, active_calories, active_time, activity_type, current_activity_type_intensity, cycles, distance, duration_min, heart_rate, intensity, steps, timestamp, timestamp_16",2026-10-15T22:23:00+00:00,2026-10-16T06:14:00+00:00,338,338
+data/watch_wellness/494319717058_WELLNESS.fit,fr265_large,monitoring_hr_data_mesgs,2,"current_day_resting_heart_rate, resting_heart_rate, timestamp",2026-10-15T22:23:00+00:00,2026-10-16T06:14:00+00:00,0,0
+data/watch_wellness/494319717058_WELLNESS.fit,fr265_large,ohr_settings_mesgs,2,"enabled, timestamp",2026-10-15T22:23:00+00:00,2026-10-16T06:14:00+00:00,0,0
+data/watch_wellness/494319717058_WELLNESS.fit,fr265_large,event_mesgs,31,"activity_type, auto_activity_detect_start_timestamp, data, data16, event, event_type, start_timestamp, timestamp",2026-10-15T22:23:10+00:00,2026-10-16T06:14:46+00:00,0,0
+data/watch_wellness/494319717058_WELLNESS.fit,fr265_large,233,472,2,,,0,0
+data/watch_wellness/494319717058_WELLNESS.fit,fr265_large,408,6,"0, 1, 2, 253",,,0,0
+data/watch_wellness/494319717058_WELLNESS.fit,fr265_large,stress_level_mesgs,471,"2, 3, 4, stress_level_time, stress_level_value",,,0,0
+data/watch_wellness/494319717058_WELLNESS.fit,fr265_large,respiration_rate_mesgs,471,"respiration_rate, timestamp",2026-10-15T22:24:00+00:00,2026-10-16T06:14:00+00:00,0,0
+data/watch_wellness/494319717058_WELLNESS.fit,fr265_large,spo2_data_mesgs,471,"mode, reading_confidence, reading_spo2, timestamp",2026-10-15T22:24:00+00:00,2026-10-16T06:14:00+00:00,0,0
+data/watch_wellness/494319717058_WELLNESS.fit,fr265_large,279,236,"0, 253",,,0,0
+data/watch_wellness/494319730217_SLEEP_DISRUPTIONS.fit,fr265_large,file_id_mesgs,1,"garmin_product, manufacturer, product, serial_number, time_created, type",,,0,0
+data/watch_wellness/494319730217_SLEEP_DISRUPTIONS.fit,fr265_large,file_creator_mesgs,1,software_version,,,0,0
+data/watch_wellness/494319730217_SLEEP_DISRUPTIONS.fit,fr265_large,device_info_mesgs,1,"garmin_product, manufacturer, product, serial_number, software_version, timestamp",2026-10-16T06:14:57+00:00,2026-10-16T06:14:57+00:00,0,0
+data/watch_wellness/494319730217_SLEEP_DISRUPTIONS.fit,fr265_large,timestamp_correlation_mesgs,1,"local_timestamp, system_timestamp, timestamp",2026-10-16T06:14:57+00:00,2026-10-16T06:14:57+00:00,0,0
+data/watch_wellness/494319730217_SLEEP_DISRUPTIONS.fit,fr265_large,sleep_disruption_overnight_severity_mesgs,1,"severity, timestamp",2026-10-16T06:14:46+00:00,2026-10-16T06:14:46+00:00,0,0
+data/watch_wellness/494319730217_SLEEP_DISRUPTIONS.fit,fr265_large,sleep_disruption_severity_period_mesgs,10,"message_index, severity, timestamp",2026-10-15T23:01:53+00:00,2026-10-16T06:14:46+00:00,0,0
+data/watch_wellness/494324149244_WELLNESS.fit,fr265_large,file_id_mesgs,1,"garmin_product, manufacturer, number, product, serial_number, time_created, type",,,0,0
+data/watch_wellness/494324149244_WELLNESS.fit,fr265_large,device_info_mesgs,1,"garmin_product, manufacturer, product, serial_number, software_version, timestamp",2026-10-16T06:14:00+00:00,2026-10-16T06:14:00+00:00,0,0
+data/watch_wellness/494324149244_WELLNESS.fit,fr265_large,software_mesgs,1,version,,,0,0
+data/watch_wellness/494324149244_WELLNESS.fit,fr265_large,355,1,"0, 1, 2",,,0,0
+data/watch_wellness/494324149244_WELLNESS.fit,fr265_large,484,1,0,,,0,0
+data/watch_wellness/494324149244_WELLNESS.fit,fr265_large,monitoring_info_mesgs,1,"7, activity_type, cycles_to_calories, cycles_to_distance, local_timestamp, resting_metabolic_rate, timestamp",2026-10-16T06:14:00+00:00,2026-10-16T06:14:00+00:00,0,0
+data/watch_wellness/494324149244_WELLNESS.fit,fr265_large,24,14,2,,,0,0
+data/watch_wellness/494324149244_WELLNESS.fit,fr265_large,monitoring_mesgs,22,"35, 36, 37, 38, active_calories, active_time, activity_type, current_activity_type_intensity, cycles, distance, duration_min, heart_rate, intensity, steps, timestamp, timestamp_16",2026-10-16T06:14:00+00:00,2026-10-16T06:26:00+00:00,11,11
+data/watch_wellness/494324149244_WELLNESS.fit,fr265_large,monitoring_hr_data_mesgs,2,"current_day_resting_heart_rate, resting_heart_rate, timestamp",2026-10-16T06:14:00+00:00,2026-10-16T06:26:00+00:00,0,0
+data/watch_wellness/494324149244_WELLNESS.fit,fr265_large,ohr_settings_mesgs,2,"enabled, timestamp",2026-10-16T06:14:00+00:00,2026-10-16T06:26:00+00:00,0,0
+data/watch_wellness/494324149244_WELLNESS.fit,fr265_large,event_mesgs,1,"data, data16, event, event_type, timestamp",2026-10-16T06:14:47+00:00,2026-10-16T06:14:47+00:00,0,0
+data/watch_wellness/494324149244_WELLNESS.fit,fr265_large,407,1,"0, 1, 2, 253, 3, 6, 7",,,0,0
+data/watch_wellness/494324149244_WELLNESS.fit,fr265_large,408,6,"0, 2, 253",,,0,0
+data/watch_wellness/494324149244_WELLNESS.fit,fr265_large,stress_level_mesgs,12,"2, 3, 4, stress_level_time, stress_level_value",,,0,0
+data/watch_wellness/494324149244_WELLNESS.fit,fr265_large,respiration_rate_mesgs,12,"respiration_rate, timestamp",2026-10-16T06:15:00+00:00,2026-10-16T06:26:00+00:00,0,0
+data/watch_wellness/494324149244_WELLNESS.fit,fr265_large,233,11,2,,,0,0
+data/watch_wellness/494324149244_WELLNESS.fit,fr265_large,279,6,"0, 253",,,0,0
+data/watch_wellness/494337637211_WELLNESS.fit,fr265_large,file_id_mesgs,1,"garmin_product, manufacturer, number, product, serial_number, time_created, type",,,0,0
+data/watch_wellness/494337637211_WELLNESS.fit,fr265_large,device_info_mesgs,1,"garmin_product, manufacturer, product, serial_number, software_version, timestamp",2026-10-16T06:26:00+00:00,2026-10-16T06:26:00+00:00,0,0
+data/watch_wellness/494337637211_WELLNESS.fit,fr265_large,software_mesgs,1,version,,,0,0
+data/watch_wellness/494337637211_WELLNESS.fit,fr265_large,355,1,"0, 1, 2",,,0,0
+data/watch_wellness/494337637211_WELLNESS.fit,fr265_large,484,1,0,,,0,0
+data/watch_wellness/494337637211_WELLNESS.fit,fr265_large,monitoring_info_mesgs,1,"7, activity_type, cycles_to_calories, cycles_to_distance, local_timestamp, resting_metabolic_rate, timestamp",2026-10-16T06:26:00+00:00,2026-10-16T06:26:00+00:00,0,0
+data/watch_wellness/494337637211_WELLNESS.fit,fr265_large,24,20,2,,,0,0
+data/watch_wellness/494337637211_WELLNESS.fit,fr265_large,monitoring_mesgs,62,"35, 36, 37, 38, active_calories, active_time, activity_type, ascent, current_activity_type_intensity, cycles, distance, duration_min, heart_rate, intensity, steps, timestamp, timestamp_16",2026-10-16T06:26:00+00:00,2026-10-16T07:06:00+00:00,33,33
+data/watch_wellness/494337637211_WELLNESS.fit,fr265_large,monitoring_hr_data_mesgs,2,"current_day_resting_heart_rate, resting_heart_rate, timestamp",2026-10-16T06:26:00+00:00,2026-10-16T07:06:00+00:00,0,0
+data/watch_wellness/494337637211_WELLNESS.fit,fr265_large,ohr_settings_mesgs,2,"enabled, timestamp",2026-10-16T06:26:00+00:00,2026-10-16T07:06:00+00:00,0,0
+data/watch_wellness/494337637211_WELLNESS.fit,fr265_large,event_mesgs,4,"activity_type, auto_activity_detect_start_timestamp, data, data16, event, event_type, start_timestamp, timestamp",2026-10-16T06:26:07+00:00,2026-10-16T07:06:00+00:00,0,0
+data/watch_wellness/494337637211_WELLNESS.fit,fr265_large,233,41,2,,,0,0
+data/watch_wellness/494337637211_WELLNESS.fit,fr265_large,408,4,"0, 2, 253",,,0,0
+data/watch_wellness/494337637211_WELLNESS.fit,fr265_large,stress_level_mesgs,40,"2, 3, 4, stress_level_time, stress_level_value",,,0,0
+data/watch_wellness/494337637211_WELLNESS.fit,fr265_large,respiration_rate_mesgs,40,"respiration_rate, timestamp",2026-10-16T06:27:00+00:00,2026-10-16T07:06:00+00:00,0,0
+data/watch_wellness/494337637211_WELLNESS.fit,fr265_large,279,20,"0, 253",,,0,0
+data/watch_wellness/494418311178_WELLNESS.fit,fr265_large,file_id_mesgs,1,"garmin_product, manufacturer, number, product, serial_number, time_created, type",,,0,0
+data/watch_wellness/494418311178_WELLNESS.fit,fr265_large,device_info_mesgs,1,"garmin_product, manufacturer, product, serial_number, software_version, timestamp",2026-10-16T07:06:00+00:00,2026-10-16T07:06:00+00:00,0,0
+data/watch_wellness/494418311178_WELLNESS.fit,fr265_large,software_mesgs,1,version,,,0,0
+data/watch_wellness/494418311178_WELLNESS.fit,fr265_large,355,1,"0, 1, 2",,,0,0
+data/watch_wellness/494418311178_WELLNESS.fit,fr265_large,484,1,0,,,0,0
+data/watch_wellness/494418311178_WELLNESS.fit,fr265_large,monitoring_info_mesgs,1,"7, activity_type, cycles_to_calories, cycles_to_distance, local_timestamp, resting_metabolic_rate, timestamp",2026-10-16T07:06:00+00:00,2026-10-16T07:06:00+00:00,0,0
+data/watch_wellness/494418311178_WELLNESS.fit,fr265_large,24,33,2,,,0,0
+data/watch_wellness/494418311178_WELLNESS.fit,fr265_large,monitoring_mesgs,424,"35, 36, 37, 38, active_calories, active_time, activity_type, ascent, current_activity_type_intensity, cycles, descent, distance, duration_min, heart_rate, intensity, steps, timestamp, timestamp_16",2026-10-16T07:06:00+00:00,2026-10-16T12:22:00+00:00,279,279
+data/watch_wellness/494418311178_WELLNESS.fit,fr265_large,monitoring_hr_data_mesgs,2,"current_day_resting_heart_rate, resting_heart_rate, timestamp",2026-10-16T07:06:00+00:00,2026-10-16T12:22:00+00:00,0,0
+data/watch_wellness/494418311178_WELLNESS.fit,fr265_large,ohr_settings_mesgs,2,"enabled, timestamp",2026-10-16T07:06:00+00:00,2026-10-16T12:22:00+00:00,0,0
+data/watch_wellness/494418311178_WELLNESS.fit,fr265_large,event_mesgs,85,"activity_type, auto_activity_detect_start_timestamp, data, data16, event, event_type, start_timestamp, timestamp",2026-10-16T07:06:25+00:00,2026-10-16T12:17:00+00:00,0,0
+data/watch_wellness/494418311178_WELLNESS.fit,fr265_large,stress_level_mesgs,316,"2, 3, 4, stress_level_time, stress_level_value",,,0,0
+data/watch_wellness/494418311178_WELLNESS.fit,fr265_large,respiration_rate_mesgs,316,"respiration_rate, timestamp",2026-10-16T07:07:00+00:00,2026-10-16T12:22:00+00:00,0,0
+data/watch_wellness/494418311178_WELLNESS.fit,fr265_large,233,316,2,,,0,0
+data/watch_wellness/494418311178_WELLNESS.fit,fr265_large,408,4,"0, 1, 2, 253",,,0,0
+data/watch_wellness/494418311178_WELLNESS.fit,fr265_large,279,158,"0, 253",,,0,0
+data/watch_wellness/494451344032_WELLNESS.fit,edge_840,file_id_mesgs,1,"garmin_product, manufacturer, number, product, serial_number, time_created, type",,,0,0
+data/watch_wellness/494451344032_WELLNESS.fit,edge_840,device_info_mesgs,1,"garmin_product, manufacturer, product, serial_number, software_version, timestamp",2026-10-16T02:02:00+00:00,2026-10-16T02:02:00+00:00,0,0
+data/watch_wellness/494451344032_WELLNESS.fit,edge_840,software_mesgs,1,version,,,0,0
+data/watch_wellness/494451344032_WELLNESS.fit,edge_840,355,1,"0, 1, 2",,,0,0
+data/watch_wellness/494451344032_WELLNESS.fit,edge_840,monitoring_info_mesgs,1,"activity_type, cycles_to_calories, cycles_to_distance, local_timestamp, resting_metabolic_rate, timestamp",2026-10-16T02:02:00+00:00,2026-10-16T02:02:00+00:00,0,0
+data/watch_wellness/494451344032_WELLNESS.fit,edge_840,monitoring_mesgs,19,"37, 38, activity_type, current_activity_type_intensity, heart_rate, intensity, timestamp, timestamp_16",2026-10-16T02:02:00+00:00,2026-10-16T14:18:00+00:00,8,0
+data/watch_wellness/494451344032_WELLNESS.fit,edge_840,ohr_settings_mesgs,2,"enabled, timestamp",2026-10-16T02:02:00+00:00,2026-10-16T14:18:00+00:00,0,0
+data/watch_wellness/494451344032_WELLNESS.fit,edge_840,24,25,2,,,0,0
+data/watch_wellness/494451345712_WELLNESS.fit,edge_840,file_id_mesgs,1,"garmin_product, manufacturer, number, product, serial_number, time_created, type",,,0,0
+data/watch_wellness/494451345712_WELLNESS.fit,edge_840,device_info_mesgs,1,"garmin_product, manufacturer, product, serial_number, software_version, timestamp",2026-10-16T14:18:00+00:00,2026-10-16T14:18:00+00:00,0,0
+data/watch_wellness/494451345712_WELLNESS.fit,edge_840,software_mesgs,1,version,,,0,0
+data/watch_wellness/494451345712_WELLNESS.fit,edge_840,355,1,"0, 1, 2",,,0,0
+data/watch_wellness/494451345712_WELLNESS.fit,edge_840,monitoring_info_mesgs,1,"activity_type, cycles_to_calories, cycles_to_distance, local_timestamp, resting_metabolic_rate, timestamp",2026-10-16T14:18:00+00:00,2026-10-16T14:18:00+00:00,0,0
+data/watch_wellness/494451345712_WELLNESS.fit,edge_840,monitoring_mesgs,2,"37, 38, timestamp",2026-10-16T14:18:00+00:00,2026-10-16T14:18:00+00:00,0,0
+data/watch_wellness/494451345712_WELLNESS.fit,edge_840,ohr_settings_mesgs,2,"enabled, timestamp",2026-10-16T14:18:00+00:00,2026-10-16T14:18:00+00:00,0,0
+data/watch_wellness/494451345712_WELLNESS.fit,edge_840,24,2,2,,,0,0
+data/watch_wellness/494451346462_WELLNESS.fit,edge_840,file_id_mesgs,1,"garmin_product, manufacturer, number, product, serial_number, time_created, type",,,0,0
+data/watch_wellness/494451346462_WELLNESS.fit,edge_840,device_info_mesgs,1,"garmin_product, manufacturer, product, serial_number, software_version, timestamp",2026-10-16T14:18:00+00:00,2026-10-16T14:18:00+00:00,0,0
+data/watch_wellness/494451346462_WELLNESS.fit,edge_840,software_mesgs,1,version,,,0,0
+data/watch_wellness/494451346462_WELLNESS.fit,edge_840,355,1,"0, 1, 2",,,0,0
+data/watch_wellness/494451346462_WELLNESS.fit,edge_840,monitoring_info_mesgs,1,"activity_type, cycles_to_calories, cycles_to_distance, local_timestamp, resting_metabolic_rate, timestamp",2026-10-16T14:18:00+00:00,2026-10-16T14:18:00+00:00,0,0
+data/watch_wellness/494451346462_WELLNESS.fit,edge_840,monitoring_mesgs,3,"37, 38, activity_type, current_activity_type_intensity, intensity, timestamp",2026-10-16T14:18:00+00:00,2026-10-16T14:27:00+00:00,0,0
+data/watch_wellness/494451346462_WELLNESS.fit,edge_840,ohr_settings_mesgs,2,"enabled, timestamp",2026-10-16T14:18:00+00:00,2026-10-16T14:27:00+00:00,0,0
+data/watch_wellness/494451346462_WELLNESS.fit,edge_840,24,3,2,,,0,0
+data/watch_wellness/494451418338_WELLNESS.fit,fr265_large,file_id_mesgs,1,"garmin_product, manufacturer, number, product, serial_number, time_created, type",,,0,0
+data/watch_wellness/494451418338_WELLNESS.fit,fr265_large,device_info_mesgs,1,"garmin_product, manufacturer, product, serial_number, software_version, timestamp",2026-10-16T12:22:00+00:00,2026-10-16T12:22:00+00:00,0,0
+data/watch_wellness/494451418338_WELLNESS.fit,fr265_large,software_mesgs,1,version,,,0,0
+data/watch_wellness/494451418338_WELLNESS.fit,fr265_large,355,1,"0, 1, 2",,,0,0
+data/watch_wellness/494451418338_WELLNESS.fit,fr265_large,484,1,0,,,0,0
+data/watch_wellness/494451418338_WELLNESS.fit,fr265_large,monitoring_info_mesgs,1,"7, activity_type, cycles_to_calories, cycles_to_distance, local_timestamp, resting_metabolic_rate, timestamp",2026-10-16T12:22:00+00:00,2026-10-16T12:22:00+00:00,0,0
+data/watch_wellness/494451418338_WELLNESS.fit,fr265_large,24,16,2,,,0,0
+data/watch_wellness/494451418338_WELLNESS.fit,fr265_large,monitoring_mesgs,177,"35, 36, 37, 38, active_calories, active_time, activity_type, ascent, current_activity_type_intensity, cycles, distance, duration_min, heart_rate, intensity, steps, timestamp, timestamp_16",2026-10-16T12:22:00+00:00,2026-10-16T14:28:00+00:00,122,122
+data/watch_wellness/494451418338_WELLNESS.fit,fr265_large,monitoring_hr_data_mesgs,2,"current_day_resting_heart_rate, resting_heart_rate, timestamp",2026-10-16T12:22:00+00:00,2026-10-16T14:28:00+00:00,0,0
+data/watch_wellness/494451418338_WELLNESS.fit,fr265_large,ohr_settings_mesgs,2,"enabled, timestamp",2026-10-16T12:22:00+00:00,2026-10-16T14:28:00+00:00,0,0
+data/watch_wellness/494451418338_WELLNESS.fit,fr265_large,event_mesgs,35,"activity_type, auto_activity_detect_start_timestamp, data, data16, event, event_type, start_timestamp, timestamp",2026-10-16T12:22:34+00:00,2026-10-16T14:28:00+00:00,0,0
+data/watch_wellness/494451418338_WELLNESS.fit,fr265_large,stress_level_mesgs,126,"2, 3, 4, stress_level_time, stress_level_value",,,0,0
+data/watch_wellness/494451418338_WELLNESS.fit,fr265_large,respiration_rate_mesgs,126,"respiration_rate, timestamp",2026-10-16T12:23:00+00:00,2026-10-16T14:28:00+00:00,0,0
+data/watch_wellness/494451418338_WELLNESS.fit,fr265_large,233,126,2,,,0,0
+data/watch_wellness/494451418338_WELLNESS.fit,fr265_large,279,63,"0, 253",,,0,0
+data/watch_wellness/494451418338_WELLNESS.fit,fr265_large,408,3,"0, 1, 2, 253",,,0,0
+data/watch_wellness/494452153270_WELLNESS.fit,fr265_large,file_id_mesgs,1,"garmin_product, manufacturer, number, product, serial_number, time_created, type",,,0,0
+data/watch_wellness/494452153270_WELLNESS.fit,fr265_large,device_info_mesgs,1,"garmin_product, manufacturer, product, serial_number, software_version, timestamp",2026-10-16T14:28:00+00:00,2026-10-16T14:28:00+00:00,0,0
+data/watch_wellness/494452153270_WELLNESS.fit,fr265_large,software_mesgs,1,version,,,0,0
+data/watch_wellness/494452153270_WELLNESS.fit,fr265_large,355,1,"0, 1, 2",,,0,0
+data/watch_wellness/494452153270_WELLNESS.fit,fr265_large,484,1,0,,,0,0
+data/watch_wellness/494452153270_WELLNESS.fit,fr265_large,monitoring_info_mesgs,1,"7, activity_type, cycles_to_calories, cycles_to_distance, local_timestamp, resting_metabolic_rate, timestamp",2026-10-16T14:28:00+00:00,2026-10-16T14:28:00+00:00,0,0
+data/watch_wellness/494452153270_WELLNESS.fit,fr265_large,24,14,2,,,0,0
+data/watch_wellness/494452153270_WELLNESS.fit,fr265_large,monitoring_mesgs,13,"35, 36, 37, 38, active_calories, active_time, activity_type, current_activity_type_intensity, cycles, distance, duration_min, heart_rate, intensity, steps, timestamp, timestamp_16",2026-10-16T14:28:00+00:00,2026-10-16T14:31:00+00:00,3,3
+data/watch_wellness/494452153270_WELLNESS.fit,fr265_large,monitoring_hr_data_mesgs,2,"current_day_resting_heart_rate, resting_heart_rate, timestamp",2026-10-16T14:28:00+00:00,2026-10-16T14:31:00+00:00,0,0
+data/watch_wellness/494452153270_WELLNESS.fit,fr265_large,ohr_settings_mesgs,2,"enabled, timestamp",2026-10-16T14:28:00+00:00,2026-10-16T14:31:00+00:00,0,0
+data/watch_wellness/494452153270_WELLNESS.fit,fr265_large,event_mesgs,1,"data, data16, event, event_type, timestamp",2026-10-16T14:28:32+00:00,2026-10-16T14:28:32+00:00,0,0
+data/watch_wellness/494452153270_WELLNESS.fit,fr265_large,stress_level_mesgs,3,"2, 3, 4, stress_level_time, stress_level_value",,,0,0
+data/watch_wellness/494452153270_WELLNESS.fit,fr265_large,respiration_rate_mesgs,3,"respiration_rate, timestamp",2026-10-16T14:29:00+00:00,2026-10-16T14:31:00+00:00,0,0
+data/watch_wellness/494452153270_WELLNESS.fit,fr265_large,233,3,2,,,0,0
+data/watch_wellness/494452153270_WELLNESS.fit,fr265_large,408,1,"0, 1, 2, 253",,,0,0
+data/watch_wellness/494452153270_WELLNESS.fit,fr265_large,279,1,"0, 253",,,0,0
+data/watch_wellness/494464532958_WELLNESS.fit,fr265_large,file_id_mesgs,1,"garmin_product, manufacturer, number, product, serial_number, time_created, type",,,0,0
+data/watch_wellness/494464532958_WELLNESS.fit,fr265_large,device_info_mesgs,1,"garmin_product, manufacturer, product, serial_number, software_version, timestamp",2026-10-16T14:31:00+00:00,2026-10-16T14:31:00+00:00,0,0
+data/watch_wellness/494464532958_WELLNESS.fit,fr265_large,software_mesgs,1,version,,,0,0
+data/watch_wellness/494464532958_WELLNESS.fit,fr265_large,355,1,"0, 1, 2",,,0,0
+data/watch_wellness/494464532958_WELLNESS.fit,fr265_large,484,1,0,,,0,0
+data/watch_wellness/494464532958_WELLNESS.fit,fr265_large,monitoring_info_mesgs,1,"7, activity_type, cycles_to_calories, cycles_to_distance, local_timestamp, resting_metabolic_rate, timestamp",2026-10-16T14:31:00+00:00,2026-10-16T14:31:00+00:00,0,0
+data/watch_wellness/494464532958_WELLNESS.fit,fr265_large,24,22,2,,,0,0
+data/watch_wellness/494464532958_WELLNESS.fit,fr265_large,monitoring_mesgs,75,"35, 36, 37, 38, active_calories, active_time, activity_type, ascent, current_activity_type_intensity, cycles, descent, distance, duration_min, heart_rate, intensity, steps, timestamp, timestamp_16",2026-10-16T14:31:00+00:00,2026-10-16T15:21:00+00:00,41,41
+data/watch_wellness/494464532958_WELLNESS.fit,fr265_large,monitoring_hr_data_mesgs,2,"current_day_resting_heart_rate, resting_heart_rate, timestamp",2026-10-16T14:31:00+00:00,2026-10-16T15:21:00+00:00,0,0
+data/watch_wellness/494464532958_WELLNESS.fit,fr265_large,ohr_settings_mesgs,2,"enabled, timestamp",2026-10-16T14:31:00+00:00,2026-10-16T15:21:00+00:00,0,0
+data/watch_wellness/494464532958_WELLNESS.fit,fr265_large,event_mesgs,6,"activity_type, auto_activity_detect_start_timestamp, data, data16, event, event_type, start_timestamp, timestamp",2026-10-16T14:31:23+00:00,2026-10-16T14:46:00+00:00,0,0
+data/watch_wellness/494464532958_WELLNESS.fit,fr265_large,408,2,"0, 1, 2, 253",,,0,0
+data/watch_wellness/494464532958_WELLNESS.fit,fr265_large,stress_level_mesgs,50,"2, 3, 4, stress_level_time, stress_level_value",,,0,0
+data/watch_wellness/494464532958_WELLNESS.fit,fr265_large,respiration_rate_mesgs,50,"respiration_rate, timestamp",2026-10-16T14:32:00+00:00,2026-10-16T15:21:00+00:00,0,0
+data/watch_wellness/494464532958_WELLNESS.fit,fr265_large,279,25,"0, 253",,,0,0
+data/watch_wellness/494464532958_WELLNESS.fit,fr265_large,233,50,2,,,0,0
+data/watch_wellness/494465711185_WELLNESS.fit,edge_840,file_id_mesgs,1,"garmin_product, manufacturer, number, product, serial_number, time_created, type",,,0,0
+data/watch_wellness/494465711185_WELLNESS.fit,edge_840,device_info_mesgs,1,"garmin_product, manufacturer, product, serial_number, software_version, timestamp",2026-10-16T15:25:00+00:00,2026-10-16T15:25:00+00:00,0,0
+data/watch_wellness/494465711185_WELLNESS.fit,edge_840,software_mesgs,1,version,,,0,0
+data/watch_wellness/494465711185_WELLNESS.fit,edge_840,355,1,"0, 1, 2",,,0,0
+data/watch_wellness/494465711185_WELLNESS.fit,edge_840,monitoring_info_mesgs,1,"activity_type, cycles_to_calories, cycles_to_distance, local_timestamp, resting_metabolic_rate, timestamp",2026-10-16T15:25:00+00:00,2026-10-16T15:25:00+00:00,0,0
+data/watch_wellness/494465711185_WELLNESS.fit,edge_840,monitoring_mesgs,3,"37, 38, activity_type, current_activity_type_intensity, intensity, timestamp",2026-10-16T15:25:00+00:00,2026-10-16T15:25:00+00:00,0,0
+data/watch_wellness/494465711185_WELLNESS.fit,edge_840,ohr_settings_mesgs,2,"enabled, timestamp",2026-10-16T15:25:00+00:00,2026-10-16T15:25:00+00:00,0,0
+data/watch_wellness/494465711185_WELLNESS.fit,edge_840,24,2,2,,,0,0
+data/watch_wellness/494465712624_WELLNESS.fit,edge_840,file_id_mesgs,1,"garmin_product, manufacturer, number, product, serial_number, time_created, type",,,0,0
+data/watch_wellness/494465712624_WELLNESS.fit,edge_840,device_info_mesgs,1,"garmin_product, manufacturer, product, serial_number, software_version, timestamp",2026-10-16T15:25:00+00:00,2026-10-16T15:25:00+00:00,0,0
+data/watch_wellness/494465712624_WELLNESS.fit,edge_840,software_mesgs,1,version,,,0,0
+data/watch_wellness/494465712624_WELLNESS.fit,edge_840,355,1,"0, 1, 2",,,0,0
+data/watch_wellness/494465712624_WELLNESS.fit,edge_840,monitoring_info_mesgs,1,"activity_type, cycles_to_calories, cycles_to_distance, local_timestamp, resting_metabolic_rate, timestamp",2026-10-16T15:25:00+00:00,2026-10-16T15:25:00+00:00,0,0
+data/watch_wellness/494465712624_WELLNESS.fit,edge_840,monitoring_mesgs,2,"37, 38, timestamp",2026-10-16T15:25:00+00:00,2026-10-16T15:25:00+00:00,0,0
+data/watch_wellness/494465712624_WELLNESS.fit,edge_840,ohr_settings_mesgs,2,"enabled, timestamp",2026-10-16T15:25:00+00:00,2026-10-16T15:25:00+00:00,0,0
+data/watch_wellness/494465712624_WELLNESS.fit,edge_840,monitoring_hr_data_mesgs,1,"current_day_resting_heart_rate, resting_heart_rate, timestamp",2026-10-16T15:25:00+00:00,2026-10-16T15:25:00+00:00,0,0
+data/watch_wellness/494465712624_WELLNESS.fit,edge_840,24,2,2,,,0,0
+data/watch_wellness/494465714787_WELLNESS.fit,edge_840,file_id_mesgs,1,"garmin_product, manufacturer, number, product, serial_number, time_created, type",,,0,0
+data/watch_wellness/494465714787_WELLNESS.fit,edge_840,device_info_mesgs,1,"garmin_product, manufacturer, product, serial_number, software_version, timestamp",2026-10-16T15:25:00+00:00,2026-10-16T15:25:00+00:00,0,0
+data/watch_wellness/494465714787_WELLNESS.fit,edge_840,software_mesgs,1,version,,,0,0
+data/watch_wellness/494465714787_WELLNESS.fit,edge_840,355,1,"0, 1, 2",,,0,0
+data/watch_wellness/494465714787_WELLNESS.fit,edge_840,monitoring_info_mesgs,1,"activity_type, cycles_to_calories, cycles_to_distance, local_timestamp, resting_metabolic_rate, timestamp",2026-10-16T15:25:00+00:00,2026-10-16T15:25:00+00:00,0,0
+data/watch_wellness/494465714787_WELLNESS.fit,edge_840,monitoring_mesgs,2,"37, 38, timestamp",2026-10-16T15:25:00+00:00,2026-10-16T15:25:00+00:00,0,0
+data/watch_wellness/494465714787_WELLNESS.fit,edge_840,monitoring_hr_data_mesgs,2,"current_day_resting_heart_rate, resting_heart_rate, timestamp",2026-10-16T15:25:00+00:00,2026-10-16T15:25:00+00:00,0,0
+data/watch_wellness/494465714787_WELLNESS.fit,edge_840,ohr_settings_mesgs,2,"enabled, timestamp",2026-10-16T15:25:00+00:00,2026-10-16T15:25:00+00:00,0,0
+data/watch_wellness/494465714787_WELLNESS.fit,edge_840,24,2,2,,,0,0
+data/watch_wellness/494465723213_METRICS.fit,edge_840,file_id_mesgs,1,"garmin_product, manufacturer, number, product, serial_number, time_created, type",,,0,0
+data/watch_wellness/494465723213_METRICS.fit,edge_840,file_creator_mesgs,1,software_version,,,0,0
+data/watch_wellness/494465723213_METRICS.fit,edge_840,device_info_mesgs,1,"product, serial_number, software_version, timestamp",2026-10-16T15:25:26+00:00,2026-10-16T15:25:26+00:00,0,0
+data/watch_wellness/494465723213_METRICS.fit,edge_840,241,1,"0, 1, 253",,,0,0
+data/watch_wellness/494465723213_METRICS.fit,edge_840,281,1,"10, 11, 12, 13, 253, 4, 5, 6, 9",,,0,0
+data/watch_wellness/494465723213_METRICS.fit,edge_840,356,1,"0, 10, 11, 12, 2, 253, 3, 4, 5, 6, 7, 8, 9",,,0,0
+data/watch_wellness/494465725593_METRICS.fit,edge_840,file_id_mesgs,1,"garmin_product, manufacturer, number, product, serial_number, time_created, type",,,0,0
+data/watch_wellness/494465725593_METRICS.fit,edge_840,file_creator_mesgs,1,software_version,,,0,0
+data/watch_wellness/494465725593_METRICS.fit,edge_840,device_info_mesgs,1,"product, serial_number, software_version, timestamp",2026-10-16T15:25:26+00:00,2026-10-16T15:25:26+00:00,0,0
+data/watch_wellness/494465725593_METRICS.fit,edge_840,241,1,"0, 1, 253",,,0,0
+data/watch_wellness/494465725593_METRICS.fit,edge_840,494,1,"0, 1, 2, 253, 3, 4, 5, 6, 7",,,0,0
+data/watch_wellness/494465726891_METRICS.fit,edge_840,file_id_mesgs,1,"garmin_product, manufacturer, number, product, serial_number, time_created, type",,,0,0
+data/watch_wellness/494465726891_METRICS.fit,edge_840,file_creator_mesgs,1,software_version,,,0,0
+data/watch_wellness/494465726891_METRICS.fit,edge_840,device_info_mesgs,1,"product, serial_number, software_version, timestamp",2026-10-16T15:25:26+00:00,2026-10-16T15:25:26+00:00,0,0
+data/watch_wellness/494465726891_METRICS.fit,edge_840,241,1,"0, 1, 253",,,0,0
+data/watch_wellness/494465726891_METRICS.fit,edge_840,494,1,"0, 1, 2, 253, 3, 4, 5, 6, 7",,,0,0
+data/watch_wellness/494465728169_METRICS.fit,edge_840,file_id_mesgs,1,"garmin_product, manufacturer, number, product, serial_number, time_created, type",,,0,0
+data/watch_wellness/494465728169_METRICS.fit,edge_840,file_creator_mesgs,1,software_version,,,0,0
+data/watch_wellness/494465728169_METRICS.fit,edge_840,device_info_mesgs,1,"product, serial_number, software_version, timestamp",2026-10-16T15:25:26+00:00,2026-10-16T15:25:26+00:00,0,0
+data/watch_wellness/494465728169_METRICS.fit,edge_840,241,1,"0, 1, 253",,,0,0
+data/watch_wellness/494465728169_METRICS.fit,edge_840,494,1,"0, 1, 2, 253, 3, 4, 5, 6, 7",,,0,0
+data/watch_wellness/494465730070_METRICS.fit,edge_840,file_id_mesgs,1,"garmin_product, manufacturer, number, product, serial_number, time_created, type",,,0,0
+data/watch_wellness/494465730070_METRICS.fit,edge_840,file_creator_mesgs,1,software_version,,,0,0
+data/watch_wellness/494465730070_METRICS.fit,edge_840,device_info_mesgs,1,"product, serial_number, software_version, timestamp",2026-10-16T15:25:26+00:00,2026-10-16T15:25:26+00:00,0,0
+data/watch_wellness/494465730070_METRICS.fit,edge_840,241,1,"0, 1, 253",,,0,0
+data/watch_wellness/494465730070_METRICS.fit,edge_840,494,1,"0, 1, 2, 253, 3, 4, 5, 6, 7",,,0,0
+data/watch_wellness/494465731386_METRICS.fit,edge_840,file_id_mesgs,1,"garmin_product, manufacturer, number, product, serial_number, time_created, type",,,0,0
+data/watch_wellness/494465731386_METRICS.fit,edge_840,file_creator_mesgs,1,software_version,,,0,0
+data/watch_wellness/494465731386_METRICS.fit,edge_840,device_info_mesgs,1,"product, serial_number, software_version, timestamp",2026-10-16T15:25:26+00:00,2026-10-16T15:25:26+00:00,0,0
+data/watch_wellness/494465731386_METRICS.fit,edge_840,241,1,"0, 1, 253",,,0,0
+data/watch_wellness/494465731386_METRICS.fit,edge_840,494,1,"0, 1, 2, 253, 3, 4, 5, 6, 7",,,0,0
+data/watch_wellness/494465732976_METRICS.fit,edge_840,file_id_mesgs,1,"garmin_product, manufacturer, number, product, serial_number, time_created, type",,,0,0
+data/watch_wellness/494465732976_METRICS.fit,edge_840,file_creator_mesgs,1,software_version,,,0,0
+data/watch_wellness/494465732976_METRICS.fit,edge_840,device_info_mesgs,1,"product, serial_number, software_version, timestamp",2026-10-16T15:25:26+00:00,2026-10-16T15:25:26+00:00,0,0
+data/watch_wellness/494465732976_METRICS.fit,edge_840,241,1,"0, 1, 253",,,0,0
+data/watch_wellness/494465732976_METRICS.fit,edge_840,494,1,"0, 1, 2, 253, 3, 4, 5, 6, 7",,,0,0
+data/watch_wellness/494465734280_METRICS.fit,edge_840,file_id_mesgs,1,"garmin_product, manufacturer, number, product, serial_number, time_created, type",,,0,0
+data/watch_wellness/494465734280_METRICS.fit,edge_840,file_creator_mesgs,1,software_version,,,0,0
+data/watch_wellness/494465734280_METRICS.fit,edge_840,device_info_mesgs,1,"product, serial_number, software_version, timestamp",2026-10-16T15:25:26+00:00,2026-10-16T15:25:26+00:00,0,0
+data/watch_wellness/494465734280_METRICS.fit,edge_840,241,1,"0, 1, 253",,,0,0
+data/watch_wellness/494465734280_METRICS.fit,edge_840,494,1,"0, 1, 2, 253, 3, 4, 5, 6, 7",,,0,0
+data/watch_wellness/494465735468_METRICS.fit,edge_840,file_id_mesgs,1,"garmin_product, manufacturer, number, product, serial_number, time_created, type",,,0,0
+data/watch_wellness/494465735468_METRICS.fit,edge_840,file_creator_mesgs,1,software_version,,,0,0
+data/watch_wellness/494465735468_METRICS.fit,edge_840,device_info_mesgs,1,"product, serial_number, software_version, timestamp",2026-10-16T15:25:26+00:00,2026-10-16T15:25:26+00:00,0,0
+data/watch_wellness/494465735468_METRICS.fit,edge_840,241,1,"0, 1, 253",,,0,0
+data/watch_wellness/494465735468_METRICS.fit,edge_840,494,1,"0, 1, 2, 253, 3, 4, 5, 6, 7",,,0,0
+data/watch_wellness/494465736971_METRICS.fit,edge_840,file_id_mesgs,1,"garmin_product, manufacturer, number, product, serial_number, time_created, type",,,0,0
+data/watch_wellness/494465736971_METRICS.fit,edge_840,file_creator_mesgs,1,software_version,,,0,0
+data/watch_wellness/494465736971_METRICS.fit,edge_840,device_info_mesgs,1,"product, serial_number, software_version, timestamp",2026-10-16T15:25:26+00:00,2026-10-16T15:25:26+00:00,0,0
+data/watch_wellness/494465736971_METRICS.fit,edge_840,241,1,"0, 1, 253",,,0,0
+data/watch_wellness/494465736971_METRICS.fit,edge_840,494,1,"0, 1, 2, 253, 3, 4, 5, 6, 7",,,0,0
+data/watch_wellness/494465739510_METRICS.fit,edge_840,file_id_mesgs,1,"garmin_product, manufacturer, number, product, serial_number, time_created, type",,,0,0
+data/watch_wellness/494465739510_METRICS.fit,edge_840,file_creator_mesgs,1,software_version,,,0,0
+data/watch_wellness/494465739510_METRICS.fit,edge_840,device_info_mesgs,1,"product, serial_number, software_version, timestamp",2026-10-16T15:25:26+00:00,2026-10-16T15:25:26+00:00,0,0
+data/watch_wellness/494465739510_METRICS.fit,edge_840,241,1,"0, 1, 253",,,0,0
+data/watch_wellness/494465739510_METRICS.fit,edge_840,494,1,"0, 1, 2, 253, 3, 4, 5, 6, 7",,,0,0
+data/watch_wellness/494465742196_METRICS.fit,edge_840,file_id_mesgs,1,"garmin_product, manufacturer, number, product, serial_number, time_created, type",,,0,0
+data/watch_wellness/494465742196_METRICS.fit,edge_840,file_creator_mesgs,1,software_version,,,0,0
+data/watch_wellness/494465742196_METRICS.fit,edge_840,device_info_mesgs,1,"product, serial_number, software_version, timestamp",2026-10-16T15:25:26+00:00,2026-10-16T15:25:26+00:00,0,0
+data/watch_wellness/494465742196_METRICS.fit,edge_840,241,1,"0, 1, 253",,,0,0
+data/watch_wellness/494465742196_METRICS.fit,edge_840,494,1,"0, 1, 2, 253, 3, 4, 5, 6, 7",,,0,0
+data/watch_wellness/494465745058_METRICS.fit,edge_840,file_id_mesgs,1,"garmin_product, manufacturer, number, product, serial_number, time_created, type",,,0,0
+data/watch_wellness/494465745058_METRICS.fit,edge_840,file_creator_mesgs,1,software_version,,,0,0
+data/watch_wellness/494465745058_METRICS.fit,edge_840,device_info_mesgs,1,"product, serial_number, software_version, timestamp",2026-10-16T15:25:27+00:00,2026-10-16T15:25:27+00:00,0,0
+data/watch_wellness/494465745058_METRICS.fit,edge_840,241,1,"0, 1, 253",,,0,0
+data/watch_wellness/494465745058_METRICS.fit,edge_840,494,1,"0, 1, 2, 253, 3, 4, 5, 6, 7",,,0,0
+data/watch_wellness/494465746387_METRICS.fit,edge_840,file_id_mesgs,1,"garmin_product, manufacturer, number, product, serial_number, time_created, type",,,0,0
+data/watch_wellness/494465746387_METRICS.fit,edge_840,file_creator_mesgs,1,software_version,,,0,0
+data/watch_wellness/494465746387_METRICS.fit,edge_840,device_info_mesgs,1,"product, serial_number, software_version, timestamp",2026-10-16T15:25:27+00:00,2026-10-16T15:25:27+00:00,0,0
+data/watch_wellness/494465746387_METRICS.fit,edge_840,241,1,"0, 1, 253",,,0,0
+data/watch_wellness/494465746387_METRICS.fit,edge_840,494,1,"0, 1, 2, 253, 3, 4, 5, 6, 7",,,0,0
+data/watch_wellness/494465751299_METRICS.fit,edge_840,file_id_mesgs,1,"garmin_product, manufacturer, number, product, serial_number, time_created, type",,,0,0
+data/watch_wellness/494465751299_METRICS.fit,edge_840,file_creator_mesgs,1,software_version,,,0,0
+data/watch_wellness/494465751299_METRICS.fit,edge_840,device_info_mesgs,1,"product, serial_number, software_version, timestamp",2026-10-16T15:25:28+00:00,2026-10-16T15:25:28+00:00,0,0
+data/watch_wellness/494465751299_METRICS.fit,edge_840,241,1,"0, 1, 253",,,0,0
+data/watch_wellness/494465751299_METRICS.fit,edge_840,494,1,"0, 1, 2, 253, 3, 4, 5, 6, 7",,,0,0
+data/watch_wellness/494465800281_METRICS.fit,edge_840,file_id_mesgs,1,"garmin_product, manufacturer, number, product, serial_number, time_created, type",,,0,0
+data/watch_wellness/494465800281_METRICS.fit,edge_840,file_creator_mesgs,1,software_version,,,0,0
+data/watch_wellness/494465800281_METRICS.fit,edge_840,device_info_mesgs,1,"product, serial_number, software_version, timestamp",2026-10-16T15:25:55+00:00,2026-10-16T15:25:55+00:00,0,0
+data/watch_wellness/494465800281_METRICS.fit,edge_840,241,1,"0, 1, 253",,,0,0
+data/watch_wellness/494465800281_METRICS.fit,edge_840,294,1,"0, 1, 2, 253, 3, 4, 5, 6, 7, 8, 9",,,0,0
+data/watch_wellness/494465800281_METRICS.fit,edge_840,232,1,"0, 1, 11, 2, 253, 3, 9",,,0,0
+data/watch_wellness/494465800281_METRICS.fit,edge_840,378,1,"0, 1, 2, 253, 3, 4, 5",,,0,0
+data/watch_wellness/494465800281_METRICS.fit,edge_840,494,1,"0, 1, 2, 253, 3, 4, 5, 6, 7",,,0,0
+data/watch_wellness/494465811144_METRICS.fit,edge_840,file_id_mesgs,1,"garmin_product, manufacturer, number, product, serial_number, time_created, type",,,0,0
+data/watch_wellness/494465811144_METRICS.fit,edge_840,file_creator_mesgs,1,software_version,,,0,0
+data/watch_wellness/494465811144_METRICS.fit,edge_840,device_info_mesgs,1,"product, serial_number, software_version, timestamp",2026-10-16T15:25:55+00:00,2026-10-16T15:25:55+00:00,0,0
+data/watch_wellness/494465811144_METRICS.fit,edge_840,241,1,"0, 1, 253",,,0,0
+data/watch_wellness/494465811144_METRICS.fit,edge_840,294,1,"0, 1, 2, 253, 3, 4, 5, 6, 7, 8, 9",,,0,0
+data/watch_wellness/494465811144_METRICS.fit,edge_840,232,1,"0, 1, 11, 2, 253, 3, 9",,,0,0
+data/watch_wellness/494465811144_METRICS.fit,edge_840,378,1,"0, 1, 2, 253, 3, 4, 5",,,0,0
+data/watch_wellness/494465811144_METRICS.fit,edge_840,494,1,"0, 1, 2, 253, 3, 4, 5, 6, 7",,,0,0
+data/watch_wellness/494465820778_METRICS.fit,edge_840,file_id_mesgs,1,"garmin_product, manufacturer, number, product, serial_number, time_created, type",,,0,0
+data/watch_wellness/494465820778_METRICS.fit,edge_840,file_creator_mesgs,1,software_version,,,0,0
+data/watch_wellness/494465820778_METRICS.fit,edge_840,device_info_mesgs,1,"product, serial_number, software_version, timestamp",2026-10-16T15:25:55+00:00,2026-10-16T15:25:55+00:00,0,0
+data/watch_wellness/494465820778_METRICS.fit,edge_840,241,1,"0, 1, 253",,,0,0
+data/watch_wellness/494465820778_METRICS.fit,edge_840,494,1,"0, 1, 2, 253, 3, 4, 5, 6, 7",,,0,0
+data/watch_wellness/494465830564_METRICS.fit,edge_840,file_id_mesgs,1,"garmin_product, manufacturer, number, product, serial_number, time_created, type",,,0,0
+data/watch_wellness/494465830564_METRICS.fit,edge_840,file_creator_mesgs,1,software_version,,,0,0
+data/watch_wellness/494465830564_METRICS.fit,edge_840,device_info_mesgs,1,"product, serial_number, software_version, timestamp",2026-10-16T15:25:55+00:00,2026-10-16T15:25:55+00:00,0,0
+data/watch_wellness/494465830564_METRICS.fit,edge_840,241,1,"0, 1, 253",,,0,0
+data/watch_wellness/494465830564_METRICS.fit,edge_840,281,1,"10, 11, 12, 13, 253, 4, 5, 6, 9",,,0,0
+data/watch_wellness/494465830564_METRICS.fit,edge_840,356,1,"0, 10, 11, 12, 2, 253, 3, 4, 5, 6, 7, 8, 9",,,0,0
+data/watch_wellness/494467917559_WELLNESS.fit,edge_840,file_id_mesgs,1,"garmin_product, manufacturer, number, product, serial_number, time_created, type",,,0,0
+data/watch_wellness/494467917559_WELLNESS.fit,edge_840,device_info_mesgs,1,"garmin_product, manufacturer, product, serial_number, software_version, timestamp",2026-10-16T15:25:00+00:00,2026-10-16T15:25:00+00:00,0,0
+data/watch_wellness/494467917559_WELLNESS.fit,edge_840,software_mesgs,1,version,,,0,0
+data/watch_wellness/494467917559_WELLNESS.fit,edge_840,355,1,"0, 1, 2",,,0,0
+data/watch_wellness/494467917559_WELLNESS.fit,edge_840,monitoring_info_mesgs,1,"activity_type, cycles_to_calories, cycles_to_distance, local_timestamp, resting_metabolic_rate, timestamp",2026-10-16T15:25:00+00:00,2026-10-16T15:25:00+00:00,0,0
+data/watch_wellness/494467917559_WELLNESS.fit,edge_840,monitoring_mesgs,6,"37, 38, activity_type, current_activity_type_intensity, heart_rate, intensity, timestamp, timestamp_16",2026-10-16T15:25:00+00:00,2026-10-16T15:31:00+00:00,2,0
+data/watch_wellness/494467917559_WELLNESS.fit,edge_840,monitoring_hr_data_mesgs,2,"current_day_resting_heart_rate, resting_heart_rate, timestamp",2026-10-16T15:25:00+00:00,2026-10-16T15:31:00+00:00,0,0
+data/watch_wellness/494467917559_WELLNESS.fit,edge_840,ohr_settings_mesgs,2,"enabled, timestamp",2026-10-16T15:25:00+00:00,2026-10-16T15:31:00+00:00,0,0
+data/watch_wellness/494467917559_WELLNESS.fit,edge_840,24,3,2,,,0,0
+data/watch_wellness/494467928088_WELLNESS.fit,edge_840,file_id_mesgs,1,"garmin_product, manufacturer, number, product, serial_number, time_created, type",,,0,0
+data/watch_wellness/494467928088_WELLNESS.fit,edge_840,device_info_mesgs,1,"garmin_product, manufacturer, product, serial_number, software_version, timestamp",2026-10-16T15:31:00+00:00,2026-10-16T15:31:00+00:00,0,0
+data/watch_wellness/494467928088_WELLNESS.fit,edge_840,software_mesgs,1,version,,,0,0
+data/watch_wellness/494467928088_WELLNESS.fit,edge_840,355,1,"0, 1, 2",,,0,0
+data/watch_wellness/494467928088_WELLNESS.fit,edge_840,monitoring_info_mesgs,1,"activity_type, cycles_to_calories, cycles_to_distance, local_timestamp, resting_metabolic_rate, timestamp",2026-10-16T15:31:00+00:00,2026-10-16T15:31:00+00:00,0,0
+data/watch_wellness/494467928088_WELLNESS.fit,edge_840,monitoring_mesgs,2,"37, 38, timestamp",2026-10-16T15:31:00+00:00,2026-10-16T15:31:00+00:00,0,0
+data/watch_wellness/494467928088_WELLNESS.fit,edge_840,monitoring_hr_data_mesgs,2,"current_day_resting_heart_rate, resting_heart_rate, timestamp",2026-10-16T15:31:00+00:00,2026-10-16T15:31:00+00:00,0,0
+data/watch_wellness/494467928088_WELLNESS.fit,edge_840,ohr_settings_mesgs,2,"enabled, timestamp",2026-10-16T15:31:00+00:00,2026-10-16T15:31:00+00:00,0,0
+data/watch_wellness/494467928088_WELLNESS.fit,edge_840,24,2,2,,,0,0
+data/watch_wellness/494467932109_METRICS.fit,edge_840,file_id_mesgs,1,"garmin_product, manufacturer, number, product, serial_number, time_created, type",,,0,0
+data/watch_wellness/494467932109_METRICS.fit,edge_840,file_creator_mesgs,1,software_version,,,0,0
+data/watch_wellness/494467932109_METRICS.fit,edge_840,device_info_mesgs,1,"product, serial_number, software_version, timestamp",2026-10-16T15:33:35+00:00,2026-10-16T15:33:35+00:00,0,0
+data/watch_wellness/494467932109_METRICS.fit,edge_840,241,1,"0, 1, 253",,,0,0
+data/watch_wellness/494467932109_METRICS.fit,edge_840,494,1,"0, 1, 2, 253, 3, 4, 5, 6, 7",,,0,0
+data/watch_wellness/494467941000_METRICS.fit,edge_840,file_id_mesgs,1,"garmin_product, manufacturer, number, product, serial_number, time_created, type",,,0,0
+data/watch_wellness/494467941000_METRICS.fit,edge_840,file_creator_mesgs,1,software_version,,,0,0
+data/watch_wellness/494467941000_METRICS.fit,edge_840,device_info_mesgs,1,"product, serial_number, software_version, timestamp",2026-10-16T15:33:41+00:00,2026-10-16T15:33:41+00:00,0,0
+data/watch_wellness/494467941000_METRICS.fit,edge_840,241,1,"0, 1, 253",,,0,0
+data/watch_wellness/494467941000_METRICS.fit,edge_840,494,1,"0, 1, 2, 253, 3, 4, 5, 6, 7",,,0,0
+data/watch_wellness/494467950648_METRICS.fit,edge_840,file_id_mesgs,1,"garmin_product, manufacturer, number, product, serial_number, time_created, type",,,0,0
+data/watch_wellness/494467950648_METRICS.fit,edge_840,file_creator_mesgs,1,software_version,,,0,0
+data/watch_wellness/494467950648_METRICS.fit,edge_840,device_info_mesgs,1,"product, serial_number, software_version, timestamp",2026-10-16T15:33:45+00:00,2026-10-16T15:33:45+00:00,0,0
+data/watch_wellness/494467950648_METRICS.fit,edge_840,241,1,"0, 1, 253",,,0,0
+data/watch_wellness/494467950648_METRICS.fit,edge_840,494,1,"0, 1, 2, 253, 3, 4, 5, 6, 7",,,0,0
+data/watch_wellness/494467960099_METRICS.fit,edge_840,file_id_mesgs,1,"garmin_product, manufacturer, number, product, serial_number, time_created, type",,,0,0
+data/watch_wellness/494467960099_METRICS.fit,edge_840,file_creator_mesgs,1,software_version,,,0,0
+data/watch_wellness/494467960099_METRICS.fit,edge_840,device_info_mesgs,1,"product, serial_number, software_version, timestamp",2026-10-16T15:33:49+00:00,2026-10-16T15:33:49+00:00,0,0
+data/watch_wellness/494467960099_METRICS.fit,edge_840,241,1,"0, 1, 253",,,0,0
+data/watch_wellness/494467960099_METRICS.fit,edge_840,494,1,"0, 1, 2, 253, 3, 4, 5, 6, 7",,,0,0
+data/watch_wellness/494467968773_METRICS.fit,edge_840,file_id_mesgs,1,"garmin_product, manufacturer, number, product, serial_number, time_created, type",,,0,0
+data/watch_wellness/494467968773_METRICS.fit,edge_840,file_creator_mesgs,1,software_version,,,0,0
+data/watch_wellness/494467968773_METRICS.fit,edge_840,device_info_mesgs,1,"product, serial_number, software_version, timestamp",2026-10-16T15:33:52+00:00,2026-10-16T15:33:52+00:00,0,0
+data/watch_wellness/494467968773_METRICS.fit,edge_840,241,1,"0, 1, 253",,,0,0
+data/watch_wellness/494467968773_METRICS.fit,edge_840,494,1,"0, 1, 2, 253, 3, 4, 5, 6, 7",,,0,0
+data/watch_wellness/494467977294_METRICS.fit,edge_840,file_id_mesgs,1,"garmin_product, manufacturer, number, product, serial_number, time_created, type",,,0,0
+data/watch_wellness/494467977294_METRICS.fit,edge_840,file_creator_mesgs,1,software_version,,,0,0
+data/watch_wellness/494467977294_METRICS.fit,edge_840,device_info_mesgs,1,"product, serial_number, software_version, timestamp",2026-10-16T15:34:06+00:00,2026-10-16T15:34:06+00:00,0,0
+data/watch_wellness/494467977294_METRICS.fit,edge_840,241,1,"0, 1, 253",,,0,0
+data/watch_wellness/494467977294_METRICS.fit,edge_840,494,1,"0, 1, 2, 253, 3, 4, 5, 6, 7",,,0,0
+data/watch_wellness/494467986225_METRICS.fit,edge_840,file_id_mesgs,1,"garmin_product, manufacturer, number, product, serial_number, time_created, type",,,0,0
+data/watch_wellness/494467986225_METRICS.fit,edge_840,file_creator_mesgs,1,software_version,,,0,0
+data/watch_wellness/494467986225_METRICS.fit,edge_840,device_info_mesgs,1,"product, serial_number, software_version, timestamp",2026-10-16T15:34:16+00:00,2026-10-16T15:34:16+00:00,0,0
+data/watch_wellness/494467986225_METRICS.fit,edge_840,241,1,"0, 1, 253",,,0,0
+data/watch_wellness/494467986225_METRICS.fit,edge_840,494,1,"0, 1, 2, 253, 3, 4, 5, 6, 7",,,0,0
+data/watch_wellness/494467993098_WELLNESS.fit,fr265_large,file_id_mesgs,1,"garmin_product, manufacturer, number, product, serial_number, time_created, type",,,0,0
+data/watch_wellness/494467993098_WELLNESS.fit,fr265_large,device_info_mesgs,1,"garmin_product, manufacturer, product, serial_number, software_version, timestamp",2026-10-16T15:21:00+00:00,2026-10-16T15:21:00+00:00,0,0
+data/watch_wellness/494467993098_WELLNESS.fit,fr265_large,software_mesgs,1,version,,,0,0
+data/watch_wellness/494467993098_WELLNESS.fit,fr265_large,355,1,"0, 1, 2",,,0,0
+data/watch_wellness/494467993098_WELLNESS.fit,fr265_large,484,1,0,,,0,0
+data/watch_wellness/494467993098_WELLNESS.fit,fr265_large,monitoring_info_mesgs,1,"7, activity_type, cycles_to_calories, cycles_to_distance, local_timestamp, resting_metabolic_rate, timestamp",2026-10-16T15:21:00+00:00,2026-10-16T15:21:00+00:00,0,0
+data/watch_wellness/494467993098_WELLNESS.fit,fr265_large,24,14,2,,,0,0
+data/watch_wellness/494467993098_WELLNESS.fit,fr265_large,monitoring_mesgs,26,"35, 36, 37, 38, active_calories, active_time, activity_type, current_activity_type_intensity, cycles, distance, duration_min, heart_rate, intensity, steps, timestamp, timestamp_16",2026-10-16T15:21:00+00:00,2026-10-16T15:34:00+00:00,13,13
+data/watch_wellness/494467993098_WELLNESS.fit,fr265_large,monitoring_hr_data_mesgs,2,"current_day_resting_heart_rate, resting_heart_rate, timestamp",2026-10-16T15:21:00+00:00,2026-10-16T15:34:00+00:00,0,0
+data/watch_wellness/494467993098_WELLNESS.fit,fr265_large,ohr_settings_mesgs,2,"enabled, timestamp",2026-10-16T15:21:00+00:00,2026-10-16T15:34:00+00:00,0,0
+data/watch_wellness/494467993098_WELLNESS.fit,fr265_large,event_mesgs,1,"data, data16, event, event_type, timestamp",2026-10-16T15:21:28+00:00,2026-10-16T15:21:28+00:00,0,0
+data/watch_wellness/494467993098_WELLNESS.fit,fr265_large,408,1,"0, 1, 2, 253",,,0,0
+data/watch_wellness/494467993098_WELLNESS.fit,fr265_large,stress_level_mesgs,13,"2, 3, 4, stress_level_time, stress_level_value",,,0,0
+data/watch_wellness/494467993098_WELLNESS.fit,fr265_large,respiration_rate_mesgs,13,"respiration_rate, timestamp",2026-10-16T15:22:00+00:00,2026-10-16T15:34:00+00:00,0,0
+data/watch_wellness/494467993098_WELLNESS.fit,fr265_large,279,7,"0, 253",,,0,0
+data/watch_wellness/494467993098_WELLNESS.fit,fr265_large,233,13,2,,,0,0
+data/watch_wellness/494467995386_METRICS.fit,edge_840,file_id_mesgs,1,"garmin_product, manufacturer, number, product, serial_number, time_created, type",,,0,0
+data/watch_wellness/494467995386_METRICS.fit,edge_840,file_creator_mesgs,1,software_version,,,0,0
+data/watch_wellness/494467995386_METRICS.fit,edge_840,device_info_mesgs,1,"product, serial_number, software_version, timestamp",2026-10-16T15:34:21+00:00,2026-10-16T15:34:21+00:00,0,0
+data/watch_wellness/494467995386_METRICS.fit,edge_840,241,1,"0, 1, 253",,,0,0
+data/watch_wellness/494467995386_METRICS.fit,edge_840,494,1,"0, 1, 2, 253, 3, 4, 5, 6, 7",,,0,0
+data/watch_wellness/494468004886_METRICS.fit,edge_840,file_id_mesgs,1,"garmin_product, manufacturer, number, product, serial_number, time_created, type",,,0,0
+data/watch_wellness/494468004886_METRICS.fit,edge_840,file_creator_mesgs,1,software_version,,,0,0
+data/watch_wellness/494468004886_METRICS.fit,edge_840,device_info_mesgs,1,"product, serial_number, software_version, timestamp",2026-10-16T15:34:24+00:00,2026-10-16T15:34:24+00:00,0,0
+data/watch_wellness/494468004886_METRICS.fit,edge_840,241,1,"0, 1, 253",,,0,0
+data/watch_wellness/494468004886_METRICS.fit,edge_840,494,1,"0, 1, 2, 253, 3, 4, 5, 6, 7",,,0,0
+data/watch_wellness/494468016006_METRICS.fit,edge_840,file_id_mesgs,1,"garmin_product, manufacturer, number, product, serial_number, time_created, type",,,0,0
+data/watch_wellness/494468016006_METRICS.fit,edge_840,file_creator_mesgs,1,software_version,,,0,0
+data/watch_wellness/494468016006_METRICS.fit,edge_840,device_info_mesgs,1,"product, serial_number, software_version, timestamp",2026-10-16T15:34:51+00:00,2026-10-16T15:34:51+00:00,0,0
+data/watch_wellness/494468016006_METRICS.fit,edge_840,241,1,"0, 1, 253",,,0,0
+data/watch_wellness/494468016006_METRICS.fit,edge_840,494,1,"0, 1, 2, 253, 3, 4, 5, 6, 7",,,0,0
+data/watch_wellness/494468025181_METRICS.fit,edge_840,file_id_mesgs,1,"garmin_product, manufacturer, number, product, serial_number, time_created, type",,,0,0
+data/watch_wellness/494468025181_METRICS.fit,edge_840,file_creator_mesgs,1,software_version,,,0,0
+data/watch_wellness/494468025181_METRICS.fit,edge_840,device_info_mesgs,1,"product, serial_number, software_version, timestamp",2026-10-16T15:34:51+00:00,2026-10-16T15:34:51+00:00,0,0
+data/watch_wellness/494468025181_METRICS.fit,edge_840,241,1,"0, 1, 253",,,0,0
+data/watch_wellness/494468025181_METRICS.fit,edge_840,494,1,"0, 1, 2, 253, 3, 4, 5, 6, 7",,,0,0
+data/watch_wellness/494468034189_METRICS.fit,edge_840,file_id_mesgs,1,"garmin_product, manufacturer, number, product, serial_number, time_created, type",,,0,0
+data/watch_wellness/494468034189_METRICS.fit,edge_840,file_creator_mesgs,1,software_version,,,0,0
+data/watch_wellness/494468034189_METRICS.fit,edge_840,device_info_mesgs,1,"product, serial_number, software_version, timestamp",2026-10-16T15:34:52+00:00,2026-10-16T15:34:52+00:00,0,0
+data/watch_wellness/494468034189_METRICS.fit,edge_840,241,1,"0, 1, 253",,,0,0
+data/watch_wellness/494468034189_METRICS.fit,edge_840,494,1,"0, 1, 2, 253, 3, 4, 5, 6, 7",,,0,0
+data/watch_wellness/494468043170_METRICS.fit,edge_840,file_id_mesgs,1,"garmin_product, manufacturer, number, product, serial_number, time_created, type",,,0,0
+data/watch_wellness/494468043170_METRICS.fit,edge_840,file_creator_mesgs,1,software_version,,,0,0
+data/watch_wellness/494468043170_METRICS.fit,edge_840,device_info_mesgs,1,"product, serial_number, software_version, timestamp",2026-10-16T15:34:52+00:00,2026-10-16T15:34:52+00:00,0,0
+data/watch_wellness/494468043170_METRICS.fit,edge_840,241,1,"0, 1, 253",,,0,0
+data/watch_wellness/494468043170_METRICS.fit,edge_840,494,1,"0, 1, 2, 253, 3, 4, 5, 6, 7",,,0,0
+data/watch_wellness/494468052211_METRICS.fit,edge_840,file_id_mesgs,1,"garmin_product, manufacturer, number, product, serial_number, time_created, type",,,0,0
+data/watch_wellness/494468052211_METRICS.fit,edge_840,file_creator_mesgs,1,software_version,,,0,0
+data/watch_wellness/494468052211_METRICS.fit,edge_840,device_info_mesgs,1,"product, serial_number, software_version, timestamp",2026-10-16T15:34:52+00:00,2026-10-16T15:34:52+00:00,0,0
+data/watch_wellness/494468052211_METRICS.fit,edge_840,241,1,"0, 1, 253",,,0,0
+data/watch_wellness/494468052211_METRICS.fit,edge_840,494,1,"0, 1, 2, 253, 3, 4, 5, 6, 7",,,0,0
+data/watch_wellness/494468060832_METRICS.fit,edge_840,file_id_mesgs,1,"garmin_product, manufacturer, number, product, serial_number, time_created, type",,,0,0
+data/watch_wellness/494468060832_METRICS.fit,edge_840,file_creator_mesgs,1,software_version,,,0,0
+data/watch_wellness/494468060832_METRICS.fit,edge_840,device_info_mesgs,1,"product, serial_number, software_version, timestamp",2026-10-16T15:34:52+00:00,2026-10-16T15:34:52+00:00,0,0
+data/watch_wellness/494468060832_METRICS.fit,edge_840,241,1,"0, 1, 253",,,0,0
+data/watch_wellness/494468060832_METRICS.fit,edge_840,494,1,"0, 1, 2, 253, 3, 4, 5, 6, 7",,,0,0
+data/watch_wellness/494468070021_METRICS.fit,edge_840,file_id_mesgs,1,"garmin_product, manufacturer, number, product, serial_number, time_created, type",,,0,0
+data/watch_wellness/494468070021_METRICS.fit,edge_840,file_creator_mesgs,1,software_version,,,0,0
+data/watch_wellness/494468070021_METRICS.fit,edge_840,device_info_mesgs,1,"product, serial_number, software_version, timestamp",2026-10-16T15:34:52+00:00,2026-10-16T15:34:52+00:00,0,0
+data/watch_wellness/494468070021_METRICS.fit,edge_840,241,1,"0, 1, 253",,,0,0
+data/watch_wellness/494468070021_METRICS.fit,edge_840,494,1,"0, 1, 2, 253, 3, 4, 5, 6, 7",,,0,0
+data/watch_wellness/494468078665_METRICS.fit,edge_840,file_id_mesgs,1,"garmin_product, manufacturer, number, product, serial_number, time_created, type",,,0,0
+data/watch_wellness/494468078665_METRICS.fit,edge_840,file_creator_mesgs,1,software_version,,,0,0
+data/watch_wellness/494468078665_METRICS.fit,edge_840,device_info_mesgs,1,"product, serial_number, software_version, timestamp",2026-10-16T15:34:52+00:00,2026-10-16T15:34:52+00:00,0,0
+data/watch_wellness/494468078665_METRICS.fit,edge_840,241,1,"0, 1, 253",,,0,0
+data/watch_wellness/494468078665_METRICS.fit,edge_840,494,1,"0, 1, 2, 253, 3, 4, 5, 6, 7",,,0,0
+data/watch_wellness/494468087938_METRICS.fit,edge_840,file_id_mesgs,1,"garmin_product, manufacturer, number, product, serial_number, time_created, type",,,0,0
+data/watch_wellness/494468087938_METRICS.fit,edge_840,file_creator_mesgs,1,software_version,,,0,0
+data/watch_wellness/494468087938_METRICS.fit,edge_840,device_info_mesgs,1,"product, serial_number, software_version, timestamp",2026-10-16T15:34:52+00:00,2026-10-16T15:34:52+00:00,0,0
+data/watch_wellness/494468087938_METRICS.fit,edge_840,241,1,"0, 1, 253",,,0,0
+data/watch_wellness/494468087938_METRICS.fit,edge_840,494,1,"0, 1, 2, 253, 3, 4, 5, 6, 7",,,0,0
+data/watch_wellness/494468096859_METRICS.fit,edge_840,file_id_mesgs,1,"garmin_product, manufacturer, number, product, serial_number, time_created, type",,,0,0
+data/watch_wellness/494468096859_METRICS.fit,edge_840,file_creator_mesgs,1,software_version,,,0,0
+data/watch_wellness/494468096859_METRICS.fit,edge_840,device_info_mesgs,1,"product, serial_number, software_version, timestamp",2026-10-16T15:34:52+00:00,2026-10-16T15:34:52+00:00,0,0
+data/watch_wellness/494468096859_METRICS.fit,edge_840,241,1,"0, 1, 253",,,0,0
+data/watch_wellness/494468096859_METRICS.fit,edge_840,281,1,"10, 11, 12, 13, 253, 4, 5, 6, 9",,,0,0
+data/watch_wellness/494468096859_METRICS.fit,edge_840,356,1,"0, 10, 11, 12, 2, 253, 3, 4, 5, 6, 7, 8, 9",,,0,0
+data/watch_wellness/494482065678_WELLNESS.fit,fr265_large,file_id_mesgs,1,"garmin_product, manufacturer, number, product, serial_number, time_created, type",,,0,0
+data/watch_wellness/494482065678_WELLNESS.fit,fr265_large,device_info_mesgs,1,"garmin_product, manufacturer, product, serial_number, software_version, timestamp",2026-10-16T15:34:00+00:00,2026-10-16T15:34:00+00:00,0,0
+data/watch_wellness/494482065678_WELLNESS.fit,fr265_large,software_mesgs,1,version,,,0,0
+data/watch_wellness/494482065678_WELLNESS.fit,fr265_large,355,1,"0, 1, 2",,,0,0
+data/watch_wellness/494482065678_WELLNESS.fit,fr265_large,484,1,0,,,0,0
+data/watch_wellness/494482065678_WELLNESS.fit,fr265_large,monitoring_info_mesgs,1,"7, activity_type, cycles_to_calories, cycles_to_distance, local_timestamp, resting_metabolic_rate, timestamp",2026-10-16T15:34:00+00:00,2026-10-16T15:34:00+00:00,0,0
+data/watch_wellness/494482065678_WELLNESS.fit,fr265_large,24,55,2,,,0,0
+data/watch_wellness/494482065678_WELLNESS.fit,fr265_large,monitoring_mesgs,92,"35, 36, 37, 38, active_calories, active_time, activity_type, ascent, current_activity_type_intensity, cycles, descent, distance, duration_min, heart_rate, intensity, moderate_activity_minutes, steps, timestamp, timestamp_16, vigorous_activity_minutes",2026-10-16T15:34:00+00:00,2026-10-16T16:30:00+00:00,50,50
+data/watch_wellness/494482065678_WELLNESS.fit,fr265_large,monitoring_hr_data_mesgs,2,"current_day_resting_heart_rate, resting_heart_rate, timestamp",2026-10-16T15:34:00+00:00,2026-10-16T16:30:00+00:00,0,0
+data/watch_wellness/494482065678_WELLNESS.fit,fr265_large,ohr_settings_mesgs,2,"enabled, timestamp",2026-10-16T15:34:00+00:00,2026-10-16T16:30:00+00:00,0,0
+data/watch_wellness/494482065678_WELLNESS.fit,fr265_large,event_mesgs,14,"activity_type, auto_activity_detect_start_timestamp, data, data16, event, event_type, start_timestamp, timestamp",2026-10-16T15:34:40+00:00,2026-10-16T16:29:00+00:00,0,0
+data/watch_wellness/494482065678_WELLNESS.fit,fr265_large,stress_level_mesgs,56,"2, 3, 4, stress_level_time, stress_level_value",,,0,0
+data/watch_wellness/494482065678_WELLNESS.fit,fr265_large,respiration_rate_mesgs,56,"respiration_rate, timestamp",2026-10-16T15:35:00+00:00,2026-10-16T16:30:00+00:00,0,0
+data/watch_wellness/494482065678_WELLNESS.fit,fr265_large,233,56,2,,,0,0
+data/watch_wellness/494482065678_WELLNESS.fit,fr265_large,408,2,"0, 1, 2, 253",,,0,0
+data/watch_wellness/494482065678_WELLNESS.fit,fr265_large,279,28,"0, 253",,,0,0
+data/watch_wellness/494482764894_WELLNESS.fit,fr265_large,file_id_mesgs,1,"garmin_product, manufacturer, number, product, serial_number, time_created, type",,,0,0
+data/watch_wellness/494482764894_WELLNESS.fit,fr265_large,device_info_mesgs,1,"garmin_product, manufacturer, product, serial_number, software_version, timestamp",2026-10-16T16:30:00+00:00,2026-10-16T16:30:00+00:00,0,0
+data/watch_wellness/494482764894_WELLNESS.fit,fr265_large,software_mesgs,1,version,,,0,0
+data/watch_wellness/494482764894_WELLNESS.fit,fr265_large,355,1,"0, 1, 2",,,0,0
+data/watch_wellness/494482764894_WELLNESS.fit,fr265_large,484,1,0,,,0,0
+data/watch_wellness/494482764894_WELLNESS.fit,fr265_large,monitoring_info_mesgs,1,"7, activity_type, cycles_to_calories, cycles_to_distance, local_timestamp, resting_metabolic_rate, timestamp",2026-10-16T16:30:00+00:00,2026-10-16T16:30:00+00:00,0,0
+data/watch_wellness/494482764894_WELLNESS.fit,fr265_large,24,21,2,,,0,0
+data/watch_wellness/494482764894_WELLNESS.fit,fr265_large,monitoring_mesgs,16,"35, 36, 37, 38, active_calories, active_time, activity_type, ascent, current_activity_type_intensity, cycles, descent, distance, duration_min, heart_rate, intensity, steps, timestamp, timestamp_16",2026-10-16T16:30:00+00:00,2026-10-16T16:33:00+00:00,3,3
+data/watch_wellness/494482764894_WELLNESS.fit,fr265_large,monitoring_hr_data_mesgs,2,"current_day_resting_heart_rate, resting_heart_rate, timestamp",2026-10-16T16:30:00+00:00,2026-10-16T16:33:00+00:00,0,0
+data/watch_wellness/494482764894_WELLNESS.fit,fr265_large,ohr_settings_mesgs,2,"enabled, timestamp",2026-10-16T16:30:00+00:00,2026-10-16T16:33:00+00:00,0,0
+data/watch_wellness/494482764894_WELLNESS.fit,fr265_large,event_mesgs,1,"data, data16, event, event_type, timestamp",2026-10-16T16:30:46+00:00,2026-10-16T16:30:46+00:00,0,0
+data/watch_wellness/494482764894_WELLNESS.fit,fr265_large,stress_level_mesgs,3,"2, 3, 4, stress_level_time, stress_level_value",,,0,0
+data/watch_wellness/494482764894_WELLNESS.fit,fr265_large,respiration_rate_mesgs,3,"respiration_rate, timestamp",2026-10-16T16:31:00+00:00,2026-10-16T16:33:00+00:00,0,0
+data/watch_wellness/494482764894_WELLNESS.fit,fr265_large,233,3,2,,,0,0
+data/watch_wellness/494482764894_WELLNESS.fit,fr265_large,408,1,"0, 1, 2, 253",,,0,0
+data/watch_wellness/494482764894_WELLNESS.fit,fr265_large,279,1,"0, 253",,,0,0
+data/watch_wellness/494484245426_WELLNESS.fit,fr265_large,file_id_mesgs,1,"garmin_product, manufacturer, number, product, serial_number, time_created, type",,,0,0
+data/watch_wellness/494484245426_WELLNESS.fit,fr265_large,device_info_mesgs,1,"garmin_product, manufacturer, product, serial_number, software_version, timestamp",2026-10-16T16:33:00+00:00,2026-10-16T16:33:00+00:00,0,0
+data/watch_wellness/494484245426_WELLNESS.fit,fr265_large,software_mesgs,1,version,,,0,0
+data/watch_wellness/494484245426_WELLNESS.fit,fr265_large,355,1,"0, 1, 2",,,0,0
+data/watch_wellness/494484245426_WELLNESS.fit,fr265_large,484,1,0,,,0,0
+data/watch_wellness/494484245426_WELLNESS.fit,fr265_large,monitoring_info_mesgs,1,"7, activity_type, cycles_to_calories, cycles_to_distance, local_timestamp, resting_metabolic_rate, timestamp",2026-10-16T16:33:00+00:00,2026-10-16T16:33:00+00:00,0,0
+data/watch_wellness/494484245426_WELLNESS.fit,fr265_large,24,14,2,,,0,0
+data/watch_wellness/494484245426_WELLNESS.fit,fr265_large,monitoring_mesgs,20,"35, 36, 37, 38, active_calories, active_time, activity_type, current_activity_type_intensity, cycles, distance, duration_min, heart_rate, intensity, steps, timestamp, timestamp_16",2026-10-16T16:33:00+00:00,2026-10-16T16:39:00+00:00,6,6
+data/watch_wellness/494484245426_WELLNESS.fit,fr265_large,monitoring_hr_data_mesgs,2,"current_day_resting_heart_rate, resting_heart_rate, timestamp",2026-10-16T16:33:00+00:00,2026-10-16T16:39:00+00:00,0,0
+data/watch_wellness/494484245426_WELLNESS.fit,fr265_large,ohr_settings_mesgs,2,"enabled, timestamp",2026-10-16T16:33:00+00:00,2026-10-16T16:39:00+00:00,0,0
+data/watch_wellness/494484245426_WELLNESS.fit,fr265_large,event_mesgs,1,"data, data16, event, event_type, timestamp",2026-10-16T16:33:28+00:00,2026-10-16T16:33:28+00:00,0,0
+data/watch_wellness/494484245426_WELLNESS.fit,fr265_large,408,1,"0, 1, 2, 253",,,0,0
+data/watch_wellness/494484245426_WELLNESS.fit,fr265_large,stress_level_mesgs,6,"2, 3, 4, stress_level_time, stress_level_value",,,0,0
+data/watch_wellness/494484245426_WELLNESS.fit,fr265_large,respiration_rate_mesgs,6,"respiration_rate, timestamp",2026-10-16T16:34:00+00:00,2026-10-16T16:39:00+00:00,0,0
+data/watch_wellness/494484245426_WELLNESS.fit,fr265_large,279,3,"0, 253",,,0,0
+data/watch_wellness/494484245426_WELLNESS.fit,fr265_large,233,6,2,,,0,0
+data/watch_wellness/494485566768_WELLNESS.fit,fr265_large,file_id_mesgs,1,"garmin_product, manufacturer, number, product, serial_number, time_created, type",,,0,0
+data/watch_wellness/494485566768_WELLNESS.fit,fr265_large,device_info_mesgs,1,"garmin_product, manufacturer, product, serial_number, software_version, timestamp",2026-10-16T16:39:00+00:00,2026-10-16T16:39:00+00:00,0,0
+data/watch_wellness/494485566768_WELLNESS.fit,fr265_large,software_mesgs,1,version,,,0,0
+data/watch_wellness/494485566768_WELLNESS.fit,fr265_large,355,1,"0, 1, 2",,,0,0
+data/watch_wellness/494485566768_WELLNESS.fit,fr265_large,484,1,0,,,0,0
+data/watch_wellness/494485566768_WELLNESS.fit,fr265_large,monitoring_info_mesgs,1,"7, activity_type, cycles_to_calories, cycles_to_distance, local_timestamp, resting_metabolic_rate, timestamp",2026-10-16T16:39:00+00:00,2026-10-16T16:39:00+00:00,0,0
+data/watch_wellness/494485566768_WELLNESS.fit,fr265_large,24,14,2,,,0,0
+data/watch_wellness/494485566768_WELLNESS.fit,fr265_large,monitoring_mesgs,16,"35, 36, 37, 38, active_calories, active_time, activity_type, current_activity_type_intensity, cycles, distance, duration_min, heart_rate, intensity, steps, timestamp, timestamp_16",2026-10-16T16:39:00+00:00,2026-10-16T16:44:00+00:00,4,4
+data/watch_wellness/494485566768_WELLNESS.fit,fr265_large,monitoring_hr_data_mesgs,2,"current_day_resting_heart_rate, resting_heart_rate, timestamp",2026-10-16T16:39:00+00:00,2026-10-16T16:44:00+00:00,0,0
+data/watch_wellness/494485566768_WELLNESS.fit,fr265_large,ohr_settings_mesgs,2,"enabled, timestamp",2026-10-16T16:39:00+00:00,2026-10-16T16:44:00+00:00,0,0
+data/watch_wellness/494485566768_WELLNESS.fit,fr265_large,event_mesgs,1,"data, data16, event, event_type, timestamp",2026-10-16T16:39:20+00:00,2026-10-16T16:39:20+00:00,0,0
+data/watch_wellness/494485566768_WELLNESS.fit,fr265_large,408,1,"0, 1, 2, 253",,,0,0
+data/watch_wellness/494485566768_WELLNESS.fit,fr265_large,stress_level_mesgs,5,"2, 3, 4, stress_level_time, stress_level_value",,,0,0
+data/watch_wellness/494485566768_WELLNESS.fit,fr265_large,respiration_rate_mesgs,5,"respiration_rate, timestamp",2026-10-16T16:40:00+00:00,2026-10-16T16:44:00+00:00,0,0
+data/watch_wellness/494485566768_WELLNESS.fit,fr265_large,279,3,"0, 253",,,0,0
+data/watch_wellness/494485566768_WELLNESS.fit,fr265_large,233,5,2,,,0,0
+data/watch_wellness/494491244476_WELLNESS.fit,fr265_large,file_id_mesgs,1,"garmin_product, manufacturer, number, product, serial_number, time_created, type",,,0,0
+data/watch_wellness/494491244476_WELLNESS.fit,fr265_large,device_info_mesgs,1,"garmin_product, manufacturer, product, serial_number, software_version, timestamp",2026-10-16T16:44:00+00:00,2026-10-16T16:44:00+00:00,0,0
+data/watch_wellness/494491244476_WELLNESS.fit,fr265_large,software_mesgs,1,version,,,0,0
+data/watch_wellness/494491244476_WELLNESS.fit,fr265_large,355,1,"0, 1, 2",,,0,0
+data/watch_wellness/494491244476_WELLNESS.fit,fr265_large,484,1,0,,,0,0
+data/watch_wellness/494491244476_WELLNESS.fit,fr265_large,monitoring_info_mesgs,1,"7, activity_type, cycles_to_calories, cycles_to_distance, local_timestamp, resting_metabolic_rate, timestamp",2026-10-16T16:44:00+00:00,2026-10-16T16:44:00+00:00,0,0
+data/watch_wellness/494491244476_WELLNESS.fit,fr265_large,24,14,2,,,0,0
+data/watch_wellness/494491244476_WELLNESS.fit,fr265_large,monitoring_mesgs,39,"35, 36, 37, 38, active_calories, active_time, activity_type, current_activity_type_intensity, cycles, distance, duration_min, heart_rate, intensity, steps, timestamp, timestamp_16",2026-10-16T16:44:00+00:00,2026-10-16T17:08:00+00:00,20,20
+data/watch_wellness/494491244476_WELLNESS.fit,fr265_large,monitoring_hr_data_mesgs,2,"current_day_resting_heart_rate, resting_heart_rate, timestamp",2026-10-16T16:44:00+00:00,2026-10-16T17:08:00+00:00,0,0
+data/watch_wellness/494491244476_WELLNESS.fit,fr265_large,ohr_settings_mesgs,2,"enabled, timestamp",2026-10-16T16:44:00+00:00,2026-10-16T17:08:00+00:00,0,0
+data/watch_wellness/494491244476_WELLNESS.fit,fr265_large,event_mesgs,1,"data, data16, event, event_type, timestamp",2026-10-16T16:44:48+00:00,2026-10-16T16:44:48+00:00,0,0
+data/watch_wellness/494491244476_WELLNESS.fit,fr265_large,stress_level_mesgs,24,"2, 3, 4, stress_level_time, stress_level_value",,,0,0
+data/watch_wellness/494491244476_WELLNESS.fit,fr265_large,respiration_rate_mesgs,24,"respiration_rate, timestamp",2026-10-16T16:45:00+00:00,2026-10-16T17:08:00+00:00,0,0
+data/watch_wellness/494491244476_WELLNESS.fit,fr265_large,233,24,2,,,0,0
+data/watch_wellness/494491244476_WELLNESS.fit,fr265_large,408,1,"0, 1, 2, 253",,,0,0
+data/watch_wellness/494491244476_WELLNESS.fit,fr265_large,279,12,"0, 253",,,0,0
+data/watch_wellness/494495919244_WELLNESS.fit,edge_840,file_id_mesgs,1,"garmin_product, manufacturer, number, product, serial_number, time_created, type",,,0,0
+data/watch_wellness/494495919244_WELLNESS.fit,edge_840,device_info_mesgs,1,"garmin_product, manufacturer, product, serial_number, software_version, timestamp",2026-10-16T15:31:00+00:00,2026-10-16T15:31:00+00:00,0,0
+data/watch_wellness/494495919244_WELLNESS.fit,edge_840,software_mesgs,1,version,,,0,0
+data/watch_wellness/494495919244_WELLNESS.fit,edge_840,355,1,"0, 1, 2",,,0,0
+data/watch_wellness/494495919244_WELLNESS.fit,edge_840,monitoring_info_mesgs,1,"activity_type, cycles_to_calories, cycles_to_distance, local_timestamp, resting_metabolic_rate, timestamp",2026-10-16T15:31:00+00:00,2026-10-16T15:31:00+00:00,0,0
+data/watch_wellness/494495919244_WELLNESS.fit,edge_840,monitoring_mesgs,5,"37, 38, activity_type, current_activity_type_intensity, heart_rate, intensity, timestamp, timestamp_16",2026-10-16T15:31:00+00:00,2026-10-16T15:38:00+00:00,1,0
+data/watch_wellness/494495919244_WELLNESS.fit,edge_840,monitoring_hr_data_mesgs,2,"current_day_resting_heart_rate, resting_heart_rate, timestamp",2026-10-16T15:31:00+00:00,2026-10-16T15:38:00+00:00,0,0
+data/watch_wellness/494495919244_WELLNESS.fit,edge_840,ohr_settings_mesgs,2,"enabled, timestamp",2026-10-16T15:31:00+00:00,2026-10-16T15:38:00+00:00,0,0
+data/watch_wellness/494495919244_WELLNESS.fit,edge_840,24,3,2,,,0,0
+data/watch_wellness/494495941974_WELLNESS.fit,fr265_large,file_id_mesgs,1,"garmin_product, manufacturer, number, product, serial_number, time_created, type",,,0,0
+data/watch_wellness/494495941974_WELLNESS.fit,fr265_large,device_info_mesgs,1,"garmin_product, manufacturer, product, serial_number, software_version, timestamp",2026-10-16T17:08:00+00:00,2026-10-16T17:08:00+00:00,0,0
+data/watch_wellness/494495941974_WELLNESS.fit,fr265_large,software_mesgs,1,version,,,0,0
+data/watch_wellness/494495941974_WELLNESS.fit,fr265_large,355,1,"0, 1, 2",,,0,0
+data/watch_wellness/494495941974_WELLNESS.fit,fr265_large,484,1,0,,,0,0
+data/watch_wellness/494495941974_WELLNESS.fit,fr265_large,monitoring_info_mesgs,1,"7, activity_type, cycles_to_calories, cycles_to_distance, local_timestamp, resting_metabolic_rate, timestamp",2026-10-16T17:08:00+00:00,2026-10-16T17:08:00+00:00,0,0
+data/watch_wellness/494495941974_WELLNESS.fit,fr265_large,24,17,2,,,0,0
+data/watch_wellness/494495941974_WELLNESS.fit,fr265_large,monitoring_mesgs,36,"35, 36, 37, 38, active_calories, active_time, activity_type, current_activity_type_intensity, cycles, distance, duration_min, heart_rate, intensity, steps, timestamp, timestamp_16",2026-10-16T17:08:00+00:00,2026-10-16T17:28:00+00:00,18,18
+data/watch_wellness/494495941974_WELLNESS.fit,fr265_large,monitoring_hr_data_mesgs,2,"current_day_resting_heart_rate, resting_heart_rate, timestamp",2026-10-16T17:08:00+00:00,2026-10-16T17:28:00+00:00,0,0
+data/watch_wellness/494495941974_WELLNESS.fit,fr265_large,ohr_settings_mesgs,2,"enabled, timestamp",2026-10-16T17:08:00+00:00,2026-10-16T17:28:00+00:00,0,0
+data/watch_wellness/494495941974_WELLNESS.fit,fr265_large,event_mesgs,2,"data, data16, event, event_type, timestamp",2026-10-16T17:08:37+00:00,2026-10-16T17:15:00+00:00,0,0
+data/watch_wellness/494495941974_WELLNESS.fit,fr265_large,stress_level_mesgs,20,"2, 3, 4, stress_level_time, stress_level_value",,,0,0
+data/watch_wellness/494495941974_WELLNESS.fit,fr265_large,respiration_rate_mesgs,20,"respiration_rate, timestamp",2026-10-16T17:09:00+00:00,2026-10-16T17:28:00+00:00,0,0
+data/watch_wellness/494495941974_WELLNESS.fit,fr265_large,233,19,2,,,0,0
+data/watch_wellness/494495941974_WELLNESS.fit,fr265_large,408,1,"0, 1, 2, 253",,,0,0
+data/watch_wellness/494495941974_WELLNESS.fit,fr265_large,279,10,"0, 253",,,0,0
+data/watch_wellness/494528596986_METRICS.fit,fr265_large,file_id_mesgs,1,"garmin_product, manufacturer, number, product, serial_number, time_created, type",,,0,0
+data/watch_wellness/494528596986_METRICS.fit,fr265_large,file_creator_mesgs,1,"3, 4, software_version",,,0,0
+data/watch_wellness/494528596986_METRICS.fit,fr265_large,device_info_mesgs,1,"product, serial_number, software_version, timestamp",2026-10-16T17:58:04+00:00,2026-10-16T17:58:04+00:00,0,0
+data/watch_wellness/494528596986_METRICS.fit,fr265_large,241,1,"0, 1, 253",,,0,0
+data/watch_wellness/494528596986_METRICS.fit,fr265_large,284,2,"0, 1, 2, 3, 4, 5",,,0,0
+data/watch_wellness/494528596986_METRICS.fit,fr265_large,410,19,"0, 1, 2, 253, 3, 4, 5, 6",,,0,0
+data/watch_wellness/494531564867_METRICS.fit,edge_840,file_id_mesgs,1,"garmin_product, manufacturer, number, product, serial_number, time_created, type",,,0,0
+data/watch_wellness/494531564867_METRICS.fit,edge_840,file_creator_mesgs,1,software_version,,,0,0
+data/watch_wellness/494531564867_METRICS.fit,edge_840,device_info_mesgs,1,"product, serial_number, software_version, timestamp",2026-10-16T20:26:20+00:00,2026-10-16T20:26:20+00:00,0,0
+data/watch_wellness/494531564867_METRICS.fit,edge_840,241,1,"0, 1, 253",,,0,0
+data/watch_wellness/494531564867_METRICS.fit,edge_840,357,1,"0, 1, 2, 253",,,0,0
+data/watch_wellness/494531564867_METRICS.fit,edge_840,284,1,"0, 1, 2, 3, 4, 5",,,0,0
+data/watch_wellness/494531564867_METRICS.fit,edge_840,281,1,"10, 11, 12, 13, 253, 4, 5, 6, 9",,,0,0
+data/watch_wellness/494531564867_METRICS.fit,edge_840,356,1,"0, 10, 11, 12, 2, 253, 3, 4, 5, 6, 7, 8, 9",,,0,0
+data/watch_wellness/494531564867_METRICS.fit,edge_840,294,1,"0, 1, 2, 253, 3, 4, 5, 6, 7, 8, 9",,,0,0
+data/watch_wellness/494531564867_METRICS.fit,edge_840,232,1,"0, 1, 11, 2, 253, 3, 9",,,0,0
+data/watch_wellness/494531564867_METRICS.fit,edge_840,378,1,"0, 1, 2, 253, 3, 4, 5",,,0,0
+data/watch_wellness/494531564867_METRICS.fit,edge_840,494,1,"0, 1, 2, 253, 3, 4, 5, 6, 7",,,0,0
+data/watch_wellness/494531572096_WELLNESS.fit,edge_840,file_id_mesgs,1,"garmin_product, manufacturer, number, product, serial_number, time_created, type",,,0,0
+data/watch_wellness/494531572096_WELLNESS.fit,edge_840,device_info_mesgs,1,"garmin_product, manufacturer, product, serial_number, software_version, timestamp",2026-10-16T15:38:00+00:00,2026-10-16T15:38:00+00:00,0,0
+data/watch_wellness/494531572096_WELLNESS.fit,edge_840,software_mesgs,1,version,,,0,0
+data/watch_wellness/494531572096_WELLNESS.fit,edge_840,355,1,"0, 1, 2",,,0,0
+data/watch_wellness/494531572096_WELLNESS.fit,edge_840,monitoring_info_mesgs,1,"activity_type, cycles_to_calories, cycles_to_distance, local_timestamp, resting_metabolic_rate, timestamp",2026-10-16T15:38:00+00:00,2026-10-16T15:38:00+00:00,0,0
+data/watch_wellness/494531572096_WELLNESS.fit,edge_840,monitoring_mesgs,54,"37, 38, active_calories, active_time, activity_type, current_activity_type_intensity, cycles, distance, duration_min, heart_rate, intensity, moderate_activity_minutes, timestamp, timestamp_16, vigorous_activity_minutes",2026-10-16T15:38:00+00:00,2026-10-16T20:26:00+00:00,29,18
+data/watch_wellness/494531572096_WELLNESS.fit,edge_840,monitoring_hr_data_mesgs,2,"current_day_resting_heart_rate, resting_heart_rate, timestamp",2026-10-16T15:38:00+00:00,2026-10-16T20:26:00+00:00,0,0
+data/watch_wellness/494531572096_WELLNESS.fit,edge_840,ohr_settings_mesgs,4,"enabled, timestamp",2026-10-16T15:38:00+00:00,2026-10-16T20:26:00+00:00,0,0
+data/watch_wellness/494531572096_WELLNESS.fit,edge_840,24,3,2,,,0,0
+data/watch_wellness/494531987483_WELLNESS.fit,edge_840,file_id_mesgs,1,"garmin_product, manufacturer, number, product, serial_number, time_created, type",,,0,0
+data/watch_wellness/494531987483_WELLNESS.fit,edge_840,device_info_mesgs,1,"garmin_product, manufacturer, product, serial_number, software_version, timestamp",2026-10-16T20:26:00+00:00,2026-10-16T20:26:00+00:00,0,0
+data/watch_wellness/494531987483_WELLNESS.fit,edge_840,software_mesgs,1,version,,,0,0
+data/watch_wellness/494531987483_WELLNESS.fit,edge_840,355,1,"0, 1, 2",,,0,0
+data/watch_wellness/494531987483_WELLNESS.fit,edge_840,monitoring_info_mesgs,1,"activity_type, cycles_to_calories, cycles_to_distance, local_timestamp, resting_metabolic_rate, timestamp",2026-10-16T20:26:00+00:00,2026-10-16T20:26:00+00:00,0,0
+data/watch_wellness/494531987483_WELLNESS.fit,edge_840,monitoring_mesgs,5,"37, 38, active_calories, active_time, activity_type, current_activity_type_intensity, cycles, distance, duration_min, intensity, timestamp",2026-10-16T20:26:00+00:00,2026-10-16T20:29:00+00:00,0,0
+data/watch_wellness/494531987483_WELLNESS.fit,edge_840,monitoring_hr_data_mesgs,2,"current_day_resting_heart_rate, resting_heart_rate, timestamp",2026-10-16T20:26:00+00:00,2026-10-16T20:29:00+00:00,0,0
+data/watch_wellness/494531987483_WELLNESS.fit,edge_840,ohr_settings_mesgs,2,"enabled, timestamp",2026-10-16T20:26:00+00:00,2026-10-16T20:29:00+00:00,0,0
+data/watch_wellness/494531987483_WELLNESS.fit,edge_840,24,2,2,,,0,0
+data/watch_wellness/494532015728_WELLNESS.fit,fr265_large,file_id_mesgs,1,"garmin_product, manufacturer, number, product, serial_number, time_created, type",,,0,0
+data/watch_wellness/494532015728_WELLNESS.fit,fr265_large,device_info_mesgs,1,"garmin_product, manufacturer, product, serial_number, software_version, timestamp",2026-10-16T17:28:00+00:00,2026-10-16T17:28:00+00:00,0,0
+data/watch_wellness/494532015728_WELLNESS.fit,fr265_large,software_mesgs,1,version,,,0,0
+data/watch_wellness/494532015728_WELLNESS.fit,fr265_large,355,1,"0, 1, 2",,,0,0
+data/watch_wellness/494532015728_WELLNESS.fit,fr265_large,484,1,0,,,0,0
+data/watch_wellness/494532015728_WELLNESS.fit,fr265_large,monitoring_info_mesgs,1,"7, activity_type, cycles_to_calories, cycles_to_distance, local_timestamp, resting_metabolic_rate, timestamp",2026-10-16T17:28:00+00:00,2026-10-16T17:28:00+00:00,0,0
+data/watch_wellness/494532015728_WELLNESS.fit,fr265_large,24,71,2,,,0,0
+data/watch_wellness/494532015728_WELLNESS.fit,fr265_large,monitoring_mesgs,291,"35, 36, 37, 38, active_calories, active_time, activity_type, ascent, current_activity_type_intensity, cycles, descent, distance, duration_min, heart_rate, intensity, moderate_activity_minutes, steps, timestamp, timestamp_16, vigorous_activity_minutes",2026-10-16T17:28:00+00:00,2026-10-16T20:29:00+00:00,166,166
+data/watch_wellness/494532015728_WELLNESS.fit,fr265_large,monitoring_hr_data_mesgs,2,"current_day_resting_heart_rate, resting_heart_rate, timestamp",2026-10-16T17:28:00+00:00,2026-10-16T20:29:00+00:00,0,0
+data/watch_wellness/494532015728_WELLNESS.fit,fr265_large,ohr_settings_mesgs,2,"enabled, timestamp",2026-10-16T17:28:00+00:00,2026-10-16T20:29:00+00:00,0,0
+data/watch_wellness/494532015728_WELLNESS.fit,fr265_large,event_mesgs,9,"activity_type, auto_activity_detect_start_timestamp, data, data16, event, event_type, start_timestamp, timestamp",2026-10-16T17:28:06+00:00,2026-10-16T20:02:00+00:00,0,0
+data/watch_wellness/494532015728_WELLNESS.fit,fr265_large,233,182,2,,,0,0
+data/watch_wellness/494532015728_WELLNESS.fit,fr265_large,408,3,"0, 1, 2, 253",,,0,0
+data/watch_wellness/494532015728_WELLNESS.fit,fr265_large,stress_level_mesgs,181,"2, 3, 4, stress_level_time, stress_level_value",,,0,0
+data/watch_wellness/494532015728_WELLNESS.fit,fr265_large,respiration_rate_mesgs,181,"respiration_rate, timestamp",2026-10-16T17:29:00+00:00,2026-10-16T20:29:00+00:00,0,0
+data/watch_wellness/494532015728_WELLNESS.fit,fr265_large,279,90,"0, 253",,,0,0
+data/watch_wellness/494532019156_METRICS.fit,fr265_large,file_id_mesgs,1,"garmin_product, manufacturer, number, product, serial_number, time_created, type",,,0,0
+data/watch_wellness/494532019156_METRICS.fit,fr265_large,file_creator_mesgs,1,"3, 4, software_version",,,0,0
+data/watch_wellness/494532019156_METRICS.fit,fr265_large,device_info_mesgs,1,"product, serial_number, software_version, timestamp",2026-10-16T20:12:52+00:00,2026-10-16T20:12:52+00:00,0,0
+data/watch_wellness/494532019156_METRICS.fit,fr265_large,241,1,"0, 1, 253",,,0,0
+data/watch_wellness/494532019156_METRICS.fit,fr265_large,410,7,"0, 1, 2, 253, 3, 4, 5, 6",,,0,0
+data/watch_wellness/494532269089_METRICS.fit,fr265_large,file_id_mesgs,1,"garmin_product, manufacturer, number, product, serial_number, time_created, type",,,0,0
+data/watch_wellness/494532269089_METRICS.fit,fr265_large,file_creator_mesgs,1,"3, 4, software_version",,,0,0
+data/watch_wellness/494532269089_METRICS.fit,fr265_large,device_info_mesgs,1,"product, serial_number, software_version, timestamp",2026-10-16T20:30:34+00:00,2026-10-16T20:30:34+00:00,0,0
+data/watch_wellness/494532269089_METRICS.fit,fr265_large,241,1,"0, 1, 253",,,0,0
+data/watch_wellness/494532269089_METRICS.fit,fr265_large,369,1,"0, 1, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 2, 20, 21, 22, 25, 253, 26, 27, 28, 29, 3, 30, 4, 5, 6, 7, 8, 9",,,0,0
+data/watch_wellness/494532269089_METRICS.fit,fr265_large,356,1,"0, 10, 11, 12, 2, 253, 3, 4, 5, 6, 7, 8, 9",,,0,0
+data/watch_wellness/494532269089_METRICS.fit,fr265_large,410,1,"0, 1, 2, 253, 3, 4, 5, 6",,,0,0
+data/watch_wellness/494532278097_METRICS.fit,fr265_large,file_id_mesgs,1,"garmin_product, manufacturer, number, product, serial_number, time_created, type",,,0,0
+data/watch_wellness/494532278097_METRICS.fit,fr265_large,file_creator_mesgs,1,"3, 4, software_version",,,0,0
+data/watch_wellness/494532278097_METRICS.fit,fr265_large,device_info_mesgs,1,"product, serial_number, software_version, timestamp",2026-10-16T20:30:33+00:00,2026-10-16T20:30:33+00:00,0,0
+data/watch_wellness/494532278097_METRICS.fit,fr265_large,241,1,"0, 1, 253",,,0,0
+data/watch_wellness/494532278097_METRICS.fit,fr265_large,294,1,"0, 1, 2, 253, 3, 4, 5, 6, 7, 8, 9",,,0,0
+data/watch_wellness/494532278097_METRICS.fit,fr265_large,232,1,"0, 1, 11, 2, 253, 3, 9",,,0,0
+data/watch_wellness/494532278097_METRICS.fit,fr265_large,378,1,"0, 1, 2, 253, 3, 4, 5",,,0,0
+data/watch_wellness/494532278097_METRICS.fit,fr265_large,339,1,"0, 1, 2, 253, 3, 4",,,0,0
+data/watch_wellness/494532521663_WELLNESS.fit,fr265_large,file_id_mesgs,1,"garmin_product, manufacturer, number, product, serial_number, time_created, type",,,0,0
+data/watch_wellness/494532521663_WELLNESS.fit,fr265_large,device_info_mesgs,1,"garmin_product, manufacturer, product, serial_number, software_version, timestamp",2026-10-16T20:29:00+00:00,2026-10-16T20:29:00+00:00,0,0
+data/watch_wellness/494532521663_WELLNESS.fit,fr265_large,software_mesgs,1,version,,,0,0
+data/watch_wellness/494532521663_WELLNESS.fit,fr265_large,355,1,"0, 1, 2",,,0,0
+data/watch_wellness/494532521663_WELLNESS.fit,fr265_large,484,1,0,,,0,0
+data/watch_wellness/494532521663_WELLNESS.fit,fr265_large,monitoring_info_mesgs,1,"7, activity_type, cycles_to_calories, cycles_to_distance, local_timestamp, resting_metabolic_rate, timestamp",2026-10-16T20:29:00+00:00,2026-10-16T20:29:00+00:00,0,0
+data/watch_wellness/494532521663_WELLNESS.fit,fr265_large,24,28,2,,,0,0
+data/watch_wellness/494532521663_WELLNESS.fit,fr265_large,monitoring_mesgs,17,"35, 36, 37, 38, active_calories, active_time, activity_type, current_activity_type_intensity, cycles, distance, duration_min, heart_rate, intensity, moderate_activity_minutes, steps, timestamp, timestamp_16",2026-10-16T20:29:00+00:00,2026-10-16T20:32:00+00:00,3,3
+data/watch_wellness/494532521663_WELLNESS.fit,fr265_large,monitoring_hr_data_mesgs,2,"current_day_resting_heart_rate, resting_heart_rate, timestamp",2026-10-16T20:29:00+00:00,2026-10-16T20:32:00+00:00,0,0
+data/watch_wellness/494532521663_WELLNESS.fit,fr265_large,ohr_settings_mesgs,2,"enabled, timestamp",2026-10-16T20:29:00+00:00,2026-10-16T20:32:00+00:00,0,0
+data/watch_wellness/494532521663_WELLNESS.fit,fr265_large,event_mesgs,1,"data, data16, event, event_type, timestamp",2026-10-16T20:29:39+00:00,2026-10-16T20:29:39+00:00,0,0
+data/watch_wellness/494532521663_WELLNESS.fit,fr265_large,stress_level_mesgs,3,"2, 3, 4, stress_level_time, stress_level_value",,,0,0
+data/watch_wellness/494532521663_WELLNESS.fit,fr265_large,respiration_rate_mesgs,3,"respiration_rate, timestamp",2026-10-16T20:30:00+00:00,2026-10-16T20:32:00+00:00,0,0
+data/watch_wellness/494532521663_WELLNESS.fit,fr265_large,279,2,"0, 253",,,0,0
+data/watch_wellness/494532521663_WELLNESS.fit,fr265_large,233,2,2,,,0,0
+data/watch_wellness/494532521663_WELLNESS.fit,fr265_large,408,1,"0, 1, 2, 253",,,0,0
+data/watch_wellness/494532528288_WELLNESS.fit,edge_840,file_id_mesgs,1,"garmin_product, manufacturer, number, product, serial_number, time_created, type",,,0,0
+data/watch_wellness/494532528288_WELLNESS.fit,edge_840,device_info_mesgs,1,"garmin_product, manufacturer, product, serial_number, software_version, timestamp",2026-10-16T20:29:00+00:00,2026-10-16T20:29:00+00:00,0,0
+data/watch_wellness/494532528288_WELLNESS.fit,edge_840,software_mesgs,1,version,,,0,0
+data/watch_wellness/494532528288_WELLNESS.fit,edge_840,355,1,"0, 1, 2",,,0,0
+data/watch_wellness/494532528288_WELLNESS.fit,edge_840,monitoring_info_mesgs,1,"activity_type, cycles_to_calories, cycles_to_distance, local_timestamp, resting_metabolic_rate, timestamp",2026-10-16T20:29:00+00:00,2026-10-16T20:29:00+00:00,0,0
+data/watch_wellness/494532528288_WELLNESS.fit,edge_840,monitoring_mesgs,7,"37, 38, active_calories, active_time, activity_type, current_activity_type_intensity, cycles, distance, duration_min, heart_rate, intensity, timestamp, timestamp_16",2026-10-16T20:29:00+00:00,2026-10-16T20:32:00+00:00,1,0
+data/watch_wellness/494532528288_WELLNESS.fit,edge_840,monitoring_hr_data_mesgs,2,"current_day_resting_heart_rate, resting_heart_rate, timestamp",2026-10-16T20:29:00+00:00,2026-10-16T20:32:00+00:00,0,0
+data/watch_wellness/494532528288_WELLNESS.fit,edge_840,ohr_settings_mesgs,2,"enabled, timestamp",2026-10-16T20:29:00+00:00,2026-10-16T20:32:00+00:00,0,0
+data/watch_wellness/494532528288_WELLNESS.fit,edge_840,24,3,2,,,0,0
+data/watch_wellness/494552312010_WELLNESS.fit,fr265_large,file_id_mesgs,1,"garmin_product, manufacturer, number, product, serial_number, time_created, type",,,0,0
+data/watch_wellness/494552312010_WELLNESS.fit,fr265_large,device_info_mesgs,1,"garmin_product, manufacturer, product, serial_number, software_version, timestamp",2026-10-16T20:32:00+00:00,2026-10-16T20:32:00+00:00,0,0
+data/watch_wellness/494552312010_WELLNESS.fit,fr265_large,software_mesgs,1,version,,,0,0
+data/watch_wellness/494552312010_WELLNESS.fit,fr265_large,355,1,"0, 1, 2",,,0,0
+data/watch_wellness/494552312010_WELLNESS.fit,fr265_large,484,1,0,,,0,0
+data/watch_wellness/494552312010_WELLNESS.fit,fr265_large,monitoring_info_mesgs,1,"7, activity_type, cycles_to_calories, cycles_to_distance, local_timestamp, resting_metabolic_rate, timestamp",2026-10-16T20:32:00+00:00,2026-10-16T20:32:00+00:00,0,0
+data/watch_wellness/494552312010_WELLNESS.fit,fr265_large,24,4,2,,,0,0
+data/watch_wellness/494552312010_WELLNESS.fit,fr265_large,monitoring_mesgs,120,"35, 36, 37, 38, active_calories, active_time, activity_type, current_activity_type_intensity, cycles, distance, duration_min, heart_rate, intensity, moderate_activity_minutes, steps, timestamp, timestamp_16",2026-10-16T20:32:00+00:00,2026-10-16T22:00:00+00:00,78,78
+data/watch_wellness/494552312010_WELLNESS.fit,fr265_large,monitoring_hr_data_mesgs,2,"current_day_resting_heart_rate, resting_heart_rate, timestamp",2026-10-16T20:32:00+00:00,2026-10-16T22:00:00+00:00,0,0
+data/watch_wellness/494552312010_WELLNESS.fit,fr265_large,ohr_settings_mesgs,1,"enabled, timestamp",2026-10-16T20:32:00+00:00,2026-10-16T20:32:00+00:00,0,0
+data/watch_wellness/494552312010_WELLNESS.fit,fr265_large,event_mesgs,13,"activity_type, auto_activity_detect_start_timestamp, data, data16, event, event_type, start_timestamp, timestamp",2026-10-16T20:32:15+00:00,2026-10-16T21:57:00+00:00,0,0
+data/watch_wellness/494552312010_WELLNESS.fit,fr265_large,233,88,2,,,0,0
+data/watch_wellness/494552312010_WELLNESS.fit,fr265_large,stress_level_mesgs,88,"2, 3, 4, stress_level_time, stress_level_value",,,0,0
+data/watch_wellness/494552312010_WELLNESS.fit,fr265_large,respiration_rate_mesgs,88,"respiration_rate, timestamp",2026-10-16T20:33:00+00:00,2026-10-16T22:00:00+00:00,0,0
+data/watch_wellness/494552312010_WELLNESS.fit,fr265_large,279,44,"0, 253",,,0,0
+data/watch_wellness/494552312010_WELLNESS.fit,fr265_large,spo2_data_mesgs,60,"mode, reading_confidence, reading_spo2, timestamp",2026-10-16T21:01:00+00:00,2026-10-16T22:00:00+00:00,0,0
+data/watch_wellness/494552312010_WELLNESS.fit,fr265_large,408,1,"0, 1, 2, 253",,,0,0
+data/watch_wellness/494552314745_WELLNESS.fit,edge_840,file_id_mesgs,1,"garmin_product, manufacturer, number, product, serial_number, time_created, type",,,0,0
+data/watch_wellness/494552314745_WELLNESS.fit,edge_840,device_info_mesgs,1,"garmin_product, manufacturer, product, serial_number, software_version, timestamp",2026-10-16T20:32:00+00:00,2026-10-16T20:32:00+00:00,0,0
+data/watch_wellness/494552314745_WELLNESS.fit,edge_840,software_mesgs,1,version,,,0,0
+data/watch_wellness/494552314745_WELLNESS.fit,edge_840,355,1,"0, 1, 2",,,0,0
+data/watch_wellness/494552314745_WELLNESS.fit,edge_840,monitoring_info_mesgs,1,"activity_type, cycles_to_calories, cycles_to_distance, local_timestamp, resting_metabolic_rate, timestamp",2026-10-16T20:32:00+00:00,2026-10-16T20:32:00+00:00,0,0
+data/watch_wellness/494552314745_WELLNESS.fit,edge_840,monitoring_mesgs,6,"37, 38, active_calories, active_time, activity_type, current_activity_type_intensity, cycles, distance, duration_min, intensity, timestamp",2026-10-16T20:32:00+00:00,2026-10-16T22:00:00+00:00,0,0
+data/watch_wellness/494552314745_WELLNESS.fit,edge_840,monitoring_hr_data_mesgs,2,"current_day_resting_heart_rate, resting_heart_rate, timestamp",2026-10-16T20:32:00+00:00,2026-10-16T22:00:00+00:00,0,0
+data/watch_wellness/494552314745_WELLNESS.fit,edge_840,ohr_settings_mesgs,1,"enabled, timestamp",2026-10-16T20:32:00+00:00,2026-10-16T20:32:00+00:00,0,0
+data/watch_wellness/494552314745_WELLNESS.fit,edge_840,event_mesgs,2,"data, data16, event, event_type, timestamp",2026-10-16T21:31:00+00:00,2026-10-16T21:46:00+00:00,0,0
+data/watch_wellness/494552314745_WELLNESS.fit,edge_840,24,2,2,,,0,0
+data/watch_wellness/494552322675_METRICS.fit,fr265_large,file_id_mesgs,1,"garmin_product, manufacturer, number, product, serial_number, time_created, type",,,0,0
+data/watch_wellness/494552322675_METRICS.fit,fr265_large,file_creator_mesgs,1,"3, 4, software_version",,,0,0
+data/watch_wellness/494552322675_METRICS.fit,fr265_large,device_info_mesgs,1,"product, serial_number, software_version, timestamp",2026-10-16T21:11:08+00:00,2026-10-16T21:11:08+00:00,0,0
+data/watch_wellness/494552322675_METRICS.fit,fr265_large,241,1,"0, 1, 253",,,0,0
+data/watch_wellness/494552322675_METRICS.fit,fr265_large,410,2,"0, 1, 2, 253, 3, 4, 5, 6",,,0,0
+data/watch_wellness/494552322675_METRICS.fit,fr265_large,294,1,"0, 1, 2, 253, 3, 4, 5, 6, 7, 8, 9",,,0,0
+data/watch_wellness/494552322675_METRICS.fit,fr265_large,232,1,"0, 1, 11, 2, 253, 3, 9",,,0,0
+data/watch_wellness/494552322675_METRICS.fit,fr265_large,378,1,"0, 1, 2, 253, 3, 4, 5",,,0,0
+data/watch_wellness/494552322675_METRICS.fit,fr265_large,339,1,"0, 1, 2, 253, 3, 4",,,0,0
+data/watch_wellness/494552322675_METRICS.fit,fr265_large,356,1,"0, 10, 11, 12, 2, 253, 3, 4, 5, 6, 7, 8, 9",,,0,0

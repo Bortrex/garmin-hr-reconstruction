@@ -1,0 +1,5 @@
+garmin-fit-sdk==21.218.0
+pytz
+numpy
+pandas
+matplotlib

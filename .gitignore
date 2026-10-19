@@ -1,0 +1,13 @@
+# Python
+.venv/
+venv/
+__pycache__/
+*.pyc
+.env
+
+# Personal Garmin recordings
+*.fit
+*.FIT
+*.gpx
+*.tcx
+data/raw/
