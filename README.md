@@ -47,3 +47,15 @@ diagnostic of recording paths, not a new reconstruction.
 ```
 
 ![Wellness anchors, MyWhoosh HR and averaging-window diagnostics](docs/images/watch_anchor_diagnostic_2026-10-12.png)
+
+## Predictor quality and stops
+
+Run the four-activity speed, terrain and stationary-period diagnostic:
+
+```powershell
+.\.venv\Scripts\python.exe scripts/audit_cycling_predictors.py
+```
+
+See the [predictor-quality report](docs/cycling_predictor_quality.md) for
+candidate MTB stops, feature coverage and limitations. This audit does not
+estimate heart rate.
