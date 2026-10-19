@@ -15,3 +15,21 @@ missing heart-rate sequence.
 Edge HR measurements. The lower panel shows intervals between stored watch
 observations. The points are recorded data, not a reconstructed continuous
 signal.*
+
+## Baseline interpolation
+
+The first baseline compares linear and PCHIP estimates built only from the
+recorded watch anchors, using the initial Edge HR measurements for evaluation.
+No extrapolation is performed, and gaps longer than 180 seconds remain missing.
+
+Using the project virtual environment:
+
+```powershell
+.\.venv\Scripts\python.exe -m pip install -r requirements-audit.txt
+.\.venv\Scripts\python.exe scripts/reconstruct_hr_baseline.py
+```
+
+See the [baseline report](docs/hr_baseline_interpolation_2026-10-16.md) for
+validation results and limitations, and the
+[comparison figure](docs/images/hr_baseline_interpolation_2026-10-16.png).
+The one-second output contains estimates, not additional measured HR samples.

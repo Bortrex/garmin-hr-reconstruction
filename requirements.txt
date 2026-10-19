@@ -3,3 +3,4 @@ pytz
 numpy
 pandas
 matplotlib
+scipy
