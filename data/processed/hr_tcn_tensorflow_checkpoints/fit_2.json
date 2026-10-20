@@ -1,0 +1,180 @@
+{
+  "normalization": {
+    "training": [
+      "road_ride_1",
+      "road_ride_2",
+      "road_ride_3",
+      "road_ride_4",
+      "road_ride_5",
+      "mtb_ride_1"
+    ],
+    "mean": [
+      136.54462401966475,
+      136.0,
+      34.381641854393735,
+      35.31140136620993,
+      69.69304322060367,
+      5.9259519608926015,
+      0.00010423980372401965,
+      3.436424410908128,
+      183.0499526963103,
+      0.09097390978209523,
+      0.0806561686263714
+    ],
+    "scale": [
+      20.933858683371362,
+      21.980428997188845,
+      23.835000198705085,
+      23.833427335442693,
+      22.082289427496626,
+      2.9114715227645016,
+      0.09826576688491417,
+      25.750853412680037,
+      117.54259745375555,
+      0.10677464666740427,
+      0.1725814594452224
+    ],
+    "features": [
+      "baseline",
+      "sparse_hr",
+      "since_anchor_s",
+      "until_anchor_s",
+      "anchor_gap_s",
+      "speed5",
+      "speed_change10",
+      "stop_age_s",
+      "restart_age_s",
+      "climb_up",
+      "climb_down",
+      "baseline_valid",
+      "since_anchor_s_valid",
+      "until_anchor_s_valid",
+      "anchor_gap_s_valid",
+      "speed5_valid",
+      "speed_change10_valid",
+      "stop_age_s_valid",
+      "restart_age_s_valid",
+      "climb_up_valid",
+      "climb_down_valid",
+      "anchor_mask",
+      "moving",
+      "stationary",
+      "movement_unknown",
+      "terrain_valid",
+      "record_valid",
+      "movement_valid"
+    ],
+    "numeric": [
+      "baseline",
+      "sparse_hr",
+      "since_anchor_s",
+      "until_anchor_s",
+      "anchor_gap_s",
+      "speed5",
+      "speed_change10",
+      "stop_age_s",
+      "restart_age_s",
+      "climb_up",
+      "climb_down"
+    ],
+    "validity": [
+      "baseline",
+      "since_anchor_s",
+      "until_anchor_s",
+      "anchor_gap_s",
+      "speed5",
+      "speed_change10",
+      "stop_age_s",
+      "restart_age_s",
+      "climb_up",
+      "climb_down"
+    ],
+    "binary": [
+      "anchor_mask",
+      "moving",
+      "stationary",
+      "movement_unknown",
+      "terrain_valid",
+      "record_valid",
+      "movement_valid"
+    ]
+  },
+  "fit": {
+    "training": [
+      "road_ride_1",
+      "road_ride_2",
+      "road_ride_3",
+      "road_ride_4",
+      "road_ride_5",
+      "mtb_ride_1"
+    ],
+    "counts": {
+      "road_ride_1": {
+        "windows": 425,
+        "loss_seconds": 13380
+      },
+      "road_ride_2": {
+        "windows": 351,
+        "loss_seconds": 11076
+      },
+      "road_ride_3": {
+        "windows": 459,
+        "loss_seconds": 14466
+      },
+      "road_ride_4": {
+        "windows": 162,
+        "loss_seconds": 5113
+      },
+      "road_ride_5": {
+        "windows": 436,
+        "loss_seconds": 13757
+      },
+      "mtb_ride_1": {
+        "windows": 353,
+        "loss_seconds": 11173
+      }
+    },
+    "windows": 2186,
+    "seconds": 19.945301699999987,
+    "loss": [
+      10.848721504211426,
+      10.329898834228516,
+      9.942721366882324,
+      9.808091163635254,
+      9.501476287841797,
+      9.428878784179688,
+      9.284038543701172,
+      9.1555814743042,
+      9.04167366027832,
+      8.8895845413208,
+      8.838438987731934,
+      8.586377143859863,
+      8.475440979003906,
+      8.242368698120117,
+      8.09676742553711,
+      8.013161659240723,
+      7.9433207511901855,
+      7.767199516296387,
+      7.921304225921631,
+      7.763526439666748,
+      7.633850574493408,
+      7.557037353515625,
+      7.462015151977539,
+      7.273292541503906,
+      7.3432722091674805,
+      7.207569122314453,
+      7.142473220825195,
+      7.209235668182373,
+      7.243836402893066,
+      7.065797805786133
+    ]
+  },
+  "source_sha256": {
+    "road_ride_1": "00b3547bbfa19625537498d96a613b8e20ff1c663550b925e717bec170d82dfe",
+    "road_ride_2": "d05567e7ad06a89a88d29b36e8b4b7f155cf02be2ea062f4dfc3245230f329eb",
+    "road_ride_3": "1b821f344c87e5a0449d705a1bd33fa9cd3948e77e7eb728a92e2b9c8f894d1b",
+    "road_ride_4": "012b37e7c6bf149219547774335130f132600fafe7e484eea7cf4fe602de96a2",
+    "road_ride_5": "c03512e38cd028d67255d1f897c830841efe16f445f65107a5c63cd68439142b",
+    "mtb_ride_1": "d3aa7d72dcc6798175b3d34f85f44b14dabceb495900582613b310ca96f0fcc6"
+  }
+}
