@@ -25,7 +25,7 @@ No extrapolation is performed, and gaps longer than 180 seconds remain missing.
 Using the project virtual environment:
 
 ```powershell
-.\.venv\Scripts\python.exe -m pip install -r requirements-audit.txt
+.\.venv\Scripts\python.exe -m pip install -r requirements.txt
 .\.venv\Scripts\python.exe scripts/reconstruct_hr_baseline.py
 ```
 
@@ -72,3 +72,45 @@ observation simulations, and separate virtual/initial-MTB diagnostics:
 See the [feasibility report](docs/hr_physiological_feasibility.md) and
 [comparison figure](docs/images/hr_physiological_feasibility.png). This
 experiment does not produce a final reconstructed MTB heart-rate series.
+
+## Gradient-boosted residual reconstruction
+
+The final experiment adds a HistGradientBoostingRegressor correction to linear
+interpolation. ML-A uses sparse-anchor context and movement; ML-B adds audited
+climbing-rate features. Both use fixed complexity, gap handling, residual
+smoothing and an anchor taper. Hidden reference HR is excluded from inputs.
+
+In leave-one-outdoor-ride-out evaluation, mean MAE/RMSE across three sampling
+phases was 3.77/5.52 BPM and 3.64/5.37 BPM for ML-B, compared with linear's
+4.13/6.20 and 3.92/5.99 BPM. ML-A showed no meaningful consistent improvement.
+ML-B passed the predefined accuracy, dynamics, stability and target-overlap
+checks and was selected. Its MTB overlap MAE/RMSE was 12.57/16.68 BPM, versus
+12.98/17.39 BPM for linear interpolation.
+
+See the [evaluation report](docs/hr_ml_residual_evaluation.md),
+[comparison figure](docs/images/hr_ml_residual_evaluation.png), and
+[phase metrics](data/processed/hr_ml_residual_metrics.csv).
+
+The [final reconstruction report](docs/hr_final_reconstruction_2026-10-16.md),
+[complete-ride figure](docs/images/hr_reconstructed_2026-10-16.png), and
+[one-second CSV](data/processed/hr_reconstructed_2026-10-16.csv) preserve all
+1,525 Edge HR observations and all 158 watch summaries separately. The supported
+recorded/estimated sequence has mean 120.73 BPM, peak 172 BPM and 99.52% coverage;
+the final 50 seconds remain unsupported. These are estimated sequence statistics,
+not recovered physiological measurements or a guaranteed true peak.
+
+Reproduce using the project environment (scikit-learn 1.1.3 was already installed
+and is now declared in `requirements.txt`):
+
+```powershell
+.\.venv\Scripts\python.exe -m pip install -r requirements.txt
+.\.venv\Scripts\python.exe scripts/evaluate_hr_ml_residual.py
+```
+
+Only two outdoor reference rides are available, with little stationary training
+data. Stop/restart errors did not improve consistently. Wellness averaging,
+sensor-path differences and terrain accuracy remain
+uncertain; sparse summaries are treated as pseudo-point constraints explicitly.
+The 1 Hz output cannot establish the true missing short HR fluctuations.
+Development was AI-assisted; reported results come from executing the scripts
+on the local files. Original FIT files and previous analyses remain unchanged.
