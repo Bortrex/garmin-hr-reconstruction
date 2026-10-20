@@ -12,3 +12,7 @@ __pycache__/
 *.gpx
 *.tcx
 data/raw/
+
+# Final reconstruction: local model/audit and sensitive activity sequence
+results/final/
+data/processed/hr_tcn_soft_average_2026-10-16.csv

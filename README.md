@@ -152,3 +152,13 @@ See the [comparison figure](docs/images/hr_ml_window_evaluation.png),
 ```powershell
 .\.venv\Scripts\python.exe scripts/evaluate_hr_ml_windows.py
 ```
+
+<!-- soft-average-final:start -->
+## Final experimental reconstruction — soft wellness averages
+
+The final [soft-average reconstruction report](docs/hr_final_soft_average_reconstruction.md) uses one fresh trial-10 TCN trained on seven real rides. Watch summaries are assumed centered 60-second averages and used as soft constraints; predictions need not pass through their timestamps. Supported combined mean/max HR: 121.64/176.23 BPM; coverage 99.52%. Original Edge HR is preserved. The unknown signal has not been recovered as a measurement.
+
+![Final experimental soft-average reconstruction](docs/images/hr_tcn_soft_average_2026-10-16.png)
+
+FIT export is blocked by unsupported original Garmin messages/fields; no uploadable FIT was produced. The existing gradient-boosting benchmark and all historical reports remain accessible. Implementation was AI-assisted; results came from local script execution.
+<!-- soft-average-final:end -->
