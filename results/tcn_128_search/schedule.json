@@ -1,0 +1,271 @@
+{
+  "version": 1,
+  "fixed": {
+    "input_seconds": 128,
+    "output_seconds": 16,
+    "left": 56,
+    "features": 28,
+    "train_stride": 16,
+    "inference_stride": 8,
+    "kernel": 3,
+    "convolutions": 2,
+    "epochs": 30,
+    "seed": 265,
+    "huber_delta": 5.0,
+    "temporal_seconds": 10,
+    "lambda_temporal": 0.5,
+    "optimizer": "Adam",
+    "dtype": "float32"
+  },
+  "training": [
+    "road_ride_1",
+    "road_ride_2",
+    "road_ride_3",
+    "road_ride_4",
+    "road_ride_5",
+    "mtb_ride_1"
+  ],
+  "validation": "mtb_ride_2",
+  "objective": "mean point-anchor postprocessed validation MAE over phases 0/20/40",
+  "max_trials": 16,
+  "max_total_seconds": 4200,
+  "scheduling_seconds": 3900,
+  "watchdog_seconds": 4140,
+  "trials": [
+    {
+      "trial_id": "trial_01",
+      "dilations": [
+        1,
+        2,
+        4,
+        8,
+        8
+      ],
+      "channels": 16,
+      "learning_rate": 0.001,
+      "batch_size": 32,
+      "receptive_field": 93,
+      "parameters": 8321
+    },
+    {
+      "trial_id": "trial_02",
+      "dilations": [
+        1,
+        2,
+        4,
+        8,
+        12
+      ],
+      "channels": 12,
+      "learning_rate": 0.0003,
+      "batch_size": 32,
+      "receptive_field": 109,
+      "parameters": 4801
+    },
+    {
+      "trial_id": "trial_03",
+      "dilations": [
+        1,
+        2,
+        4,
+        8,
+        12
+      ],
+      "channels": 16,
+      "learning_rate": 0.0003,
+      "batch_size": 64,
+      "receptive_field": 109,
+      "parameters": 8321
+    },
+    {
+      "trial_id": "trial_04",
+      "dilations": [
+        1,
+        2,
+        4,
+        8,
+        8
+      ],
+      "channels": 24,
+      "learning_rate": 0.001,
+      "batch_size": 64,
+      "receptive_field": 93,
+      "parameters": 18241
+    },
+    {
+      "trial_id": "trial_05",
+      "dilations": [
+        1,
+        2,
+        4,
+        8,
+        12
+      ],
+      "channels": 24,
+      "learning_rate": 0.0003,
+      "batch_size": 32,
+      "receptive_field": 109,
+      "parameters": 18241
+    },
+    {
+      "trial_id": "trial_06",
+      "dilations": [
+        1,
+        2,
+        4,
+        8,
+        8
+      ],
+      "channels": 16,
+      "learning_rate": 0.001,
+      "batch_size": 64,
+      "receptive_field": 93,
+      "parameters": 8321
+    },
+    {
+      "trial_id": "trial_07",
+      "dilations": [
+        1,
+        2,
+        4,
+        8
+      ],
+      "channels": 24,
+      "learning_rate": 0.0003,
+      "batch_size": 32,
+      "receptive_field": 61,
+      "parameters": 14737
+    },
+    {
+      "trial_id": "trial_08",
+      "dilations": [
+        1,
+        2,
+        4,
+        8
+      ],
+      "channels": 16,
+      "learning_rate": 0.0003,
+      "batch_size": 32,
+      "receptive_field": 61,
+      "parameters": 6753
+    },
+    {
+      "trial_id": "trial_09",
+      "dilations": [
+        1,
+        2,
+        4,
+        8,
+        8
+      ],
+      "channels": 24,
+      "learning_rate": 0.0003,
+      "batch_size": 64,
+      "receptive_field": 93,
+      "parameters": 18241
+    },
+    {
+      "trial_id": "trial_10",
+      "dilations": [
+        1,
+        2,
+        4,
+        8
+      ],
+      "channels": 16,
+      "learning_rate": 0.0003,
+      "batch_size": 64,
+      "receptive_field": 61,
+      "parameters": 6753
+    },
+    {
+      "trial_id": "trial_11",
+      "dilations": [
+        1,
+        2,
+        4,
+        8,
+        12
+      ],
+      "channels": 16,
+      "learning_rate": 0.001,
+      "batch_size": 64,
+      "receptive_field": 109,
+      "parameters": 8321
+    },
+    {
+      "trial_id": "trial_12",
+      "dilations": [
+        1,
+        2,
+        4,
+        8
+      ],
+      "channels": 24,
+      "learning_rate": 0.001,
+      "batch_size": 32,
+      "receptive_field": 61,
+      "parameters": 14737
+    },
+    {
+      "trial_id": "trial_13",
+      "dilations": [
+        1,
+        2,
+        4,
+        8,
+        8
+      ],
+      "channels": 24,
+      "learning_rate": 0.0003,
+      "batch_size": 32,
+      "receptive_field": 93,
+      "parameters": 18241
+    },
+    {
+      "trial_id": "trial_14",
+      "dilations": [
+        1,
+        2,
+        4,
+        8,
+        12
+      ],
+      "channels": 12,
+      "learning_rate": 0.0003,
+      "batch_size": 64,
+      "receptive_field": 109,
+      "parameters": 4801
+    },
+    {
+      "trial_id": "trial_15",
+      "dilations": [
+        1,
+        2,
+        4,
+        8,
+        8
+      ],
+      "channels": 16,
+      "learning_rate": 0.0003,
+      "batch_size": 32,
+      "receptive_field": 93,
+      "parameters": 8321
+    },
+    {
+      "trial_id": "trial_16",
+      "dilations": [
+        1,
+        2,
+        4,
+        8
+      ],
+      "channels": 12,
+      "learning_rate": 0.001,
+      "batch_size": 64,
+      "receptive_field": 61,
+      "parameters": 3913
+    }
+  ]
+}

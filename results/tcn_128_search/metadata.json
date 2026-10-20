@@ -1,0 +1,80 @@
+{
+  "source_sha256": {
+    "AGENTS.md": "6e418fd21a0ac2a98f201b583971eb10326a4bdb3832385643ae81b403403d0e",
+    "data/mtb_ride_1.fit": "d3aa7d72dcc6798175b3d34f85f44b14dabceb495900582613b310ca96f0fcc6",
+    "data/mtb_ride_2.fit": "b59f70f6798861bf03806fec659a48ffe5d733f970ca4986041c5e82c5ed3418",
+    "data/processed/hr_seven_ride_window_metrics.csv": "b7a28bc697d657a5828ee1883b33ec7e25e561336d4dab181c166d2b83028d0e",
+    "data/processed/hr_tcn_tensorflow_metrics.csv": "0ec5a212b0f907f60e8c282db1c900e748912c4433bc45b594b2827879c18de5",
+    "data/processed/watch_hr_ride_2026-10-16.csv": "a371660cd0478e48e3b2a871320975f134ff2c9dfc6e4131afce095f5d3349d4",
+    "data/road_ride_1.fit": "00b3547bbfa19625537498d96a613b8e20ff1c663550b925e717bec170d82dfe",
+    "data/road_ride_2.fit": "d05567e7ad06a89a88d29b36e8b4b7f155cf02be2ea062f4dfc3245230f329eb",
+    "data/road_ride_3.fit": "1b821f344c87e5a0449d705a1bd33fa9cd3948e77e7eb728a92e2b9c8f894d1b",
+    "data/road_ride_4.fit": "012b37e7c6bf149219547774335130f132600fafe7e484eea7cf4fe602de96a2",
+    "data/road_ride_5.fit": "c03512e38cd028d67255d1f897c830841efe16f445f65107a5c63cd68439142b",
+    "requirements.txt": "96c9548f508de4b9ccfa6e59b3c8267d830e3a84510b49fff73a1e45ef007447",
+    "scripts/analyze_hr_tcn_128_search.py": "0e79bbb72163470357b1659f582cc956d4c2451c6031e4a2bffbea77d2a75741",
+    "scripts/audit_cycling_predictors.py": "21eacbbd3e58521cdb5d6b75e2ef597831015507614315d4a033985ad114547b",
+    "scripts/audit_watch_wellness_hr.py": "4ed1354f3accf8047d7901de9dac9cece5f9b6dcef3c0dea0b330f80b9e12441",
+    "scripts/compare_strava_garmin_elevation.py": "26148dabd43216b5b8cab37134cb8ad29e137a89dc9cc81b2e27e9db46d65b15",
+    "scripts/diagnose_watch_anchors.py": "f9b7f1ff649423f427f3ec1c241d1d8a728cae92437b19c121455d7c849b5bb9",
+    "scripts/evaluate_hr_interpolation.py": "1a6173c91bebb9ea51323a7618f1a618e07624fae3586f51ae6b776e422c69bf",
+    "scripts/evaluate_hr_ml_residual.py": "7ed16a40c6d8c40041c272e5a914674a1b545abc081f4444365d9f2c0edaf36c",
+    "scripts/evaluate_hr_ml_windows.py": "8f9f64960175409727deb330fb0dfc5efb345a2f29500bb3e30c3d18946c128c",
+    "scripts/evaluate_hr_mtb_training.py": "a4c1263743a387d044dd236fe976828c01e0581a184f5f7b1454910b21ce1c26",
+    "scripts/evaluate_hr_physiology.py": "0b13d5e520a7a8ee4d6b7b9043600aca3138dcf2500a4bc81be901a776308dea",
+    "scripts/evaluate_hr_seven_ride_window.py": "69d64b97eea21ae6740a8fb85fd1b91864b3170471d7574cd5ceaae9e21a7189",
+    "scripts/evaluate_hr_tcn_local.py": "d09d834441b15766e255b4e1032e13afa7b63f2835082b87693865c25d2c687b",
+    "scripts/evaluate_hr_tcn_tensorflow.py": "400241e39df2c3f1369f8401d50aa512da3fa9999ccbaa7dd6a866a322832901",
+    "scripts/evaluate_hr_virtual_augmentation.py": "ae2a45070450d8665364e0b4da4e6cd1c22d8627ffaf341bddeb647d4d833b3a",
+    "scripts/reconstruct_hr_baseline.py": "ccccc8aaa36afa0cd22e956d94313233d37b446c5ea61a20322adfd66060e4dd",
+    "scripts/search_hr_tcn_128.py": "c77c6bd6194e69dbc36eabbc0ef333b9e33cdec9ae5ce73ec156187a35db3936"
+  },
+  "environment": {
+    "os": "Windows-10-10.0.26300-SP0",
+    "python": "3.9.7 (default, Sep 16 2021, 16:59:28) [MSC v.1916 64 bit (AMD64)]",
+    "executable": "C:\\ProgramData\\Anaconda3\\envs\\deep\\python.exe",
+    "tensorflow": "2.6.1",
+    "keras": "2.6.0",
+    "devices": [
+      "PhysicalDevice(name='/physical_device:GPU:0', device_type='GPU')"
+    ],
+    "gpu_details": [
+      {
+        "device_name": "NVIDIA GeForce RTX 3080 Laptop GPU",
+        "compute_capability": [
+          8,
+          6
+        ]
+      }
+    ],
+    "operation_device": "/job:localhost/replica:0/task:0/device:GPU:0",
+    "operation_sum": 262144.0,
+    "sdk": "C:\\Projects\\Py\\git\\vtt_apero\\.venv\\Lib\\site-packages\\garmin_fit_sdk\\__init__.py",
+    "numpy": "1.23.5",
+    "pandas": "1.3.3",
+    "tf_memory_bytes": {
+      "current": 17920,
+      "peak": 50688
+    },
+    "device_memory_inventory": "NVIDIA GeForce RTX 3080 Laptop GPU, 8192 MiB, 6077 MiB"
+  },
+  "fixed": {
+    "input_seconds": 128,
+    "output_seconds": 16,
+    "left": 56,
+    "features": 28,
+    "train_stride": 16,
+    "inference_stride": 8,
+    "kernel": 3,
+    "convolutions": 2,
+    "epochs": 30,
+    "seed": 265,
+    "huber_delta": 5.0,
+    "temporal_seconds": 10,
+    "lambda_temporal": 0.5,
+    "optimizer": "Adam",
+    "dtype": "float32"
+  },
+  "objective": "mean point-anchor postprocessed validation MAE over phases 0/20/40",
+  "preprocessing_cache": "in memory only"
+}

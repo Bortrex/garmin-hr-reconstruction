@@ -1,0 +1,8 @@
+{
+  "trial_id": "trial_10",
+  "validation_mae": 4.316545130564615,
+  "checkpoint": "trial_10/model.h5",
+  "normalization": "normalization.json",
+  "objective": "mean point-anchor postprocessed validation MAE over phases 0/20/40",
+  "caveat": "Selected on one tuning activity; no promotion or final fit"
+}

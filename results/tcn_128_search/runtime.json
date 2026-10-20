@@ -1,0 +1,8 @@
+{
+  "active": false,
+  "cumulative_seconds": 926.9370000000345,
+  "limit_seconds": 4200,
+  "scheduling_seconds": 3900,
+  "watchdog_seconds": 4140,
+  "stop_reason": "Every scheduled trial already has a terminal status"
+}

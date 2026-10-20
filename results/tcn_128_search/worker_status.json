@@ -1,0 +1,5 @@
+{
+  "status": "stopped",
+  "completed": 16,
+  "reason": "Schedule finished, no measured-cost room, or time/interruption stop"
+}
