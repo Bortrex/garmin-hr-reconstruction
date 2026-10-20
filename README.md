@@ -10,6 +10,10 @@ MAE and RMSE do not both improve on both held-out MTB rides. MTB 1 MAE/RMSE: 4.1
 
 See the [technical report](docs/hr_seven_ride_window_benchmark.md) and [candidate CSV](data/processed/hr_seven_ride_candidate_2026-10-16.csv).
 
+A separate [budget-limited TCN search](docs/hr_tcn_128_search_usage.md) is prepared
+for manual execution in Conda `deep`. It defaults to a dry run; no search results
+or model promotion are included in this preparation.
+
 ```powershell
 .venv\Scripts\python.exe scripts/evaluate_hr_seven_ride_window.py
 ```
