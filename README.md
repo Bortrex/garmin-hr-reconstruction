@@ -1,5 +1,21 @@
 # VTT Apéro
 
+## Seven-Ride Window-Enhanced HR Reconstruction
+
+The principal experimental benchmark combines five outdoor road rides and two MTB rides. Window v2 uses 50 temporal/context features and gradient boosting to predict corrections to linear HR interpolation. Its fixed model is evaluated with two MTB holdouts before one final fit on all seven rides; previous reconstructions remain available below.
+
+MAE and RMSE do not both improve on both held-out MTB rides. MTB 1 MAE/RMSE: 4.147/6.344 BPM (four-ride 4.146/6.324). MTB 2 MAE/RMSE: 4.405/6.018 BPM (four-ride 4.441/6.080). High-HR, peak-amplitude and recovery MAE improve on 1/2, 0/2 and 2/2 rides respectively. The October 16 estimate has supported mean HR 121.60 BPM, peak 172.00 BPM and 99.52% coverage. Garmin Edge/watch observations remain recorded data; reconstructed seconds are estimates. Sparse watch observations, uncertain short HR peaks, sensor errors and limited independent MTB validation remain limitations. This is the new experimental benchmark to beat, not proof of true second-by-second HR.
+
+![Seven-ride window-enhanced heart-rate reconstruction](docs/images/hr_seven_ride_window_benchmark.png)
+
+See the [technical report](docs/hr_seven_ride_window_benchmark.md) and [candidate CSV](data/processed/hr_seven_ride_candidate_2026-10-16.csv).
+
+```powershell
+.venv\Scripts\python.exe scripts/evaluate_hr_seven_ride_window.py
+```
+
+*Historical sections below retain their original datasets and model status.*
+
 ## Initial state: Heart-rate data before reconstruction
 
 During the MTB ride on October 16, 2026, the Garmin Edge 840 lost the
