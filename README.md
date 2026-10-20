@@ -59,3 +59,16 @@ Run the four-activity speed, terrain and stationary-period diagnostic:
 See the [predictor-quality report](docs/cycling_predictor_quality.md) for
 candidate MTB stops, feature coverage and limitations. This audit does not
 estimate heart rate.
+
+## Physiological predictor feasibility
+
+Run the first-order HR model comparison with outdoor ride holdouts, sparse
+observation simulations, and separate virtual/initial-MTB diagnostics:
+
+```powershell
+.\.venv\Scripts\python.exe scripts/evaluate_hr_physiology.py
+```
+
+See the [feasibility report](docs/hr_physiological_feasibility.md) and
+[comparison figure](docs/images/hr_physiological_feasibility.png). This
+experiment does not produce a final reconstructed MTB heart-rate series.
