@@ -114,3 +114,21 @@ uncertain; sparse summaries are treated as pseudo-point constraints explicitly.
 The 1 Hz output cannot establish the true missing short HR fluctuations.
 Development was AI-assisted; reported results come from executing the scripts
 on the local files. Original FIT files and previous analyses remain unchanged.
+
+## Temporal-window experiment (unapproved candidate)
+
+The [window evaluation](docs/hr_ml_window_evaluation.md) adds four 30-second
+regions around each target time, using only observed cycling measurements.
+With unchanged model settings and training rows, road MAE/RMSE improves to
+3.50/5.14 and 3.34/4.97 BPM. The MTB overlap gain is small, and some peak/high-HR
+diagnostics worsen. Promotion to version 2 is recommended subject to approval;
+**ML-B version 1 remains current and its final reconstruction is unchanged.**
+
+See the [comparison figure](docs/images/hr_ml_window_evaluation.png),
+[phase metrics](data/processed/hr_ml_window_metrics.csv), and separate
+[candidate CSV](data/processed/hr_ml_window_candidate_2026-10-16.csv) and
+[candidate figure](docs/images/hr_ml_window_candidate_2026-10-16.png).
+
+```powershell
+.\.venv\Scripts\python.exe scripts/evaluate_hr_ml_windows.py
+```
